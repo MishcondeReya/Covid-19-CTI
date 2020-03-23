@@ -20,6 +20,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - 19 March 2020. ElecticIQ Investigating Phishing Attacks Exploiting Coronavirus Themes. https://blog.eclecticiq.com/covid-19/investigating-phishing-attacks-exploiting-coronavirus-covid-19-themes
 - 18 March 2020 Ransomware Gangs to Stop Attacking Health Orgs During Pandemic https://www.bleepingcomputer.com/news/security/ransomware-gangs-to-stop-attacking-health-orgs-during-pandemic/
 - 12 March 2020 RecordFuture - Capitalizing on Coronavirus Panic, Threat Actors Target Victims Worldwide https://www.recordedfuture.com/coronavirus-panic-exploit/
+- 7 Feb 2020. Kaspersky - Coronavirus phishing - https://www.kaspersky.com/blog/coronavirus-phishing/32395/
 
 # Incidents
 - 14 March 2020 BlackWater Malware Abuses Cloudflare Workers for C2 Communication. https://www.bleepingcomputer.com/news/security/blackwater-malware-abuses-cloudflare-workers-for-c2-communication/
