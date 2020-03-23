@@ -14,6 +14,9 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 # Reports
 
 - RiskIQ Covid-19 daily update. https://www.riskiq.com/blog/analyst/covid19-daily-update/
+- 23 March Fake Coronavirus ‘Vaccine’ Website Busted in DoJ Takedown https://threatpost.com/fake-coronavirus-vaccine-website-busted-in-doj-takedown/154031/
+- 20 March 2020, FBI Sees Rise in Farud Schemes Related to the Coronavirus (COVID-19) Pandemic
+ https://www.ic3.gov/media/2020/200320.aspx
 - 20 March 2020, Microsoft - Protecting against coronavirus themed phishing attacks https://www.microsoft.com/security/blog/2020/03/20/protecting-against-coronavirus-themed-phishing-attacks/.
 - 20 March 2020 SentinelOne - Threat Intel Update | Cyber Attacks Leveraging the COVID-19/CoronaVirus Pandemic. https://labs.sentinelone.com/threat-intel-update-cyber-attacks-leveraging-the-covid-19-coronavirus-pandemic/
 - 20 March 2020 Trend Micro - Developing Story: Coronavirus Used in Malicious Campaigns. https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/coronavirus-used-in-spam-malware-file-names-and-malicious-domains
