@@ -8,6 +8,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Covid-19 Host Reputation feed. https://cv-feed.pocnroll.com/
 - ThreatConnect Dashboards and Playbooks. https://threatconnect.com/blog/playbook-fridays-covid-19-dashboard-metrics-and-search/
 - Joe Tidy - Phishing Scams Search. https://coronavirusphishing.com/
+- APKLab - App Malware samples and domain list (clean and malicious). https://www.apklab.io/covid19
 
 # Reports
 
