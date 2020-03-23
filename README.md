@@ -1,5 +1,6 @@
 # Covid-19-CTI
-A collection of Covid-19 related threat intelligence.
+
+A collection of Covid-19 related threat intelligence and related resources. Please submit resources to Cyber.IntelligenceTeam@Mishcon.com or submit a pull request. 
 
 # IOC Sources
 
