@@ -14,12 +14,13 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 # Reports
 
 - RiskIQ Covid-19 daily update. https://www.riskiq.com/blog/analyst/covid19-daily-update/
-- 23 March Fake Coronavirus ‘Vaccine’ Website Busted in DoJ Takedown https://threatpost.com/fake-coronavirus-vaccine-website-busted-in-doj-takedown/154031/
-- 20 March 2020, FBI Sees Rise in Farud Schemes Related to the Coronavirus (COVID-19) Pandemic
+- 22 March 2020 US DOJ - US Justice Department issues enforcement action against fraud wesbite https://www.justice.gov/opa/pr/justice-department-files-its-first-enforcement-action-against-covid-19-fraud
+- 20 March 2020, FBI - FBI Sees Rise in Farud Schemes Related to the Coronavirus (COVID-19) Pandemic
  https://www.ic3.gov/media/2020/200320.aspx
 - 20 March 2020, Microsoft - Protecting against coronavirus themed phishing attacks https://www.microsoft.com/security/blog/2020/03/20/protecting-against-coronavirus-themed-phishing-attacks/.
 - 20 March 2020 SentinelOne - Threat Intel Update | Cyber Attacks Leveraging the COVID-19/CoronaVirus Pandemic. https://labs.sentinelone.com/threat-intel-update-cyber-attacks-leveraging-the-covid-19-coronavirus-pandemic/
 - 20 March 2020 Trend Micro - Developing Story: Coronavirus Used in Malicious Campaigns. https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/coronavirus-used-in-spam-malware-file-names-and-malicious-domains
+- 19 March 2020 EEAS SPECIAL REPORT: DISINFORMATION ON THE CORONAVIRUS – SHORT ASSESSMENT OF THE INFORMATION ENVIRONMENThttps://euvsdisinfo.eu/eeas-special-report-disinformation-on-the-coronavirus-short-assessment-of-the-information-environment/
 - 19 March 2020 Digital Shadows - Covid-19 Dark Web reactions. https://www.digitalshadows.com/blog-and-research/covid-19-dark-web-reactions/
 - 19 March 2020 EFF Covid-19 phishing guide. https://www.eff.org/deeplinks/2020/03/phishing-time-covid-19-how-recognize-malicious-coronavirus-phishing-scams
 - 19 March 2020. ElecticIQ Investigating Phishing Attacks Exploiting Coronavirus Themes. https://blog.eclecticiq.com/covid-19/investigating-phishing-attacks-exploiting-coronavirus-covid-19-themes
