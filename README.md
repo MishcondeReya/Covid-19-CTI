@@ -14,6 +14,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 # Reports
 
 - RiskIQ Covid-19 daily update. https://www.riskiq.com/blog/analyst/covid19-daily-update/
+- 23 March 2020 Fake “Corona Antivirus” distributes BlackNET remote administration tool https://blog.malwarebytes.com/threat-analysis/2020/03/fake-corona-antivirus-distributes-blacknet-remote-administration-tool/
 - 22 March 2020 US DOJ - US Justice Department issues enforcement action against fraud wesbite https://www.justice.gov/opa/pr/justice-department-files-its-first-enforcement-action-against-covid-19-fraud
 - 20 March 2020, FBI - FBI Sees Rise in Farud Schemes Related to the Coronavirus (COVID-19) Pandemic
  https://www.ic3.gov/media/2020/200320.aspx
