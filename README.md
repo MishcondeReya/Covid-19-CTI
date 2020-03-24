@@ -25,6 +25,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 # Reports
 
 - RiskIQ Covid-19 daily update. https://www.riskiq.com/blog/analyst/covid19-daily-update/
+- 23 March 2020. Anomoli COVID-19 Themes Are Being Utilized by Threat Actors of Varying Sophistication. https://www.anomali.com/blog/covid-19-themes-are-being-utilized-by-threat-actors-of-varying-sophistication
 - 23 March 2020 Fake “Corona Antivirus” distributes BlackNET remote administration tool https://blog.malwarebytes.com/threat-analysis/2020/03/fake-corona-antivirus-distributes-blacknet-remote-administration-tool/
 - 22 March 2020 US DOJ - US Justice Department issues enforcement action against fraud wesbite https://www.justice.gov/opa/pr/justice-department-files-its-first-enforcement-action-against-covid-19-fraud
 - 20 March 2020 New York asks domain registrars to crack down on sites used for coronavirus scams https://www.zdnet.com/article/new-york-asks-domain-registrars-to-crack-down-on-sites-used-for-coronavirus-scams/
@@ -42,7 +43,9 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - 16 March 2020. National Cyber Security Centre. Cyber experts step in as criminals seek to exploit Coronavirus fears. https://www.ncsc.gov.uk/news/cyber-experts-step-criminals-exploit-coronavirus
 - 13 March 2020 State-sponsored attackers using COVID-19 Lures (Russia, China, North Korea) https://www.zdnet.com/article/state-sponsored-hackers-are-now-using-coronavirus-lures-to-infect-their-targets/
 - 12 March 2020 RecordFuture - Capitalizing on Coronavirus Panic, Threat Actors Target Victims Worldwide https://www.recordedfuture.com/coronavirus-panic-exploit/
+- 13 Feb 2020. Cisco Talos. Threat actors attempt to capitalize on coronavirus outbreak https://blog.talosintelligence.com/2020/02/coronavirus-themed-malware.html
 - 7 Feb 2020. Kaspersky - Coronavirus phishing - https://www.kaspersky.com/blog/coronavirus-phishing/32395/
+- Jan 2020. Checkpoint. Coronavirus-themed spam spreads malicious Emotet malware https://blog.checkpoint.com/2020/02/13/january-2020s-most-wanted-malware-coronavirus-themed-spam-spreads-malicious-emotet-malware/
 
 # Remote Working 
 
