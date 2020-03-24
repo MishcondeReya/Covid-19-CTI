@@ -30,8 +30,10 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - 7 Feb 2020. Kaspersky - Coronavirus phishing - https://www.kaspersky.com/blog/coronavirus-phishing/32395/
 
 # Incidents
+- 23 March 2020 HHS.gov Open Redirect Used by Coronavirus Phishing to Spread Malware https://www.bleepingcomputer.com/news/security/hhsgov-open-redirect-used-by-coronavirus-phishing-to-spread-malware/
 - 14 March 2020 BlackWater Malware Abuses Cloudflare Workers for C2 Communication. https://www.bleepingcomputer.com/news/security/blackwater-malware-abuses-cloudflare-workers-for-c2-communication/
 - 13 March 2020 Czech Covid-19 testing hospital hit with Ransomware. https://brnodaily.com/2020/03/13/news/serious-cyber-attack-targets-brno-university-hospital/
+- 13 March 2020. Phishing campaign targeting World Health Organisation using typosquatted domain https://www.reuters.com/article/us-health-coronavirus-who-hack-exclusive-idUSKBN21A3BN
 - 09 March 2020 COVID-19, Info Stealer &  the Map of Threats. https://blog.reasonsecurity.com/2020/03/09/covid-19-info-stealer-the-map-of-threats-threat-analysis-report/
 - 04 March 2020 Trickbot campaign targets Coronavirus fears in Italy https://news.sophos.com/en-us/2020/03/04/trickbot-campaign-targets-coronavirus-fears-in-italy/
 - 08 March 2020 Mobile Coronavirus Tracking App Coughs Up Ransomware. https://www.domaintools.com/resources/blog/covidlock-mobile-coronavirus-tracking-app-coughs-up-ransomware#
