@@ -25,6 +25,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 # Reports
 
 - RiskIQ Covid-19 daily update. https://www.riskiq.com/blog/analyst/covid19-daily-update/
+- Silobreaker. Covid-19 Threat Daily Update. https://www.silobreaker.com/tag/covid19-threat-digest/
 - 23 March 2020. Anomoli COVID-19 Themes Are Being Utilized by Threat Actors of Varying Sophistication. https://www.anomali.com/blog/covid-19-themes-are-being-utilized-by-threat-actors-of-varying-sophistication
 - 23 March 2020 Fake “Corona Antivirus” distributes BlackNET remote administration tool https://blog.malwarebytes.com/threat-analysis/2020/03/fake-corona-antivirus-distributes-blacknet-remote-administration-tool/
 - 22 March 2020 US DOJ - US Justice Department issues enforcement action against fraud wesbite https://www.justice.gov/opa/pr/justice-department-files-its-first-enforcement-action-against-covid-19-fraud
@@ -51,9 +52,10 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 
 - 20 March 2020 Fireeye Remote Work in an Age of COVID-19 — Threat Modeling. https://www.fireeye.com/blog/executive-perspective/2020/03/remote-work-in-an-age-of-covid-19-threat-modeling-the-risks.html
 - 19 March 2020. NIST. Telework Security Basics.  https://www.nist.gov/blogs/cybersecurity-insights/telework-security-basics
+- 19 March 2020. LexisNexis. COVID-19: Cyber and Data Security Legal Checklist https://www.lexology.com/library/detail.aspx?g=a184ab86-5d62-4514-a39e-c0f0c0ee693d
 - 17 March 2020. NIST. Preventing Eavesdropping and Protecting Privacy on Virtual Meetings https://www.nist.gov/blogs/cybersecurity-insights/preventing-eavesdropping-and-protecting-privacy-virtual-meetings
 - 17 March 2020. National Cyber Security Centre - Home Working: preparing your organisation and staff. https://www.ncsc.gov.uk/guidance/home-working
 - 16 March 2020. ESET - COVID‑19 and the shift to remote work https://www.welivesecurity.com/2020/03/16/covid19-forced-workplace-exodus/
 - 11 March 2020 Crowdstrike Cybersecurity in the Time of COVID-19: Keys to Embracing (and Securing) a Remote Workforce. https://www.crowdstrike.com/blog/securing-a-remote-workforce-in-the-time-of-covid-19/
 - March 6 2020. Cybersecurity and Infrastructure Security Agency (CISA).  https://www.cisa.gov/sites/default/files/publications/20_0306_cisa_insights_risk_management_for_novel_coronavirus.pdf
-- Cyber Readiness Institue. Securing a Remote Workforce. https://cyberreadinessinstitute.org/images/CRI-Securing-a-Remote-Workforce.pdf
+- Cyber Readiness Institute. Securing a Remote Workforce. https://cyberreadinessinstitute.org/images/CRI-Securing-a-Remote-Workforce.pdf
