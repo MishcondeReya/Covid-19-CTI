@@ -40,6 +40,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - 19 March 2020 Digital Shadows - Covid-19 Dark Web reactions. https://www.digitalshadows.com/blog-and-research/covid-19-dark-web-reactions/
 - 19 March 2020 EFF Covid-19 phishing guide. https://www.eff.org/deeplinks/2020/03/phishing-time-covid-19-how-recognize-malicious-coronavirus-phishing-scams
 - 19 March 2020. ElecticIQ Investigating Phishing Attacks Exploiting Coronavirus Themes. https://blog.eclecticiq.com/covid-19/investigating-phishing-attacks-exploiting-coronavirus-covid-19-themes
+- New Threat Discovery Shows Commercial Surveillanceware Operators Latest to Exploit COVID-19. https://blog.lookout.com/commercial-surveillanceware-operators-latest-to-take-advantage-of-covid-19
 - 18 March 2020 Ransomware Gangs to Stop Attacking Health Orgs During Pandemic https://www.bleepingcomputer.com/news/security/ransomware-gangs-to-stop-attacking-health-orgs-during-pandemic/
 - 16 March 2020. National Cyber Security Centre. Cyber experts step in as criminals seek to exploit Coronavirus fears. https://www.ncsc.gov.uk/news/cyber-experts-step-criminals-exploit-coronavirus
 - 13 March 2020 State-sponsored attackers using COVID-19 Lures (Russia, China, North Korea) https://www.zdnet.com/article/state-sponsored-hackers-are-now-using-coronavirus-lures-to-infect-their-targets/
