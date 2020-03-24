@@ -39,6 +39,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - 19 March 2020. ElecticIQ Investigating Phishing Attacks Exploiting Coronavirus Themes. https://blog.eclecticiq.com/covid-19/investigating-phishing-attacks-exploiting-coronavirus-covid-19-themes
 - 18 March 2020 Ransomware Gangs to Stop Attacking Health Orgs During Pandemic https://www.bleepingcomputer.com/news/security/ransomware-gangs-to-stop-attacking-health-orgs-during-pandemic/
 - 16 March 2020. National Cyber Security Centre. Cyber experts step in as criminals seek to exploit Coronavirus fears. https://www.ncsc.gov.uk/news/cyber-experts-step-criminals-exploit-coronavirus
+- 13 March 2020 State-sponsored attackers using COVID-19 Lures (Russia, China, North Korea) https://www.zdnet.com/article/state-sponsored-hackers-are-now-using-coronavirus-lures-to-infect-their-targets/
 - 12 March 2020 RecordFuture - Capitalizing on Coronavirus Panic, Threat Actors Target Victims Worldwide https://www.recordedfuture.com/coronavirus-panic-exploit/
 - 7 Feb 2020. Kaspersky - Coronavirus phishing - https://www.kaspersky.com/blog/coronavirus-phishing/32395/
 
