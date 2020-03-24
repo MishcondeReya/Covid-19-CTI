@@ -33,6 +33,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - 20 March 2020, Microsoft - Protecting against coronavirus themed phishing attacks https://www.microsoft.com/security/blog/2020/03/20/protecting-against-coronavirus-themed-phishing-attacks/.
 - 20 March 2020 SentinelOne - Threat Intel Update | Cyber Attacks Leveraging the COVID-19/CoronaVirus Pandemic. https://labs.sentinelone.com/threat-intel-update-cyber-attacks-leveraging-the-covid-19-coronavirus-pandemic/
 - 20 March 2020 Trend Micro - Developing Story: Coronavirus Used in Malicious Campaigns. https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/coronavirus-used-in-spam-malware-file-names-and-malicious-domains
+- 19 March 2020 Covid lures used in Business Email Compromise https://www.agari.com/email-security-blog/business-email-compromise-bec-coronavirus-covid-19/
 - 19 March 2020 EEAS SPECIAL REPORT: DISINFORMATION ON THE CORONAVIRUS – SHORT ASSESSMENT OF THE INFORMATION ENVIRONMENT https://euvsdisinfo.eu/eeas-special-report-disinformation-on-the-coronavirus-short-assessment-of-the-information-environment/
 - 19 March 2020 Digital Shadows - Covid-19 Dark Web reactions. https://www.digitalshadows.com/blog-and-research/covid-19-dark-web-reactions/
 - 19 March 2020 EFF Covid-19 phishing guide. https://www.eff.org/deeplinks/2020/03/phishing-time-covid-19-how-recognize-malicious-coronavirus-phishing-scams
