@@ -68,3 +68,4 @@ https://www.anomali.com/blog/anomali-aggregates-open-source-threat-intelligence-
 - 11 March 2020 Crowdstrike Cybersecurity in the Time of COVID-19: Keys to Embracing (and Securing) a Remote Workforce. https://www.crowdstrike.com/blog/securing-a-remote-workforce-in-the-time-of-covid-19/
 - March 6 2020. Cybersecurity and Infrastructure Security Agency (CISA).  https://www.cisa.gov/sites/default/files/publications/20_0306_cisa_insights_risk_management_for_novel_coronavirus.pdf
 - Cyber Readiness Institute. Securing a Remote Workforce. https://cyberreadinessinstitute.org/images/CRI-Securing-a-Remote-Workforce.pdf
+- 16 March 2020. SANS - SANS Security Awareness Work-from-Home Deployment Kit. https://www.sans.org/security-awareness-training/sans-security-awareness-work-home-deployment-kit
