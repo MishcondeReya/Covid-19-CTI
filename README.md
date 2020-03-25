@@ -25,9 +25,14 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 # Reports
 
 - RiskIQ Covid-19 daily update. https://www.riskiq.com/blog/analyst/covid19-daily-update/
-- Silobreaker. Covid-19 Threat Daily Update. https://www.silobreaker.com/tag/covid19-threat-digest/
+- Silobreaker. Covid-19 Threat Daily Update. https://www.silobreaker.com/tag/covid19-threat-digest/. 
+- 24 March 2020. Palo Alto Unit 42. Don’t Panic: COVID-19 Cyber Threats https://unit42.paloaltonetworks.com/covid19-cyber-threats/
+- 24 March 2020. Anomali. Anomali Aggregates Open Source Threat Intelligence to Fight COVID-19-themed Cyber Attacks. 
+https://www.anomali.com/blog/anomali-aggregates-open-source-threat-intelligence-to-fight-covid-19-themed-cyber-attacks
+- 23 March 2020. Securonix. COVID-19 Cyber Threat Update – March 23, 2020 https://www.securonix.com/securonix-covid-19-threat-update-march-23-2020/
 - 23 March 2020. Anomoli COVID-19 Themes Are Being Utilized by Threat Actors of Varying Sophistication. https://www.anomali.com/blog/covid-19-themes-are-being-utilized-by-threat-actors-of-varying-sophistication
 - 23 March 2020 Fake “Corona Antivirus” distributes BlackNET remote administration tool https://blog.malwarebytes.com/threat-analysis/2020/03/fake-corona-antivirus-distributes-blacknet-remote-administration-tool/
+- 23 March 2020. Cyjax. COVID-19 Cyber Situation Report. https://www.cyjax.com/2020/03/23/covid-19-cyber-situation-report/
 - 22 March 2020 US DOJ - US Justice Department issues enforcement action against fraud wesbite https://www.justice.gov/opa/pr/justice-department-files-its-first-enforcement-action-against-covid-19-fraud
 - 20 March 2020 New York asks domain registrars to crack down on sites used for coronavirus scams https://www.zdnet.com/article/new-york-asks-domain-registrars-to-crack-down-on-sites-used-for-coronavirus-scams/
 - 20 March 2020, FBI - FBI Sees Rise in Farud Schemes Related to the Coronavirus (COVID-19) Pandemic
@@ -40,10 +45,13 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - 19 March 2020 Digital Shadows - Covid-19 Dark Web reactions. https://www.digitalshadows.com/blog-and-research/covid-19-dark-web-reactions/
 - 19 March 2020 EFF Covid-19 phishing guide. https://www.eff.org/deeplinks/2020/03/phishing-time-covid-19-how-recognize-malicious-coronavirus-phishing-scams
 - 19 March 2020. ElecticIQ Investigating Phishing Attacks Exploiting Coronavirus Themes. https://blog.eclecticiq.com/covid-19/investigating-phishing-attacks-exploiting-coronavirus-covid-19-themes
+- 19 March 2020. NCC Group. Threat Actors: exploiting the pandemic. https://research.nccgroup.com/2020/03/19/threat-actors-exploiting-the-pandemic/
+- 19 March 2020. Cofense. Threat Actors Innovate to Exploit COVID-19, Delivering OpenOffice .OPD Attachments on a Shoestring Budget  https://cofense.com/threat-actors-innovate-exploit-covid-19-delivering-openoffice-opd-attachments-shoestring-budget/
 - 18 March 2020 Ransomware Gangs to Stop Attacking Health Orgs During Pandemic https://www.bleepingcomputer.com/news/security/ransomware-gangs-to-stop-attacking-health-orgs-during-pandemic/
 - 16 March 2020. National Cyber Security Centre. Cyber experts step in as criminals seek to exploit Coronavirus fears. https://www.ncsc.gov.uk/news/cyber-experts-step-criminals-exploit-coronavirus
 - 13 March 2020 State-sponsored attackers using COVID-19 Lures (Russia, China, North Korea) https://www.zdnet.com/article/state-sponsored-hackers-are-now-using-coronavirus-lures-to-infect-their-targets/
 - 12 March 2020 RecordFuture - Capitalizing on Coronavirus Panic, Threat Actors Target Victims Worldwide https://www.recordedfuture.com/coronavirus-panic-exploit/
+- 5 March 2020. Check Point. Update: Coronavirus-themed domains 50% more likely to be malicious than other domains. https://blog.checkpoint.com/2020/03/05/update-coronavirus-themed-domains-50-more-likely-to-be-malicious-than-other-domains/
 - 13 Feb 2020. Cisco Talos. Threat actors attempt to capitalize on coronavirus outbreak https://blog.talosintelligence.com/2020/02/coronavirus-themed-malware.html
 - 7 Feb 2020. Kaspersky - Coronavirus phishing - https://www.kaspersky.com/blog/coronavirus-phishing/32395/
 - Jan 2020. Checkpoint. Coronavirus-themed spam spreads malicious Emotet malware https://blog.checkpoint.com/2020/02/13/january-2020s-most-wanted-malware-coronavirus-themed-spam-spreads-malicious-emotet-malware/
