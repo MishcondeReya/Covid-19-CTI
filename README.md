@@ -45,6 +45,7 @@ https://www.anomali.com/blog/anomali-aggregates-open-source-threat-intelligence-
 - 19 March 2020 Digital Shadows - Covid-19 Dark Web reactions. https://www.digitalshadows.com/blog-and-research/covid-19-dark-web-reactions/
 - 19 March 2020 EFF Covid-19 phishing guide. https://www.eff.org/deeplinks/2020/03/phishing-time-covid-19-how-recognize-malicious-coronavirus-phishing-scams
 - 19 March 2020. ElecticIQ Investigating Phishing Attacks Exploiting Coronavirus Themes. https://blog.eclecticiq.com/covid-19/investigating-phishing-attacks-exploiting-coronavirus-covid-19-themes
+- 18 March 2020. New Threat Discovery Shows Commercial Surveillanceware Operators Latest to Exploit COVID-19. https://blog.lookout.com/commercial-surveillanceware-operators-latest-to-take-advantage-of-covid-19
 - 19 March 2020. NCC Group. Threat Actors: exploiting the pandemic. https://research.nccgroup.com/2020/03/19/threat-actors-exploiting-the-pandemic/
 - 19 March 2020. Cofense. Threat Actors Innovate to Exploit COVID-19, Delivering OpenOffice .OPD Attachments on a Shoestring Budget  https://cofense.com/threat-actors-innovate-exploit-covid-19-delivering-openoffice-opd-attachments-shoestring-budget/
 - 18 March 2020 Ransomware Gangs to Stop Attacking Health Orgs During Pandemic https://www.bleepingcomputer.com/news/security/ransomware-gangs-to-stop-attacking-health-orgs-during-pandemic/
