@@ -15,6 +15,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 # Incidents
 - 23 March 2020 HHS.gov Open Redirect Used by Coronavirus Phishing to Spread Malware https://www.bleepingcomputer.com/news/security/hhsgov-open-redirect-used-by-coronavirus-phishing-to-spread-malware/
 - 23 March 2020 Hackers Hijack Routers’ DNS to Spread Malicious COVID-19 Apps https://www.bleepingcomputer.com/news/security/hackers-hijack-routers-dns-to-spread-malicious-covid-19-apps/
+- 20 March 2020 UK Middlesbrough Local Council targeted with COV_19-themed emails https://www.bbc.co.uk/news/uk-england-tees-51980150
 - 14 March 2020 BlackWater Malware Abuses Cloudflare Workers for C2 Communication. https://www.bleepingcomputer.com/news/security/blackwater-malware-abuses-cloudflare-workers-for-c2-communication/
 - 13 March 2020 Czech Covid-19 testing hospital hit with Ransomware. https://brnodaily.com/2020/03/13/news/serious-cyber-attack-targets-brno-university-hospital/
 - 13 March 2020. Phishing campaign targeting World Health Organisation using typosquatted domain https://www.reuters.com/article/us-health-coronavirus-who-hack-exclusive-idUSKBN21A3BN
