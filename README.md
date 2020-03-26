@@ -66,7 +66,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - 20 March 2020. Malware Bytes. Coronavirus scams, found and explained https://blog.malwarebytes.com/scams/2020/03/coronavirus-scams-found-and-explained/
 - 20 March 2020. Francois Mouton & Arno de Coning. COVID-19: Impact on the Cyber Security Threat Landscape, https://www.researchgate.net/publication/340066124_COVID-19_Impact_on_the_Cyber_Security_Threat_Landscape
 - 20 March 2020 New York asks domain registrars to crack down on sites used for coronavirus scams https://www.zdnet.com/article/new-york-asks-domain-registrars-to-crack-down-on-sites-used-for-coronavirus-scams/
-- 20 March 2020, FBI - FBI Sees Rise in Farud Schemes Related to the Coronavirus (COVID-19) Pandemic
+- 20 March 2020, FBI - FBI Sees Rise in Fraud Schemes Related to the Coronavirus (COVID-19) Pandemic
  https://www.ic3.gov/media/2020/200320.aspx
 - 20 March 2020, Microsoft - Protecting against coronavirus themed phishing attacks https://www.microsoft.com/security/blog/2020/03/20/protecting-against-coronavirus-themed-phishing-attacks/.
 - 20 March 2020 SentinelOne - Threat Intel Update | Cyber Attacks Leveraging the COVID-19/CoronaVirus Pandemic. https://labs.sentinelone.com/threat-intel-update-cyber-attacks-leveraging-the-covid-19-coronavirus-pandemic/
