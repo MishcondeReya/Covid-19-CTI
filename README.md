@@ -50,6 +50,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - 24 March 2020. RUSI. How Covid-19 is Changing the Organised Crime Threat. https://rusi.org/commentary/how-covid-19-changing-organised-crime-threat
 - 24 March 2020. Palo Alto Unit 42. Don’t Panic: COVID-19 Cyber Threats. https://unit42.paloaltonetworks.com/covid19-cyber-threats/
 - 24 March 2020. Anomali. Anomali Aggregates Open Source Threat Intelligence to Fight COVID-19-themed Cyber Attacks. https://www.anomali.com/blog/anomali-aggregates-open-source-threat-intelligence-to-fight-covid-19-themed-cyber-attacks
+- 24 March 2020. Ginp malware: "Coronavirus Finder" steals credit card information https://www.kaspersky.com/blog/ginp-trojan-coronavirus-finder/34338/
 - 23 March 2020. Securonix. COVID-19 Cyber Threat Update – March 23, 2020. https://www.securonix.com/securonix-covid-19-threat-update-march-23-2020/
 - 23 March 2020. Malwarebytes. Fake “Corona Antivirus” distributes BlackNET remote administration tool. https://blog.malwarebytes.com/threat-analysis/2020/03/fake-corona-antivirus-distributes-blacknet-remote-administration-tool/
 - 23 March 2020. Securonix. COVID-19 Cyber Threat Update – March 23, 2020 https://www.securonix.com/securonix-covid-19-threat-update-march-23-2020/
