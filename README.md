@@ -113,7 +113,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - 5 March 2020. Check Point. Update: Coronavirus-themed domains 50% more likely to be malicious than other domains. https://blog.checkpoint.com/2020/03/05/update-coronavirus-themed-domains-50-more-likely-to-be-malicious-than-other-domains/
 - 13 Feb 2020. Cisco Talos. Threat actors attempt to capitalize on coronavirus outbreak. https://blog.talosintelligence.com/2020/02/coronavirus-themed-malware.html
 - 7 Feb 2020. Kaspersky - Coronavirus phishing. https://www.kaspersky.com/blog/coronavirus-phishing/32395/
-- Jan 2020. Checkpoint. Coronavirus-themed spam spreads malicious Emotet malware. https://blog.checkpoint.com/2020/02/13/january-2020s-most-wanted-malware-coronavirus-themed-spam-spreads-malicious-emotet-malware/
+- 13 Jan 2020. Checkpoint. Coronavirus-themed spam spreads malicious Emotet malware. https://blog.checkpoint.com/2020/02/13/january-2020s-most-wanted-malware-coronavirus-themed-spam-spreads-malicious-emotet-malware/
 
 # Remote Working 
 
