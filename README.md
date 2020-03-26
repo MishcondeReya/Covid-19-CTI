@@ -34,6 +34,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Silobreaker. Covid-19 Threat Daily Update.  https://www.silobreaker.com/tag/covid19-threat-digest/. 
 - 25 March 2020. CyberInt. COVID-19 Ongoing Cyber Updates https://blog.cyberint.com/covid-19-ongoing-cyber-updates
 - 25 March 2020. Looking Glass Cyber. THREAT ACTORS EXPLOIT COVID-19 IN CYBER CRIME CAMPAIGNS https://www.lookingglasscyber.com/blog/threat-actors-exploit-covid-19-in-cyber-crime-campaigns/
+>>>>>>> pr/2
 - 25 March 2020. Kieren Nicolas. COVID-19 SECURITY ALERT - UK https://www.kierennicolas.com/blog/covid-19-security-alert-uk
 - 25 March 2020. Yoroi. New Cyber Attack Campaign Leverages the COVID-19 Infodemic. https://yoroi.company/research/new-cyber-attack-campaign-leverages-the-covid-19-infodemic/
 - 25 March 2020. Mimecast. WEBCAST RECAP: TUESDAY’S GLOBAL CYBER THREAT INTELLIGENCE WEEKLY BRIEFING https://www.mimecast.com/blog/2020/03/webcast-recap-global-cyber-threat-intelligence-weekly-briefing/
@@ -50,6 +51,7 @@ https://www.anomali.com/blog/anomali-aggregates-open-source-threat-intelligence-
 - 23 March 2020. Cyjax. COVID-19 Cyber Situation Report. https://www.cyjax.com/2020/03/23/covid-19-cyber-situation-report/
 - 22 March 2020. Verint. HACKERS CONTINUE TO EXPLOIT THE COVID-19 PANDEMIC IN MALICIOUS CAMPAIGNS https://cis.verint.com/2020/03/22/hackers-continue-to-exploit-the-covid-19-pandemic-in-malicious-campaigns/
 - 22 March 2020 US DOJ - US Justice Department issues enforcement action against fraud wesbite https://www.justice.gov/opa/pr/justice-department-files-its-first-enforcement-action-against-covid-19-fraud
+- 20 March 2020. New York asks domain registrars to crack down on sites used for coronavirus scams. https://www.zdnet.com/article/new-york-asks-domain-registrars-to-crack-down-on-sites-used-for-coronavirus-scams/
 - 20 March 2020. Malware Bytes. Coronavirus scams, found and explained https://blog.malwarebytes.com/scams/2020/03/coronavirus-scams-found-and-explained/
 - 20 March 2020. Francois Mouton & Arno de Coning. COVID-19: Impact on the Cyber Security Threat Landscape, https://www.researchgate.net/publication/340066124_COVID-19_Impact_on_the_Cyber_Security_Threat_Landscape
 - 20 March 2020 New York asks domain registrars to crack down on sites used for coronavirus scams https://www.zdnet.com/article/new-york-asks-domain-registrars-to-crack-down-on-sites-used-for-coronavirus-scams/
@@ -65,9 +67,8 @@ https://www.anomali.com/blog/anomali-aggregates-open-source-threat-intelligence-
 - 19 March 2020 Digital Shadows - Covid-19 Dark Web reactions. https://www.digitalshadows.com/blog-and-research/covid-19-dark-web-reactions/
 - 19 March 2020 EFF Covid-19 phishing guide. https://www.eff.org/deeplinks/2020/03/phishing-time-covid-19-how-recognize-malicious-coronavirus-phishing-scams
 - 19 March 2020. ElecticIQ Investigating Phishing Attacks Exploiting Coronavirus Themes. https://blog.eclecticiq.com/covid-19/investigating-phishing-attacks-exploiting-coronavirus-covid-19-themes
-- 19 March MDR Cyber. Covid-19 Cyber Update. https://www.mishcon.com/news/covid-19-cyber-security-update
-- 18 March 2020. New Threat Discovery Shows Commercial Surveillanceware Operators Latest to Exploit COVID-19. https://blog.lookout.com/commercial-surveillanceware-operators-latest-to-take-advantage-of-covid-19
 - 19 March 2020. NCC Group. Threat Actors: exploiting the pandemic. https://research.nccgroup.com/2020/03/19/threat-actors-exploiting-the-pandemic/
+<<<<<<< HEAD
 - 19 March 2020. Cofense. Threat Actors Innovate to Exploit COVID-19, Delivering OpenOffice .OPD Attachments on a Shoestring Budget  https://cofense.com/threat-actors-innovate-exploit-covid-19-delivering-openoffice-opd-attachments-shoestring-budget/
 - 18 March 2020 Ransomware Gangs to Stop Attacking Health Orgs During Pandemic https://www.bleepingcomputer.com/news/security/ransomware-gangs-to-stop-attacking-health-orgs-during-pandemic/
 - 18 March 2020. Qualys. Cyber Criminals using Coronavirus Fears to Spread Information-Stealing Malware https://blog.qualys.com/indication-of-compromise/2020/03/18/cyber-criminals-using-coronavirus-fears-to-spread-information-stealing-malware
