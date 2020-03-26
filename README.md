@@ -1,8 +1,16 @@
 # Covid-19-CTI
 
-A collection of Covid-19 related threat intelligence and related resources. Please submit resources to Cyber.IntelligenceTeam@Mishcon.com or submit a pull request. 
+A collection of Covid-19 related threat intelligence and related resources. Please send resources to Cyber.IntelligenceTeam@Mishcon.com or submit a pull request. 
 
-# IOC Sources
+- [IOC Sources](#IOC-Sources)
+- [Incidents](#Incidents)
+- [Reports](#Reports)
+- [Remote Working](#Remote-Working)
+- [Covid-19 Cybersecurity](#Cybersecurity-during-Covid-19)
+
+*Please note, we have removed most media reporting unless it adds specific threat information or insight in addition to the resources above. Simarly we have ignored resources that do not add specific insight or original content. Where resources are behind a registration page this is indicated.*
+
+## IOC Sources
 
 - Domaintools - Domains with high risk scores. https://www.domaintools.com/resources/blog/free-covid-19-threat-list-domain-risk-assessments-for-coronavirus-threats (NB: Behind registration form).  
 - List of domains with Covid-19 related keywords. https://www.malwarepatrol.net/coronavirus-covid-19-online-scams-data/
@@ -15,17 +23,20 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - CyberReason - Various IOCs. https://www.cybereason.com/hubfs/Indicators%20of%20Compromise/Coronavirus-Themed%20Malware%20IOCs.pdf
 - Sophos - Various IOCs. https://github.com/sophoslabs/covid-iocs
 - MISP-Project - Covid-19 dedicated MISP. https://covid-19.iglocska.eu/. For access, send a DM to https://twitter.com/MISPProject
+- MalwareHunterTeam (Twitter). https://twitter.com/malwrhunterteam and others such as Targetting of Ukraine Center for Public Health https://twitter.com/malwrhunterteam/status/1231239497666482177
 
 
-# Incidents
+## Incidents
 - 24 March 2020. Computing. Spanish hospitals targeted with coronavirus-themed phishing lures in Netwalker ransomware attacks. https://www.computing.co.uk/news/4012969/hospitals-coronavirus-ransomware
+- 23 March 2020. Forbes/Davey Winder. COVID-19 Vaccine Test Center Hit By Cyber Attack, Stolen Data Posted Online. https://www.forbes.com/sites/daveywinder/2020/03/23/covid-19-vaccine-test-center-hit-by-cyber-attack-stolen-data-posted-online/#3b5f1f5918e5
 - 23 March 2020. Bleeping Computer. Hackers Hijack Routers’ DNS to Spread Malicious COVID-19 Apps. https://www.bleepingcomputer.com/news/security/hackers-hijack-routers-dns-to-spread-malicious-covid-19-apps/
 - 23 March 2020 HHS.gov Open Redirect Used by Coronavirus Phishing to Spread Malware https://www.bleepingcomputer.com/news/security/hhsgov-open-redirect-used-by-coronavirus-phishing-to-spread-malware/
 - 23 March 2020 Hackers Hijack Routers’ DNS to Spread Malicious COVID-19 Apps https://www.bleepingcomputer.com/news/security/hackers-hijack-routers-dns-to-spread-malicious-covid-19-apps/
 - 23 March 2020. HHS.gov Open Redirect Used by Coronavirus Phishing to Spread Malware https://www.bleepingcomputer.com/news/security/hhsgov-open-redirect-used-by-coronavirus-phishing-to-spread-malware/
 - 23 March 2020. Hackers Hijack Routers’ DNS to Spread Malicious COVID-19 Apps https://www.bleepingcomputer.com/news/security/hackers-hijack-routers-dns-to-spread-malicious-covid-19-apps/
 - 23 March 2020. Ransomware gang breaks promise not to target medical organizations during coronavirus outbreak. techspot.com/news/84501-ransomware-gang-breaks-promise-not-target-medical-organizations.html
-- 20 March 2020 UK Middlesbrough Local Council targeted with COV_19-themed emails https://www.bbc.co.uk/news/uk-england-tees-51980150
+- 20 March 2020. UK Middlesbrough Local Council targeted with COV_19-themed emails https://www.bbc.co.uk/news/uk-england-tees-51980150
+- 18 March 2020. Health Services Journal (HSJ). Covid-19 response forces halt to NHS cyber security checks https://www.hsj.co.uk/technology-and-innovation/covid-19-response-forces-halt-to-nhs-cyber-security-checks/7027166.article 
 - 14 March 2020 BlackWater Malware Abuses Cloudflare Workers for C2 Communication. https://www.bleepingcomputer.com/news/security/blackwater-malware-abuses-cloudflare-workers-for-c2-communication/
 - 13 March 2020 Czech Covid-19 testing hospital hit with Ransomware. https://brnodaily.com/2020/03/13/news/serious-cyber-attack-targets-brno-university-hospital/
 - 13 March 2020. Phishing campaign targeting World Health Organisation using typosquatted domain https://www.reuters.com/article/us-health-coronavirus-who-hack-exclusive-idUSKBN21A3BN
@@ -34,10 +45,12 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - 04 March 2020 Trickbot campaign targets Coronavirus fears in Italy https://news.sophos.com/en-us/2020/03/04/trickbot-campaign-targets-coronavirus-fears-in-italy/
 - 08 March 2020 Mobile Coronavirus Tracking App Coughs Up Ransomware. https://www.domaintools.com/resources/blog/covidlock-mobile-coronavirus-tracking-app-coughs-up-ransomware#
 
-# Reports
+## Intelligence Reports
 
 - RiskIQ Covid-19 daily update. https://www.riskiq.com/blog/analyst/covid19-daily-update/
 - Silobreaker. Covid-19 Threat Daily Update.  https://www.silobreaker.com/tag/covid19-threat-digest/. 
+- 26 March 2020. CERT NZ. Attackers using COVID-19 themed scams - updated alert. https://www.cert.govt.nz/individuals/alerts/attackers-using-covid-19-themed-scams-updated-alert/
+- 25 March 2020. World Economic Forum. How COVID-19 shows the urgent need to address the cyber poverty gap. https://www.weforum.org/agenda/2020/03/covid-19-pandemic-shows-the-urgency-for-addressing-the-cyber-poverty-gap/
 - 25 March 2020. CyberInt. COVID-19 Ongoing Cyber Updates https://blog.cyberint.com/covid-19-ongoing-cyber-updates
 - 25 March 2020. Looking Glass Cyber. THREAT ACTORS EXPLOIT COVID-19 IN CYBER CRIME CAMPAIGNS https://www.lookingglasscyber.com/blog/threat-actors-exploit-covid-19-in-cyber-crime-campaigns/
 - Silobreaker. Covid-19 Threat Daily Update. https://www.silobreaker.com/tag/covid19-threat-digest/. 
@@ -45,12 +58,14 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - 25 March 2020. Yoroi. New Cyber Attack Campaign Leverages the COVID-19 Infodemic. https://yoroi.company/research/new-cyber-attack-campaign-leverages-the-covid-19-infodemic/
 - 25 March 2020. Mimecast. WEBCAST RECAP: TUESDAY’S GLOBAL CYBER THREAT INTELLIGENCE WEEKLY BRIEFING https://www.mimecast.com/blog/2020/03/webcast-recap-global-cyber-threat-intelligence-weekly-briefing/
 - 25 March 2020. MDR Cyber. Covid-19 Security Update. https://www.mishcon.com/news/covid-19-cyber-security-update-25-march
+- 24 March 2020. Lexology. COVID-19: Key EU And U.S. Cybersecurity Issues and Risk-Remediation Steps. COVID-19: Key EU And U.S. Cybersecurity Issues and Risk-Remediation Steps
 - 24 March 2020. Sophos. Facing down the myriad threats tied to COVID-19 https://news.sophos.com/en-us/2020/03/24/covidmalware/
 - 24 March 2020. Crowdstrike. Situational Awareness: Cyber Threats Heightened by COVID-19 and How to Protect Against Them. https://www.crowdstrike.com/blog/covid-19-cyber-threats/
 - 24 March 2020. RUSI. How Covid-19 is Changing the Organised Crime Threat. https://rusi.org/commentary/how-covid-19-changing-organised-crime-threat
 - 24 March 2020. Palo Alto Unit 42. Don’t Panic: COVID-19 Cyber Threats. https://unit42.paloaltonetworks.com/covid19-cyber-threats/
 - 24 March 2020. Anomali. Anomali Aggregates Open Source Threat Intelligence to Fight COVID-19-themed Cyber Attacks. https://www.anomali.com/blog/anomali-aggregates-open-source-threat-intelligence-to-fight-covid-19-themed-cyber-attacks
 - 24 March 2020. Ginp malware: "Coronavirus Finder" steals credit card information https://www.kaspersky.com/blog/ginp-trojan-coronavirus-finder/34338/
+- March 23 2020. Exclusive: Elite hackers target WHO as coronavirus cyberattacks spike. https://www.reuters.com/article/us-health-coronavirus-who-hack-exclusive/exclusive-elite-hackers-target-who-as-coronavirus-cyberattacks-spike-idUSKBN21A3BN
 - 23 March 2020. Securonix. COVID-19 Cyber Threat Update – March 23, 2020. https://www.securonix.com/securonix-covid-19-threat-update-march-23-2020/
 - 23 March 2020. Malwarebytes. Fake “Corona Antivirus” distributes BlackNET remote administration tool. https://blog.malwarebytes.com/threat-analysis/2020/03/fake-corona-antivirus-distributes-blacknet-remote-administration-tool/
 - 23 March 2020. Securonix. COVID-19 Cyber Threat Update – March 23, 2020 https://www.securonix.com/securonix-covid-19-threat-update-march-23-2020/
@@ -59,6 +74,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - 22 March 2020. US DOJ - US Justice Department issues enforcement action against fraud wesbite. https://www.justice.gov/opa/pr/justice-department-files-its-first-enforcement-action-against-covid-19-fraud
 - 22 March 2020. Verint. HACKERS CONTINUE TO EXPLOIT THE COVID-19 PANDEMIC IN MALICIOUS CAMPAIGNS https://cis.verint.com/2020/03/22/hackers-continue-to-exploit-the-covid-19-pandemic-in-malicious-campaigns/
 - 21 March 2020. Security Arrairs. New Coronavirus-themed attack uses fake WHO chief emails. https://securityaffairs.co/wordpress/100147/cyber-crime/who-coronavirus-themed-attack.html
+- 20 March 2020. PwC. Managing the impact of COVID-19 on cyber security. https://www.pwc.co.uk/cyber-security/pdf/impact-of-covid-19-on-cyber-security.pdf
 - 20 March 2020. New York asks domain registrars to crack down on sites used for coronavirus scams. https://www.zdnet.com/article/new-york-asks-domain-registrars-to-crack-down-on-sites-used-for-coronavirus-scams/
 - 20 March 2020. FBI - FBI Sees Rise in Farud Schemes Related to the Coronavirus (COVID-19) Pandemic. https://www.ic3.gov/media/2020/200320.aspx
 - 20 March 2020. Microsoft - Protecting against coronavirus themed phishing attacks. https://www.microsoft.com/security/blog/2020/03/20/protecting-against-coronavirus-themed-phishing-attacks/.
@@ -95,6 +111,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - 13 March 2020. F-Secure. Coronavirus email attacks evolving as outbreak spreads. https://blog.f-secure.com/coronavirus-email-attacks-evolving-as-outbreak-spreads/
 - 12 March 2020 RecordFuture - Capitalizing on Coronavirus Panic, Threat Actors Target Victims Worldwide https://www.recordedfuture.com/coronavirus-panic-exploit/ and https://go.recordedfuture.com/hubfs/reports/cta-2020-0312-2.pdf
 - 12 March 2020. Tenable. COVID-19: Coronavirus Fears Seized by Cybercriminals. https://www.tenable.com/blog/covid-19-coronavirus-fears-seized-by-cybercriminals
+- 12 March 2020. Intsights. Cybercriminals Exploit Coronavirus Spread with Malware, Phishing Schemes https://intsights.com/blog/cybercriminals-exploit-coronavirus-spread-with-malware-phishing-schemes-1
 - 5 March 2020. Check Point. Update: Coronavirus-themed domains 50% more likely to be malicious than other domains. https://blog.checkpoint.com/2020/03/05/update-coronavirus-themed-domains-50-more-likely-to-be-malicious-than-other-domains/
 - 4 March 2020. Fortinet. Attackers Taking Advantage of the Coronavirus/COVID-19 Media Frenzy https://www.fortinet.com/blog/threat-research/attackers-taking-advantage-of-the-coronavirus-covid-19-media-frenzy.html
 - 13 Feb 2020. Cisco Talos. Threat actors attempt to capitalize on coronavirus outbreak https://blog.talosintelligence.com/2020/02/coronavirus-themed-malware.html
@@ -111,14 +128,22 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - 13 March 2020. State-sponsored attackers using COVID-19 Lures (Russia, China, North Korea) https://www.zdnet.com/article/state-sponsored-hackers-are-now-using-coronavirus-lures-to-infect-their-targets/
 - 13 March 2020. F-Secure. Coronavirus email attacks evolving as outbreak spreads. https://blog.f-secure.com/coronavirus-email-attacks-evolving-as-outbreak-spreads/
 - 12 March 2020. RecordFuture. Capitalizing on Coronavirus Panic, Threat Actors Target Victims Worldwide https://www.recordedfuture.com/coronavirus-panic-exploit/
+- 11 March 2020. Avast. Iranian Coronavirus app collecting sensitive information
+ https://blog.avast.com/iranian-coronavirus-app-collecting-sensitive-information-avast
 - 5 March 2020. Check Point. Update: Coronavirus-themed domains 50% more likely to be malicious than other domains. https://blog.checkpoint.com/2020/03/05/update-coronavirus-themed-domains-50-more-likely-to-be-malicious-than-other-domains/
+- 19 Feb 2020. United Nations. UN health agency warns against coronavirus COVID-19 criminal scams. https://news.un.org/en/story/2020/02/1058381
 - 13 Feb 2020. Cisco Talos. Threat actors attempt to capitalize on coronavirus outbreak. https://blog.talosintelligence.com/2020/02/coronavirus-themed-malware.html
 - 7 Feb 2020. Kaspersky - Coronavirus phishing. https://www.kaspersky.com/blog/coronavirus-phishing/32395/
 - 13 Jan 2020. Checkpoint. Coronavirus-themed spam spreads malicious Emotet malware. https://blog.checkpoint.com/2020/02/13/january-2020s-most-wanted-malware-coronavirus-themed-spam-spreads-malicious-emotet-malware/
+- RiskIQ. Ransomware Attacks the Next Consequence of the Coronavirus Outbreak (requires registration). https://www.riskiq.com/research/ransomware-attacks-the-next-consequence-of-the-coronavirus-outbreak/
+- Marsh. COVID-19: Implications for Cyber, Media, and Tech E&O Coverage. https://www.marsh.com/uk/insights/research/covid-19-implications-for-cyber-media-tech.html
 
-# Remote Working 
+## Remote Working 
 
+- 26 March 2020. Lexology. COVID-19: Remote Working and Cybersecurity https://www.lexology.com/library/detail.aspx?g=4194be55-51e0-4227-ac98-dbbca209c2c1
+- 24 March 2020. ENISA. Tips for cybersecurity when working from home. https://www.enisa.europa.eu/tips-for-cybersecurity-when-working-from-home
 - 24 March 2020. H-ISAC Report: Hacking Healthcare - TLP White, March 24, 2020 (focus on Telework). https://www.aha.org/h-isac-reports/2020-03-25-h-isac-report-hacking-healthcare-tlp-white-march-24-2020
+- 20 March 2020. F-Secure. Protecting employees and systems in a time of pandemic https://blog.f-secure.com/protecting-employees-and-systems-in-a-time-of-pandemic/
 - 20 March 2020. CSO Online. Free security resources for work-from-home employees during the COVID-19 crisis. https://www.csoonline.com/article/3532797/free-security-resources-for-work-from-home-employees-during-the-covid-19-crisis.html
 - 20 March 2020. Fireeye. Remote Work in an Age of COVID-19 — Threat Modeling. https://www.fireeye.com/blog/executive-perspective/2020/03/remote-work-in-an-age-of-covid-19-threat-modeling-the-risks.html
 - 19 March 2020. NIST. Telework Security Basics.  https://www.nist.gov/blogs/cybersecurity-insights/telework-security-basics
@@ -128,6 +153,18 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - 16 March 2020. SANS - SANS Security Awareness Work-from-Home Deployment Kit. https://www.sans.org/security-awareness-training/sans-security-awareness-work-home-deployment-kit
 - 16 March 2020. ESET. COVID‑19 and the shift to remote work https://www.welivesecurity.com/2020/03/16/covid19-forced-workplace-exodus/
 - 11 March 2020. Crowdstrike. Cybersecurity in the Time of COVID-19: Keys to Embracing (and Securing) a Remote Workforce. https://www.crowdstrike.com/blog/securing-a-remote-workforce-in-the-time-of-covid-19/
-- 6 March 2020. Cybersecurity and Infrastructure Security Agency (CISA).  https://www.cisa.gov/sites/default/files/publications/20_0306_cisa_insights_risk_management_for_novel_coronavirus.pdf
 - Cyber Readiness Institute. Securing a Remote Workforce. https://cyberreadinessinstitute.org/images/CRI-Securing-a-Remote-Workforce.pdf
+
+
+## Cybersecurity Reports
+
+- 26 March 2020. KPMG. COVID-19: Protecting your business from cyber crime. https://home.kpmg/au/en/home/insights/2020/03/covid-19-coronavirus-protecting-business-from-cyber-crime-sme.html
+- 26 March 2020. Cisco Talos. Threat Update: COVID-19. https://blog.talosintelligence.com/2020/03/covid-19-pandemic-threats.html
+- 20 March 2020. Secure Works. https://www.secureworks.com/blog/maintaining-cybersecurity-in-the-face-of-covid-19-driven-organizational-change
+- 24 March 2020. F-Secure. COVID-19 and Your Company’s Security: The CISO Speaks https://blog.f-secure.com/podcast-covid19-company-security/
+- 16 March 2020. Harvard Buisness Review. Will Coronavirus Lead to More Cyber Attacks?  https://hbr.org/2020/03/will-coronavirus-lead-to-more-cyber-attacks
+- 16 March 2020. IRM. COVID-19: Data Protection & Cyber Security Paper https://cdn2.hubspot.net/hubfs/2539481/Reports-Guides-Whitepapers/Covid-19%20Data%20Protection%20&%20Cyber%20Security.pdf
+- 6 March 2020. Cybersecurity and Infrastructure Security Agency (CISA).  https://www.cisa.gov/sites/default/files/publications/20_0306_cisa_insights_risk_management_for_novel_coronavirus.pdf
 - Deloitte. COVID-19: Cyber Preparedness & Response https://www2.deloitte.com/content/dam/Deloitte/ie/Documents/covid19/deloitte-ie-covid-19-cyber-infographic.pdf
+
+*Please note, we have removed most media reporting unless it adds specific threat information or insight in addition to the resources above. Simarly we have ignored resources that do not add specific insight or original content. Where resources are behind a registration page this is indicated. Please send resources to Cyber.IntelligenceTeam@Mishcon.com or submit a pull request.*
