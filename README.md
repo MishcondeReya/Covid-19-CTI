@@ -14,6 +14,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - List of IOCs (Hashes, domains, IPs) used in COVID-19 attacks https://github.com/parthdmaniar/coronavirus-covid-19-SARS-CoV-2-IoCs/blob/master/All%20IOCs 
 
 # Incidents
+ - 25 March 2020 Popup malware distributed via modified Wordpress plugins https://www.bleepingcomputer.com/news/security/wordpress-malware-distributed-via-pirated-coronavirus-plugins/
 - 23 March 2020 HHS.gov Open Redirect Used by Coronavirus Phishing to Spread Malware https://www.bleepingcomputer.com/news/security/hhsgov-open-redirect-used-by-coronavirus-phishing-to-spread-malware/
 - 23 March 2020 Hackers Hijack Routers’ DNS to Spread Malicious COVID-19 Apps https://www.bleepingcomputer.com/news/security/hackers-hijack-routers-dns-to-spread-malicious-covid-19-apps/
 - 20 March 2020 UK Middlesbrough Local Council targeted with COV_19-themed emails https://www.bbc.co.uk/news/uk-england-tees-51980150
