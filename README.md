@@ -11,24 +11,21 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Joe Tidy - Phishing Scams Search. https://coronavirusphishing.com/
 - APKLab - App Malware samples and domain list (clean and malicious). https://www.apklab.io/covid19
 - Cofense - Coronavirus Phishing. https://cofense.com/solutions/topic/coronavirus-infocenter/
-<<<<<<< HEAD
 - List of IOCs (Hashes, domains, IPs) used in COVID-19 attacks https://github.com/parthdmaniar/coronavirus-covid-19-SARS-CoV-2-IoCs/blob/master/All%20IOCs 
 - CyberReason - Various IOCs. https://www.cybereason.com/hubfs/Indicators%20of%20Compromise/Coronavirus-Themed%20Malware%20IOCs.pdf
 - Sophos - Various IOCs. https://github.com/sophoslabs/covid-iocs
+- MISP-Project - Covid-19 dedicated MISP. https://covid-19.iglocska.eu/. For access, send a DM to https://twitter.com/MISPProject
 
 
 # Incidents
+- 24 March 2020. Computing. Spanish hospitals targeted with coronavirus-themed phishing lures in Netwalker ransomware attacks. https://www.computing.co.uk/news/4012969/hospitals-coronavirus-ransomware
+- 23 March 2020. Bleeping Computer. Hackers Hijack Routers’ DNS to Spread Malicious COVID-19 Apps. https://www.bleepingcomputer.com/news/security/hackers-hijack-routers-dns-to-spread-malicious-covid-19-apps/
 - 23 March 2020 HHS.gov Open Redirect Used by Coronavirus Phishing to Spread Malware https://www.bleepingcomputer.com/news/security/hhsgov-open-redirect-used-by-coronavirus-phishing-to-spread-malware/
 - 23 March 2020 Hackers Hijack Routers’ DNS to Spread Malicious COVID-19 Apps https://www.bleepingcomputer.com/news/security/hackers-hijack-routers-dns-to-spread-malicious-covid-19-apps/
-- 20 March 2020 UK Middlesbrough Local Council targeted with COV_19-themed emails https://www.bbc.co.uk/news/uk-england-tees-51980150
-=======
-- MISP-Project - Covid-19 dedicated MISP. https://covid-19.iglocska.eu/. Want access, send DM to https://twitter.com/MISPProject
-
-# Incidents
 - 23 March 2020. HHS.gov Open Redirect Used by Coronavirus Phishing to Spread Malware https://www.bleepingcomputer.com/news/security/hhsgov-open-redirect-used-by-coronavirus-phishing-to-spread-malware/
 - 23 March 2020. Hackers Hijack Routers’ DNS to Spread Malicious COVID-19 Apps https://www.bleepingcomputer.com/news/security/hackers-hijack-routers-dns-to-spread-malicious-covid-19-apps/
 - 23 March 2020. Ransomware gang breaks promise not to target medical organizations during coronavirus outbreak. techspot.com/news/84501-ransomware-gang-breaks-promise-not-target-medical-organizations.html
->>>>>>> pr/2
+- 20 March 2020 UK Middlesbrough Local Council targeted with COV_19-themed emails https://www.bbc.co.uk/news/uk-england-tees-51980150
 - 14 March 2020 BlackWater Malware Abuses Cloudflare Workers for C2 Communication. https://www.bleepingcomputer.com/news/security/blackwater-malware-abuses-cloudflare-workers-for-c2-communication/
 - 13 March 2020 Czech Covid-19 testing hospital hit with Ransomware. https://brnodaily.com/2020/03/13/news/serious-cyber-attack-targets-brno-university-hospital/
 - 13 March 2020. Phishing campaign targeting World Health Organisation using typosquatted domain https://www.reuters.com/article/us-health-coronavirus-who-hack-exclusive-idUSKBN21A3BN
@@ -40,13 +37,10 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 # Reports
 
 - RiskIQ Covid-19 daily update. https://www.riskiq.com/blog/analyst/covid19-daily-update/
-<<<<<<< HEAD
 - Silobreaker. Covid-19 Threat Daily Update.  https://www.silobreaker.com/tag/covid19-threat-digest/. 
 - 25 March 2020. CyberInt. COVID-19 Ongoing Cyber Updates https://blog.cyberint.com/covid-19-ongoing-cyber-updates
 - 25 March 2020. Looking Glass Cyber. THREAT ACTORS EXPLOIT COVID-19 IN CYBER CRIME CAMPAIGNS https://www.lookingglasscyber.com/blog/threat-actors-exploit-covid-19-in-cyber-crime-campaigns/
-=======
 - Silobreaker. Covid-19 Threat Daily Update. https://www.silobreaker.com/tag/covid19-threat-digest/. 
->>>>>>> pr/2
 - 25 March 2020. Kieren Nicolas. COVID-19 SECURITY ALERT - UK https://www.kierennicolas.com/blog/covid-19-security-alert-uk
 - 25 March 2020. Yoroi. New Cyber Attack Campaign Leverages the COVID-19 Infodemic. https://yoroi.company/research/new-cyber-attack-campaign-leverages-the-covid-19-infodemic/
 - 25 March 2020. Mimecast. WEBCAST RECAP: TUESDAY’S GLOBAL CYBER THREAT INTELLIGENCE WEEKLY BRIEFING https://www.mimecast.com/blog/2020/03/webcast-recap-global-cyber-threat-intelligence-weekly-briefing/
@@ -54,11 +48,9 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - 24 March 2020. Sophos. Facing down the myriad threats tied to COVID-19 https://news.sophos.com/en-us/2020/03/24/covidmalware/
 - 24 March 2020. Crowdstrike. Situational Awareness: Cyber Threats Heightened by COVID-19 and How to Protect Against Them. https://www.crowdstrike.com/blog/covid-19-cyber-threats/
 - 24 March 2020. RUSI. How Covid-19 is Changing the Organised Crime Threat. https://rusi.org/commentary/how-covid-19-changing-organised-crime-threat
-- 24 March 2020. Computing. Spanish hospitals targeted with coronavirus-themed phishing lures in Netwalker ransomware attacks. https://www.computing.co.uk/news/4012969/hospitals-coronavirus-ransomware
 - 24 March 2020. Palo Alto Unit 42. Don’t Panic: COVID-19 Cyber Threats. https://unit42.paloaltonetworks.com/covid19-cyber-threats/
 - 24 March 2020. Anomali. Anomali Aggregates Open Source Threat Intelligence to Fight COVID-19-themed Cyber Attacks. https://www.anomali.com/blog/anomali-aggregates-open-source-threat-intelligence-to-fight-covid-19-themed-cyber-attacks
 - 23 March 2020. Securonix. COVID-19 Cyber Threat Update – March 23, 2020. https://www.securonix.com/securonix-covid-19-threat-update-march-23-2020/
-- 23 March 2020. Bleeping Computer. Hackers Hijack Routers’ DNS to Spread Malicious COVID-19 Apps. https://www.bleepingcomputer.com/news/security/hackers-hijack-routers-dns-to-spread-malicious-covid-19-apps/
 - 23 March 2020. Malwarebytes. Fake “Corona Antivirus” distributes BlackNET remote administration tool. https://blog.malwarebytes.com/threat-analysis/2020/03/fake-corona-antivirus-distributes-blacknet-remote-administration-tool/
 - 23 March 2020. Securonix. COVID-19 Cyber Threat Update – March 23, 2020 https://www.securonix.com/securonix-covid-19-threat-update-march-23-2020/
 - 23 March 2020. Fake “Corona Antivirus” distributes BlackNET remote administration tool. https://blog.malwarebytes.com/threat-analysis/2020/03/fake-corona-antivirus-distributes-blacknet-remote-administration-tool/
@@ -73,7 +65,6 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - 20 March 2020. Trend Micro - Developing Story: Coronavirus Used in Malicious Campaigns. https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/coronavirus-used-in-spam-malware-file-names-and-malicious-domains
 - 20 March 2020. Malware Bytes. Coronavirus scams, found and explained https://blog.malwarebytes.com/scams/2020/03/coronavirus-scams-found-and-explained/
 - 20 March 2020. Francois Mouton & Arno de Coning. COVID-19: Impact on the Cyber Security Threat Landscape, https://www.researchgate.net/publication/340066124_COVID-19_Impact_on_the_Cyber_Security_Threat_Landscape
-<<<<<<< HEAD
 - 20 March 2020 New York asks domain registrars to crack down on sites used for coronavirus scams https://www.zdnet.com/article/new-york-asks-domain-registrars-to-crack-down-on-sites-used-for-coronavirus-scams/
 - 20 March 2020, FBI - FBI Sees Rise in Farud Schemes Related to the Coronavirus (COVID-19) Pandemic
  https://www.ic3.gov/media/2020/200320.aspx
@@ -82,21 +73,15 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - 20 March 2020 Trend Micro - Developing Story: Coronavirus Used in Malicious Campaigns. https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/coronavirus-used-in-spam-malware-file-names-and-malicious-domains
 - 20 March 2020. Carbon Black. Technical Analysis: Hackers Leveraging COVID-19 Pandemic to Launch Phishing Attacks, Fake Apps/Maps, Trojans, Backdoors, Cryptominers, Botnets & Ransomware https://www.carbonblack.com/2020/03/19/technical-analysis-hackers-leveraging-covid-19-pandemic-to-launch-phishing-attacks-trojans-backdoors-cryptominers-botnets-ransomware/
 - 19 March 2020. Fidelis Security. COVID-19 / Coronavirus: Threats Facing a Remote Workforce and Industry https://www.fidelissecurity.com/threatgeek/threat-intelligence/covid-19-threats/
-- 19 March 2020 Covid lures used in Business Email Compromise https://www.agari.com/email-security-blog/business-email-compromise-bec-coronavirus-covid-19/
+- 19 March 2020 Agari. Covid lures used in Business Email Compromise https://www.agari.com/email-security-blog/business-email-compromise-bec-coronavirus-covid-19/
 - 19 March 2020 EEAS SPECIAL REPORT: DISINFORMATION ON THE CORONAVIRUS – SHORT ASSESSMENT OF THE INFORMATION ENVIRONMENT https://euvsdisinfo.eu/eeas-special-report-disinformation-on-the-coronavirus-short-assessment-of-the-information-environment/
 - 19 March 2020 Digital Shadows - Covid-19 Dark Web reactions. https://www.digitalshadows.com/blog-and-research/covid-19-dark-web-reactions/
 - 19 March 2020 EFF Covid-19 phishing guide. https://www.eff.org/deeplinks/2020/03/phishing-time-covid-19-how-recognize-malicious-coronavirus-phishing-scams
-=======
-- 19 March 2020. Covid lures used in Business Email Compromise. https://www.agari.com/email-security-blog/business-email-compromise-bec-coronavirus-covid-19/
-- 19 March 2020. EEAS SPECIAL REPORT: DISINFORMATION ON THE CORONAVIRUS – SHORT ASSESSMENT OF THE INFORMATION ENVIRONMENT. https://euvsdisinfo.eu/eeas-special-report-disinformation-on-the-coronavirus-short-assessment-of-the-information-environment/
 - 19 March 2020. Digital Shadows. Covid-19 Dark Web reactions. https://www.digitalshadows.com/blog-and-research/covid-19-dark-web-reactions/
-- 19 March 2020. EFF Covid-19 phishing guide. https://www.eff.org/deeplinks/2020/03/phishing-time-covid-19-how-recognize-malicious-coronavirus-phishing-scams
->>>>>>> pr/2
 - 19 March 2020. ElecticIQ Investigating Phishing Attacks Exploiting Coronavirus Themes. https://blog.eclecticiq.com/covid-19/investigating-phishing-attacks-exploiting-coronavirus-covid-19-themes
 - 19 March 2020. Fidelis Security. COVID-19 / Coronavirus: Threats Facing a Remote Workforce and Industry https://www.fidelissecurity.com/threatgeek/threat-intelligence/covid-19-threats/
 - 19 March 2020. MDR Cyber. Covid-19 Cyber Update. https://www.mishcon.com/news/covid-19-cyber-security-update
 - 19 March 2020. NCC Group. Threat Actors: exploiting the pandemic. https://research.nccgroup.com/2020/03/19/threat-actors-exploiting-the-pandemic/
-<<<<<<< HEAD
 - 19 March 2020. Cofense. Threat Actors Innovate to Exploit COVID-19, Delivering OpenOffice .OPD Attachments on a Shoestring Budget  https://cofense.com/threat-actors-innovate-exploit-covid-19-delivering-openoffice-opd-attachments-shoestring-budget/
 - 18 March 2020 Ransomware Gangs to Stop Attacking Health Orgs During Pandemic https://www.bleepingcomputer.com/news/security/ransomware-gangs-to-stop-attacking-health-orgs-during-pandemic/
 - 18 March 2020. Qualys. Cyber Criminals using Coronavirus Fears to Spread Information-Stealing Malware https://blog.qualys.com/indication-of-compromise/2020/03/18/cyber-criminals-using-coronavirus-fears-to-spread-information-stealing-malware
@@ -115,13 +100,12 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - 7 Feb 2020. Kaspersky - Coronavirus phishing - https://www.kaspersky.com/blog/coronavirus-phishing/32395/
 - 3 Feb 2020. Health Sector Cybersecurity Coordination Center. Coronavirus Themed E-mail Phishing. https://www.aha.org/guidesreports/2020-02-04-coronavirus-themed-e-mail-phishing
 - 13 Jan 2020. Checkpoint. Coronavirus-themed spam spreads malicious Emotet malware https://blog.checkpoint.com/2020/02/13/january-2020s-most-wanted-malware-coronavirus-themed-spam-spreads-malicious-emotet-malware/
-=======
 - 19 March 2020. Cofense. Threat Actors Innovate to Exploit COVID-19, Delivering OpenOffice .OPD Attachments on a Shoestring Budget. https://cofense.com/threat-actors-innovate-exploit-covid-19-delivering-openoffice-opd-attachments-shoestring-budget/
 - 19 March 2020. Herjavec Group. Threat Advisory: Additional Information Regarding COVID-19 Related Cyber Attacks. herjavecgroup.com/threat-advisory-additional-information-covid19-cyber-attacks/
 - 18 March 2020. New Threat Discovery Shows Commercial Surveillanceware Operators Latest to Exploit COVID-19. https://blog.lookout.com/commercial-surveillanceware-operators-latest-to-take-advantage-of-covid-19
 - 18 March 2020. Authorities Eye Using Mobile Phone Tracking COVID-19’s Spread. https://threatpost.com/authorities-mobile-phone-tracking-covid-19-spread/153903/
-- 18 March 2020. Ransomware Gangs to Stop Attacking Health Orgs During Pandemic. https://www.bleepingcomputer.com/news/security/ransomware-gangs-to-stop-attacking-health-orgs-during-pandemic/
-- 16 March 2020. APT36 jumps on the coronavirus bandwagon, delivers Crimson RAT. https://blog.malwarebytes.com/threat-analysis/2020/03/apt36-jumps-on-the-coronavirus-bandwagon-delivers-crimson-rat/
+- 18 March 2020. Media. Ransomware Gangs to Stop Attacking Health Orgs During Pandemic. https://www.bleepingcomputer.com/news/security/ransomware-gangs-to-stop-attacking-health-orgs-during-pandemic/
+- 16 March 2020. Malware Bytes. APT36 jumps on the coronavirus bandwagon, delivers Crimson RAT. https://blog.malwarebytes.com/threat-analysis/2020/03/apt36-jumps-on-the-coronavirus-bandwagon-delivers-crimson-rat/
 - 16 March 2020. National Cyber Security Centre. Cyber experts step in as criminals seek to exploit Coronavirus fears. https://www.ncsc.gov.uk/news/cyber-experts-step-criminals-exploit-coronavirus
 - 13 March 2020. State-sponsored attackers using COVID-19 Lures (Russia, China, North Korea) https://www.zdnet.com/article/state-sponsored-hackers-are-now-using-coronavirus-lures-to-infect-their-targets/
 - 13 March 2020. F-Secure. Coronavirus email attacks evolving as outbreak spreads. https://blog.f-secure.com/coronavirus-email-attacks-evolving-as-outbreak-spreads/
@@ -130,7 +114,6 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - 13 Feb 2020. Cisco Talos. Threat actors attempt to capitalize on coronavirus outbreak. https://blog.talosintelligence.com/2020/02/coronavirus-themed-malware.html
 - 7 Feb 2020. Kaspersky - Coronavirus phishing. https://www.kaspersky.com/blog/coronavirus-phishing/32395/
 - Jan 2020. Checkpoint. Coronavirus-themed spam spreads malicious Emotet malware. https://blog.checkpoint.com/2020/02/13/january-2020s-most-wanted-malware-coronavirus-themed-spam-spreads-malicious-emotet-malware/
->>>>>>> pr/2
 
 # Remote Working 
 
@@ -141,12 +124,9 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - 19 March 2020. LexisNexis. COVID-19: Cyber and Data Security Legal Checklist. https://www.lexology.com/library/detail.aspx?g=a184ab86-5d62-4514-a39e-c0f0c0ee693d
 - 17 March 2020. NIST. Preventing Eavesdropping and Protecting Privacy on Virtual Meetings https://www.nist.gov/blogs/cybersecurity-insights/preventing-eavesdropping-and-protecting-privacy-virtual-meetings
 - 17 March 2020. National Cyber Security Centre - Home Working: preparing your organisation and staff. https://www.ncsc.gov.uk/guidance/home-working
+- 16 March 2020. SANS - SANS Security Awareness Work-from-Home Deployment Kit. https://www.sans.org/security-awareness-training/sans-security-awareness-work-home-deployment-kit
 - 16 March 2020. ESET. COVID‑19 and the shift to remote work https://www.welivesecurity.com/2020/03/16/covid19-forced-workplace-exodus/
 - 11 March 2020. Crowdstrike. Cybersecurity in the Time of COVID-19: Keys to Embracing (and Securing) a Remote Workforce. https://www.crowdstrike.com/blog/securing-a-remote-workforce-in-the-time-of-covid-19/
 - 6 March 2020. Cybersecurity and Infrastructure Security Agency (CISA).  https://www.cisa.gov/sites/default/files/publications/20_0306_cisa_insights_risk_management_for_novel_coronavirus.pdf
 - Cyber Readiness Institute. Securing a Remote Workforce. https://cyberreadinessinstitute.org/images/CRI-Securing-a-Remote-Workforce.pdf
-<<<<<<< HEAD
 - Deloitte. COVID-19: Cyber Preparedness & Response https://www2.deloitte.com/content/dam/Deloitte/ie/Documents/covid19/deloitte-ie-covid-19-cyber-infographic.pdf
-=======
-- 16 March 2020. SANS - SANS Security Awareness Work-from-Home Deployment Kit. https://www.sans.org/security-awareness-training/sans-security-awareness-work-home-deployment-kit
->>>>>>> pr/2
