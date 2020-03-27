@@ -49,6 +49,8 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 
 - RiskIQ Covid-19 daily update. https://www.riskiq.com/blog/analyst/covid19-daily-update/
 - Silobreaker. Covid-19 Threat Daily Update.  https://www.silobreaker.com/tag/covid19-threat-digest/. 
+- 26 March 2020. Phishlabs. COVID-19 Phishing Update: Threat Actors Impersonating CDC, WHO https://info.phishlabs.com/blog/covid-19-phishing-update-threat-actors-target-cdc-who
+- 26 March 2020. Digital Shadows. COVID-19: Companies and Verticals At Risk For Cyber Attacks https://www.digitalshadows.com/blog-and-research/covid-19-companies-and-verticals-at-risk-for-cyber-attacks/
 - 26 March 2020. CERT NZ. Attackers using COVID-19 themed scams - updated alert. https://www.cert.govt.nz/individuals/alerts/attackers-using-covid-19-themed-scams-updated-alert/
 - 25 March 2020. World Economic Forum. How COVID-19 shows the urgent need to address the cyber poverty gap. https://www.weforum.org/agenda/2020/03/covid-19-pandemic-shows-the-urgency-for-addressing-the-cyber-poverty-gap/
 - 25 March 2020. CyberInt. COVID-19 Ongoing Cyber Updates https://blog.cyberint.com/covid-19-ongoing-cyber-updates
