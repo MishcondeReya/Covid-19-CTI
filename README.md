@@ -65,6 +65,7 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 - 25 March 2020. Yoroi. New Cyber Attack Campaign Leverages the COVID-19 Infodemic. https://yoroi.company/research/new-cyber-attack-campaign-leverages-the-covid-19-infodemic/
 - 25 March 2020. Mimecast. WEBCAST RECAP: TUESDAY’S GLOBAL CYBER THREAT INTELLIGENCE WEEKLY BRIEFING https://www.mimecast.com/blog/2020/03/webcast-recap-global-cyber-threat-intelligence-weekly-briefing/
 - 25 March 2020. MDR Cyber. Covid-19 Security Update. https://www.mishcon.com/news/covid-19-cyber-security-update-25-march
+- 24 March 2020. Manchester Council. Coronavirus related fraud https://secure.manchester.gov.uk/info/500361/coronavirus/7928/coronavirus/17
 - 24 March 2020. Lexology. COVID-19: Key EU And U.S. Cybersecurity Issues and Risk-Remediation Steps. COVID-19: Key EU And U.S. Cybersecurity Issues and Risk-Remediation Steps
 - 24 March 2020. Sophos. Facing down the myriad threats tied to COVID-19 https://news.sophos.com/en-us/2020/03/24/covidmalware/
 - 24 March 2020. Crowdstrike. Situational Awareness: Cyber Threats Heightened by COVID-19 and How to Protect Against Them. https://www.crowdstrike.com/blog/covid-19-cyber-threats/
