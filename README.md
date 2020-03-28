@@ -50,6 +50,9 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - RiskIQ Covid-19 daily update. https://www.riskiq.com/blog/analyst/covid19-daily-update/
 - Silobreaker. Covid-19 Threat Daily Update.  https://www.silobreaker.com/tag/covid19-threat-digest/.
 - Fraud Watch International. Covid-19 Online Scams. https://fraudwatchinternational.com/covid19/
+- 27 March 2020. KnowBe4. https://blog.knowbe4.com/bad-guys-push-new-covid-19-message-you-are-infected. Bad Guys Push New COVID-19 Message: You Are Infected. 
+- 27 March 2020. Fireeye. Social Engineering Based on Stimulus Bill and COVID-19 Financial Compensation Schemes Expected to Grow in Coming Weeks. https://www.fireeye.com/blog/threat-research/2020/03/stimulus-bill-social-engineering-covid-19-financial-compensation-schemes.html
+- 27 March 2020. Austrialian Cybersecurity Centre. Threat update: COVID-19 malicious cyber activity https://www.cyber.gov.au/threats/threat-update-covid-19-malicious-cyber-activity
 - 27 March 2020. Europol. PANDEMIC PROFITEERING: HOW CRIMINALS EXPLOIT THE COVID-19 CRISIS. https://www.europol.europa.eu/publications-documents/pandemic-profiteering-how-criminals-exploit-covid-19-crisis
 - 27 March 2020. Trend Micro. Developing Story: COVID-19 Used in Malicious Campaigns 
 https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/coronavirus-used-in-spam-malware-file-names-and-malicious-domains
@@ -57,6 +60,7 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 - 26 March 2020. Phishlabs. COVID-19 Phishing Update: Threat Actors Impersonating CDC, WHO https://info.phishlabs.com/blog/covid-19-phishing-update-threat-actors-target-cdc-who
 - 26 March 2020. Digital Shadows. COVID-19: Companies and Verticals At Risk For Cyber Attacks https://www.digitalshadows.com/blog-and-research/covid-19-companies-and-verticals-at-risk-for-cyber-attacks/
 - 26 March 2020. CERT NZ. Attackers using COVID-19 themed scams - updated alert. https://www.cert.govt.nz/individuals/alerts/attackers-using-covid-19-themed-scams-updated-alert/
+- 26 March 2020. Malysian National Cyber Security Agency (NACSA). Advisory on Cyber Threat Using COVID-19 Outbreak As Theme. https://www.nacsa.gov.my/advisory2.php
 - 25 March 2020. World Economic Forum. How COVID-19 shows the urgent need to address the cyber poverty gap. https://www.weforum.org/agenda/2020/03/covid-19-pandemic-shows-the-urgency-for-addressing-the-cyber-poverty-gap/
 - 25 March 2020. CyberInt. COVID-19 Ongoing Cyber Updates https://blog.cyberint.com/covid-19-ongoing-cyber-updates
 - 25 March 2020. Looking Glass Cyber. THREAT ACTORS EXPLOIT COVID-19 IN CYBER CRIME CAMPAIGNS https://www.lookingglasscyber.com/blog/threat-actors-exploit-covid-19-in-cyber-crime-campaigns/
@@ -99,6 +103,7 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 - 20 March 2020 Trend Micro - Developing Story: Coronavirus Used in Malicious Campaigns. https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/coronavirus-used-in-spam-malware-file-names-and-malicious-domains
 - 20 March 2020. Carbon Black. Technical Analysis: Hackers Leveraging COVID-19 Pandemic to Launch Phishing Attacks, Fake Apps/Maps, Trojans, Backdoors, Cryptominers, Botnets & Ransomware https://www.carbonblack.com/2020/03/19/technical-analysis-hackers-leveraging-covid-19-pandemic-to-launch-phishing-attacks-trojans-backdoors-cryptominers-botnets-ransomware/
 - 20 March 2020. FBI. FBI SEES RISE IN FRAUD SCHEMES RELATED TO THE CORONAVIRUS (COVID-19) PANDEMIC. https://www.ic3.gov/media/2020/200320.aspx
+- 19 March 2020. Congressional Research Unit. COVID-19: Cybercrime Opportunities and Law Enforcement Response https://crsreports.congress.gov/product/pdf/IN/IN11257
 - 19 March 2020. Fidelis Security. COVID-19 / Coronavirus: Threats Facing a Remote Workforce and Industry https://www.fidelissecurity.com/threatgeek/threat-intelligence/covid-19-threats/
 - 19 March 2020 Agari. Covid lures used in Business Email Compromise https://www.agari.com/email-security-blog/business-email-compromise-bec-coronavirus-covid-19/
 - 19 March 2020 EEAS SPECIAL REPORT: DISINFORMATION ON THE CORONAVIRUS – SHORT ASSESSMENT OF THE INFORMATION ENVIRONMENT https://euvsdisinfo.eu/eeas-special-report-disinformation-on-the-coronavirus-short-assessment-of-the-information-environment/
@@ -127,6 +132,7 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 - 12 March 2020. RecordFuture. Capitalizing on Coronavirus Panic, Threat Actors Target Victims Worldwide https://www.recordedfuture.com/coronavirus-panic-exploit/
 - 12 March 2020. Tenable. COVID-19: Coronavirus Fears Seized by Cybercriminals. https://www.tenable.com/blog/covid-19-coronavirus-fears-seized-by-cybercriminals
 - 12 March 2020. Intsights. Cybercriminals Exploit Coronavirus Spread with Malware, Phishing Schemes https://intsights.com/blog/cybercriminals-exploit-coronavirus-spread-with-malware-phishing-schemes-1
+- 12 March 2020. Checkpoint. Vicious Panda: The COVID Campaign https://research.checkpoint.com/2020/vicious-panda-the-covid-campaign/
 - 11 March 2020. Avast. Iranian Coronavirus app collecting sensitive information
  https://blog.avast.com/iranian-coronavirus-app-collecting-sensitive-information-avast
 - 5 March 2020. Check Point. Update: Coronavirus-themed domains 50% more likely to be malicious than other domains. https://blog.checkpoint.com/2020/03/05/update-coronavirus-themed-domains-50-more-likely-to-be-malicious-than-other-domains/
@@ -140,12 +146,14 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 - RiskIQ. Ransomware Attacks the Next Consequence of the Coronavirus Outbreak (requires registration). https://www.riskiq.com/research/ransomware-attacks-the-next-consequence-of-the-coronavirus-outbreak/
 - Marsh. COVID-19: Implications for Cyber, Media, and Tech E&O Coverage. https://www.marsh.com/uk/insights/research/covid-19-implications-for-cyber-media-tech.html
 
-## Remote Working 
+## Remote Working & Conferencing Software
 
+- 27 March 2020. Sky News. UK Government Uses Zoom Despite MoD Security Concerns https://news.sky.com/story/coronairus-cabinet-talks-held-on-zoom-days-after-software-was-banned-by-ministry-of-defence-11963889
 - 27 March 2020. ACA Compliance Group. Keeping Children Safe Online During COVID-19 Social Distancing.  https://www.acacompliancegroup.com/blog/keeping-children-safe-online-during-covid-19-social-distancing
 - 26 March 2020. Lexology. COVID-19: Remote Working and Cybersecurity https://www.lexology.com/library/detail.aspx?g=4194be55-51e0-4227-ac98-dbbca209c2c1
 - 24 March 2020. ENISA. Tips for cybersecurity when working from home. https://www.enisa.europa.eu/tips-for-cybersecurity-when-working-from-home
 - 24 March 2020. H-ISAC Report: Hacking Healthcare - TLP White, March 24, 2020 (focus on Telework). https://www.aha.org/h-isac-reports/2020-03-25-h-isac-report-hacking-healthcare-tlp-white-march-24-2020
+- 20 March 2020. Security Boulevard. Using Zoom? Here are the privacy issues you need to be aware of https://securityboulevard.com/2020/03/using-zoom-here-are-the-privacy-issues-you-need-to-be-aware-of/
 - 20 March 2020. F-Secure. Protecting employees and systems in a time of pandemic https://blog.f-secure.com/protecting-employees-and-systems-in-a-time-of-pandemic/
 - 20 March 2020. CSO Online. Free security resources for work-from-home employees during the COVID-19 crisis. https://www.csoonline.com/article/3532797/free-security-resources-for-work-from-home-employees-during-the-covid-19-crisis.html
 - 20 March 2020. Fireeye. Remote Work in an Age of COVID-19 — Threat Modeling. https://www.fireeye.com/blog/executive-perspective/2020/03/remote-work-in-an-age-of-covid-19-threat-modeling-the-risks.html
@@ -161,11 +169,14 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 
 ## Cybersecurity Reports
 
+- Information Security Forum (ISF). ISF resource and content suite for the Coronavirus outbreak. https://www.securityforum.org/covid-19/
+- 27 March 2020. PwC. How to protect your companies from rising cyber attacks and fraud amid the COVID-19 outbreak https://www.pwc.com/us/en/library/covid-19/cyber-attacks.html
 - 27 March 2020. Flashpoint. Considerations for Updating Near-Term Intelligence Requirements in Response to COVID-19 https://www.flashpoint-intel.com/blog/near-term-intelligence-requirements-in-response-to-covid-19/
 - 26 March 2020. KPMG. COVID-19: Protecting your business from cyber crime. https://home.kpmg/au/en/home/insights/2020/03/covid-19-coronavirus-protecting-business-from-cyber-crime-sme.html
 - 26 March 2020. Cisco Talos. Threat Update: COVID-19. https://blog.talosintelligence.com/2020/03/covid-19-pandemic-threats.html
 - 20 March 2020. Secure Works. https://www.secureworks.com/blog/maintaining-cybersecurity-in-the-face-of-covid-19-driven-organizational-change
 - 24 March 2020. F-Secure. COVID-19 and Your Company’s Security: The CISO Speaks https://blog.f-secure.com/podcast-covid19-company-security/
+- 18 March 2020. Canadian Centre for Cybersecurity. Cyber Hygiene for COVID-19 https://cyber.gc.ca/en/guidance/cyber-hygiene-covid-19
 - 16 March 2020. Harvard Buisness Review. Will Coronavirus Lead to More Cyber Attacks?  https://hbr.org/2020/03/will-coronavirus-lead-to-more-cyber-attacks
 - 16 March 2020. IRM. COVID-19: Data Protection & Cyber Security Paper https://cdn2.hubspot.net/hubfs/2539481/Reports-Guides-Whitepapers/Covid-19%20Data%20Protection%20&%20Cyber%20Security.pdf
 - 6 March 2020. Cybersecurity and Infrastructure Security Agency (CISA).  https://www.cisa.gov/sites/default/files/publications/20_0306_cisa_insights_risk_management_for_novel_coronavirus.pdf
