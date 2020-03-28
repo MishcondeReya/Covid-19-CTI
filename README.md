@@ -26,6 +26,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - MalwareHunterTeam (Twitter). https://twitter.com/malwrhunterteam and others such as Targetting of Ukraine Center for Public Health https://twitter.com/malwrhunterteam/status/1231239497666482177
 - Parth D. Maniar. Covid IOCs. https://github.com/parthdmaniar/coronavirus-covid-19-SARS-CoV-2-IoCs
 - Bloomver. Covid IOCs. https://github.com/Bloomvertech/covid-iocs
+- Thugcrowd. COVID-19 Real Time Scam Hunter https://thugcrowd.com/covid-19/
 
 ## Incidents
 - 24 March 2020. Computing. Spanish hospitals targeted with coronavirus-themed phishing lures in Netwalker ransomware attacks. https://www.computing.co.uk/news/4012969/hospitals-coronavirus-ransomware
@@ -51,6 +52,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - RiskIQ Covid-19 daily update. https://www.riskiq.com/blog/analyst/covid19-daily-update/
 - Silobreaker. Covid-19 Threat Daily Update.  https://www.silobreaker.com/tag/covid19-threat-digest/.
 - Fraud Watch International. Covid-19 Online Scams. https://fraudwatchinternational.com/covid19/
+- KPN Security Research Team https://github.com/KPN-SRT/covid19_cyber_threats
 - 27 March 2020. KnowBe4. https://blog.knowbe4.com/bad-guys-push-new-covid-19-message-you-are-infected. Bad Guys Push New COVID-19 Message: You Are Infected. 
 - 27 March 2020. Fireeye. Social Engineering Based on Stimulus Bill and COVID-19 Financial Compensation Schemes Expected to Grow in Coming Weeks. https://www.fireeye.com/blog/threat-research/2020/03/stimulus-bill-social-engineering-covid-19-financial-compensation-schemes.html
 - 27 March 2020. Austrialian Cybersecurity Centre. Threat update: COVID-19 malicious cyber activity https://www.cyber.gov.au/threats/threat-update-covid-19-malicious-cyber-activity
@@ -118,12 +120,14 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 - 19 March 2020. Cofense. Threat Actors Innovate to Exploit COVID-19, Delivering OpenOffice .OPD Attachments on a Shoestring Budget  https://cofense.com/threat-actors-innovate-exploit-covid-19-delivering-openoffice-opd-attachments-shoestring-budget/
 - 19 March 2020. Cofense. Threat Actors Innovate to Exploit COVID-19, Delivering OpenOffice .OPD Attachments on a Shoestring Budget. https://cofense.com/threat-actors-innovate-exploit-covid-19-delivering-openoffice-opd-attachments-shoestring-budget/
 - 19 March 2020. Herjavec Group. Threat Advisory: Additional Information Regarding COVID-19 Related Cyber Attacks. herjavecgroup.com/threat-advisory-additional-information-covid19-cyber-attacks/
+- 18 March 2020. Cybereason. UST BECAUSE YOU’RE HOME DOESN’T MEAN YOU’RE SAFE https://www.cybereason.com/blog/just-because-youre-home-doesnt-mean-youre-safe
 - 18 March 2020. Lookout. New Threat Discovery Shows Commercial Surveillanceware Operators Latest to Exploit COVID-19. https://blog.lookout.com/commercial-surveillanceware-operators-latest-to-take-advantage-of-covid-19
 - 18 March 2020. Authorities Eye Using Mobile Phone Tracking COVID-19’s Spread. https://threatpost.com/authorities-mobile-phone-tracking-covid-19-spread/153903/
 - 18 March 2020. Media. Ransomware Gangs to Stop Attacking Health Orgs During Pandemic. https://www.bleepingcomputer.com/news/security/ransomware-gangs-to-stop-attacking-health-orgs-during-pandemic/
 - 18 March 2020. Qualys. Cyber Criminals using Coronavirus Fears to Spread Information-Stealing Malware https://blog.qualys.com/indication-of-compromise/2020/03/18/cyber-criminals-using-coronavirus-fears-to-spread-information-stealing-malware
 - 18 March 2020. Proofpoint. Coronavirus Threat Landscape Update. https://www.proofpoint.com/us/threat-insight/post/coronavirus-threat-landscape-update
 - 17 March 2020.  IBM X-Force Threat Intelligence Cybersecurity Brief: Novel Coronavirus (COVID-19) https://securityintelligence.com/posts/ibm-x-force-threat-intelligence-cybersecurity-brief-novel-coronavirus-covid-19/
+- 16 March 2020. Zscaler. CovidLock: Android Ransomware Walkthrough and Unlocking Routine  https://www.zscaler.com/blogs/research/covidlock-android-ransomware-walkthrough-and-unlocking-routine
 - 16 March 2020. Malware Bytes. APT36 jumps on the coronavirus bandwagon, delivers Crimson RAT. https://blog.malwarebytes.com/threat-analysis/2020/03/apt36-jumps-on-the-coronavirus-bandwagon-delivers-crimson-rat/
 - 16 March 2020. National Cyber Security Centre. Cyber experts step in as criminals seek to exploit Coronavirus fears. https://www.ncsc.gov.uk/news/cyber-experts-step-criminals-exploit-coronavirus
 - 16 March 2020. DomainTools. CovidLock Update: Deeper Analysis of Coronavirus Android Ransomware https://www.domaintools.com/resources/blog/covidlock-update-coronavirus-ransomware
@@ -136,6 +140,7 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 - 12 March 2020. Intsights. Cybercriminals Exploit Coronavirus Spread with Malware, Phishing Schemes https://intsights.com/blog/cybercriminals-exploit-coronavirus-spread-with-malware-phishing-schemes-1
 - 12 March 2020. Checkpoint. Vicious Panda: The COVID Campaign https://research.checkpoint.com/2020/vicious-panda-the-covid-campaign/
 - 11 March 2020. Avast. Iranian Coronavirus app collecting sensitive information  https://blog.avast.com/iranian-coronavirus-app-collecting-sensitive-information-avast
+- 9 March 2020. ElecticIQ. Investigating Phishing Attacks Exploiting Coronavirus Themes https://blog.eclecticiq.com/investigating-phishing-attacks-exploiting-coronavirus-covid-19-themes
 - 9 March 2020. Reason Security. COVID-19, Info Stealer &  the Map of Threats – Threat Analysis Report https://blog.reasonsecurity.com/2020/03/09/covid-19-info-stealer-the-map-of-threats-threat-analysis-report/
 - 5 March 2020. Check Point. Update: Coronavirus-themed domains 50% more likely to be malicious than other domains. https://blog.checkpoint.com/2020/03/05/update-coronavirus-themed-domains-50-more-likely-to-be-malicious-than-other-domains/
 - 4 March 2020. Fortinet. Attackers Taking Advantage of the Coronavirus/COVID-19 Media Frenzy https://www.fortinet.com/blog/threat-research/attackers-taking-advantage-of-the-coronavirus-covid-19-media-frenzy.html
@@ -148,6 +153,7 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 - RiskIQ. Ransomware Attacks the Next Consequence of the Coronavirus Outbreak (requires registration). https://www.riskiq.com/research/ransomware-attacks-the-next-consequence-of-the-coronavirus-outbreak/
 - Marsh. COVID-19: Implications for Cyber, Media, and Tech E&O Coverage. https://www.marsh.com/uk/insights/research/covid-19-implications-for-cyber-media-tech.html
 - Norton. Coronavirus phishing emails: How to protect against COVID-19 scams https://us.norton.com/internetsecurity-online-scams-coronavirus-phishing-scams.html
+- Enigma Software. COVID-19 WordPress Malware. https://www.enigmasoftware.com/covid19wordpressmalware-removal/
 
 ## Remote Working & Conferencing Software
 
