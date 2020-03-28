@@ -4,9 +4,9 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 
 - [IOC Sources](#IOC-Sources)
 - [Incidents](#Incidents)
-- [Intelligence Reports and Updates](#Reports)
-- [Remote Working](#Remote-Working)
-- [Covid-19 Cybersecurity](#Cybersecurity-during-Covid-19)
+- [Intelligence Reports and Updates](#Intelligence-Reports-and-Updates)
+- [Remote Working](#Remote-Working-&-Conferencing-Software)
+- [Cybersecurity Reports](#Cybersecurity-Reports)
 
 *Please note, we have removed most media reporting unless it adds specific threat information or insight in addition to the resources above. Simarly we have ignored resources that do not add specific insight or original content. Where resources are behind a registration page this is indicated.*
 
