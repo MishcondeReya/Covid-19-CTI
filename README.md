@@ -24,7 +24,8 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Sophos - Various IOCs. https://github.com/sophoslabs/covid-iocs
 - MISP-Project - Covid-19 dedicated MISP. https://covid-19.iglocska.eu/. For access, send a DM to https://twitter.com/MISPProject
 - MalwareHunterTeam (Twitter). https://twitter.com/malwrhunterteam and others such as Targetting of Ukraine Center for Public Health https://twitter.com/malwrhunterteam/status/1231239497666482177
-
+- Parth D. Maniar. Covid IOCs. https://github.com/parthdmaniar/coronavirus-covid-19-SARS-CoV-2-IoCs
+- Bloomver. Covid IOCs. https://github.com/Bloomvertech/covid-iocs
 
 ## Incidents
 - 24 March 2020. Computing. Spanish hospitals targeted with coronavirus-themed phishing lures in Netwalker ransomware attacks. https://www.computing.co.uk/news/4012969/hospitals-coronavirus-ransomware
@@ -126,6 +127,7 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 - 16 March 2020. Malware Bytes. APT36 jumps on the coronavirus bandwagon, delivers Crimson RAT. https://blog.malwarebytes.com/threat-analysis/2020/03/apt36-jumps-on-the-coronavirus-bandwagon-delivers-crimson-rat/
 - 16 March 2020. National Cyber Security Centre. Cyber experts step in as criminals seek to exploit Coronavirus fears. https://www.ncsc.gov.uk/news/cyber-experts-step-criminals-exploit-coronavirus
 - 16 March 2020. DomainTools. CovidLock Update: Deeper Analysis of Coronavirus Android Ransomware https://www.domaintools.com/resources/blog/covidlock-update-coronavirus-ransomware
+- 16 March 2020. AusCERT. COVID-19 Cyber Threats: Observations, OSINT and Safety Recommendations https://www.auscert.org.au/blog/2020-03-16-covid-19-observations-osint-and-safety-recommendations
 - 13 March 2020. State-sponsored attackers using COVID-19 Lures (Russia, China, North Korea) https://www.zdnet.com/article/state-sponsored-hackers-are-now-using-coronavirus-lures-to-infect-their-targets/
 - 13 March 2020. F-Secure. Coronavirus email attacks evolving as outbreak spreads. https://blog.f-secure.com/coronavirus-email-attacks-evolving-as-outbreak-spreads/
 - 13 March 2020 ZDNet. State-sponsored attackers using COVID-19 Lures (Russia, China, North Korea) https://www.zdnet.com/article/state-sponsored-hackers-are-now-using-coronavirus-lures-to-infect-their-targets/
@@ -133,8 +135,8 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 - 12 March 2020. Tenable. COVID-19: Coronavirus Fears Seized by Cybercriminals. https://www.tenable.com/blog/covid-19-coronavirus-fears-seized-by-cybercriminals
 - 12 March 2020. Intsights. Cybercriminals Exploit Coronavirus Spread with Malware, Phishing Schemes https://intsights.com/blog/cybercriminals-exploit-coronavirus-spread-with-malware-phishing-schemes-1
 - 12 March 2020. Checkpoint. Vicious Panda: The COVID Campaign https://research.checkpoint.com/2020/vicious-panda-the-covid-campaign/
-- 11 March 2020. Avast. Iranian Coronavirus app collecting sensitive information
- https://blog.avast.com/iranian-coronavirus-app-collecting-sensitive-information-avast
+- 11 March 2020. Avast. Iranian Coronavirus app collecting sensitive information  https://blog.avast.com/iranian-coronavirus-app-collecting-sensitive-information-avast
+- 9 March 2020. Reason Security. COVID-19, Info Stealer &  the Map of Threats – Threat Analysis Report https://blog.reasonsecurity.com/2020/03/09/covid-19-info-stealer-the-map-of-threats-threat-analysis-report/
 - 5 March 2020. Check Point. Update: Coronavirus-themed domains 50% more likely to be malicious than other domains. https://blog.checkpoint.com/2020/03/05/update-coronavirus-themed-domains-50-more-likely-to-be-malicious-than-other-domains/
 - 4 March 2020. Fortinet. Attackers Taking Advantage of the Coronavirus/COVID-19 Media Frenzy https://www.fortinet.com/blog/threat-research/attackers-taking-advantage-of-the-coronavirus-covid-19-media-frenzy.html
 - 19 Feb 2020. United Nations. UN health agency warns against coronavirus COVID-19 criminal scams. https://news.un.org/en/story/2020/02/1058381
@@ -145,6 +147,7 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 - 13 Jan 2020. Checkpoint. Coronavirus-themed spam spreads malicious Emotet malware. https://blog.checkpoint.com/2020/02/13/january-2020s-most-wanted-malware-coronavirus-themed-spam-spreads-malicious-emotet-malware/
 - RiskIQ. Ransomware Attacks the Next Consequence of the Coronavirus Outbreak (requires registration). https://www.riskiq.com/research/ransomware-attacks-the-next-consequence-of-the-coronavirus-outbreak/
 - Marsh. COVID-19: Implications for Cyber, Media, and Tech E&O Coverage. https://www.marsh.com/uk/insights/research/covid-19-implications-for-cyber-media-tech.html
+- Norton. Coronavirus phishing emails: How to protect against COVID-19 scams https://us.norton.com/internetsecurity-online-scams-coronavirus-phishing-scams.html
 
 ## Remote Working & Conferencing Software
 
