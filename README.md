@@ -27,6 +27,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Parth D. Maniar. Covid IOCs. https://github.com/parthdmaniar/coronavirus-covid-19-SARS-CoV-2-IoCs
 - Bloomver. Covid IOCs. https://github.com/Bloomvertech/covid-iocs
 - Thugcrowd. COVID-19 Real Time Scam Hunter https://thugcrowd.com/covid-19/
+- SANS. Covid Domain Classifier. https://isc.sans.edu/covidclassifier.html
 
 ## Incidents
 - 24 March 2020. Computing. Spanish hospitals targeted with coronavirus-themed phishing lures in Netwalker ransomware attacks. https://www.computing.co.uk/news/4012969/hospitals-coronavirus-ransomware
@@ -64,6 +65,7 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 - 26 March 2020. Digital Shadows. COVID-19: Companies and Verticals At Risk For Cyber Attacks https://www.digitalshadows.com/blog-and-research/covid-19-companies-and-verticals-at-risk-for-cyber-attacks/
 - 26 March 2020. CERT NZ. Attackers using COVID-19 themed scams - updated alert. https://www.cert.govt.nz/individuals/alerts/attackers-using-covid-19-themed-scams-updated-alert/
 - 26 March 2020. Malysian National Cyber Security Agency (NACSA). Advisory on Cyber Threat Using COVID-19 Outbreak As Theme. https://www.nacsa.gov.my/advisory2.php
+- 26 March 2020. Chartered Trading Standards Institute. Scam Alert: New COVID-19 coronavirus text scam. https://www.tradingstandards.uk/news-policy/news-room/2020/scam-alert-new-covid-19-coronavirus-text-scam
 - 25 March 2020. World Economic Forum. How COVID-19 shows the urgent need to address the cyber poverty gap. https://www.weforum.org/agenda/2020/03/covid-19-pandemic-shows-the-urgency-for-addressing-the-cyber-poverty-gap/
 - 25 March 2020. CyberInt. COVID-19 Ongoing Cyber Updates https://blog.cyberint.com/covid-19-ongoing-cyber-updates
 - 25 March 2020. Looking Glass Cyber. THREAT ACTORS EXPLOIT COVID-19 IN CYBER CRIME CAMPAIGNS https://www.lookingglasscyber.com/blog/threat-actors-exploit-covid-19-in-cyber-crime-campaigns/
@@ -157,6 +159,7 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 
 ## Remote Working & Conferencing Software
 
+- 27 March 2020. Doc Searls. Zoom needs to clean up its privacy act https://blogs.harvard.edu/doc/2020/03/27/zoom/
 - 27 March 2020. Sky News. UK Government Uses Zoom Despite MoD Security Concerns https://news.sky.com/story/coronairus-cabinet-talks-held-on-zoom-days-after-software-was-banned-by-ministry-of-defence-11963889
 - 27 March 2020. ACA Compliance Group. Keeping Children Safe Online During COVID-19 Social Distancing.  https://www.acacompliancegroup.com/blog/keeping-children-safe-online-during-covid-19-social-distancing
 - 26 March 2020. Lexology. COVID-19: Remote Working and Cybersecurity https://www.lexology.com/library/detail.aspx?g=4194be55-51e0-4227-ac98-dbbca209c2c1
@@ -172,6 +175,8 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 - 17 March 2020. National Cyber Security Centre - Home Working: preparing your organisation and staff. https://www.ncsc.gov.uk/guidance/home-working
 - 16 March 2020. SANS - SANS Security Awareness Work-from-Home Deployment Kit. https://www.sans.org/security-awareness-training/sans-security-awareness-work-home-deployment-kit
 - 16 March 2020. ESET. COVID‑19 and the shift to remote work https://www.welivesecurity.com/2020/03/16/covid19-forced-workplace-exodus/
+- 13 March 2020. Threatpost. Working from Home: COVID-19’s Constellation of Security Challenges
+ https://threatpost.com/working-from-home-covid-19s-constellation-of-security-challenges/153720/
 - 11 March 2020. Crowdstrike. Cybersecurity in the Time of COVID-19: Keys to Embracing (and Securing) a Remote Workforce. https://www.crowdstrike.com/blog/securing-a-remote-workforce-in-the-time-of-covid-19/
 - Cyber Readiness Institute. Securing a Remote Workforce. https://cyberreadinessinstitute.org/images/CRI-Securing-a-Remote-Workforce.pdf
 
@@ -179,6 +184,9 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 ## Cybersecurity Reports
 
 - Information Security Forum (ISF). ISF resource and content suite for the Coronavirus outbreak. https://www.securityforum.org/covid-19/
+- 28 March 2020. AlixPartners. ESSENTIAL STRATEGIES FOR MANAGING CYBER RISK IN DISRUPTIVE TIMES https://www.alixpartners.com/media/14661/covid-19-response-business-disruption_cyber-risk.pdf
+- 28 March 2020. NHS. Reducing burden and releasing capacity at NHS providers and commissioners to
+manage the COVID-19 pandemic. (See Annex A).  https://www.england.nhs.uk/coronavirus/wp-content/uploads/sites/52/2020/03/C0113-28-march-2020-reducing-burden-releasing-capacity-nhs-providers-commissioners-manage-covid-19-pandemic.pdf
 - 27 March 2020. PwC. How to protect your companies from rising cyber attacks and fraud amid the COVID-19 outbreak https://www.pwc.com/us/en/library/covid-19/cyber-attacks.html
 - 27 March 2020. Flashpoint. Considerations for Updating Near-Term Intelligence Requirements in Response to COVID-19 https://www.flashpoint-intel.com/blog/near-term-intelligence-requirements-in-response-to-covid-19/
 - 26 March 2020. KPMG. COVID-19: Protecting your business from cyber crime. https://home.kpmg/au/en/home/insights/2020/03/covid-19-coronavirus-protecting-business-from-cyber-crime-sme.html
