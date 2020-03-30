@@ -12,6 +12,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 
 ## IOC Sources
 
+- Cyber Threat Coalition. https://blacklist.cyberthreatcoalition.org/ and join Slack at https://covid19cybert-qvl7792.slack.com/join/shared_invite/zt-cyt9l8z9-wojJ6lHvlLKbWU0GnoUfXQ, OTX grpup at https://otx.alienvault.com/group/840/pulses.
 - Domaintools - Domains with high risk scores. https://www.domaintools.com/resources/blog/free-covid-19-threat-list-domain-risk-assessments-for-coronavirus-threats (NB: Behind registration form).  
 - List of domains with Covid-19 related keywords. https://www.malwarepatrol.net/coronavirus-covid-19-online-scams-data/
 - Covid-19 Host Reputation feed. https://cv-feed.pocnroll.com/
@@ -19,6 +20,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Joe Tidy - Phishing Scams Search. https://coronavirusphishing.com/
 - APKLab - App Malware samples and domain list (clean and malicious). https://www.apklab.io/covid19
 - Cofense - Coronavirus Phishing. https://cofense.com/solutions/topic/coronavirus-infocenter/
+- List of IOCs (Hashes, domains, IPs) used in COVID-19 attacks https://github.com/parthdmaniar/coronavirus-covid-19-SARS-CoV-2-IoCs/blob/master/All%20IOCs 
 - CyberReason - Various IOCs. https://www.cybereason.com/hubfs/Indicators%20of%20Compromise/Coronavirus-Themed%20Malware%20IOCs.pdf
 - Sophos - Various IOCs. https://github.com/sophoslabs/covid-iocs
 - MISP-Project - Covid-19 dedicated MISP. https://covid-19.iglocska.eu/. For access, send a DM to https://twitter.com/MISPProject
@@ -27,7 +29,6 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Bloomver. Covid IOCs. https://github.com/Bloomvertech/covid-iocs
 - Thugcrowd. COVID-19 Real Time Scam Hunter https://thugcrowd.com/covid-19/
 - SANS. Covid Domain Classifier. https://isc.sans.edu/covidclassifier.html
-- Cyber Threat Colation feeds. https://blacklist.cyberthreatcoalition.org/ https://otx.alienvault.com/group/840/pulses (need to join group)
 
 ## Incidents
 - 24 March 2020. Computing. Spanish hospitals targeted with coronavirus-themed phishing lures in Netwalker ransomware attacks. https://www.computing.co.uk/news/4012969/hospitals-coronavirus-ransomware
@@ -73,6 +74,7 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 - 25 March 2020. Kieren Nicolas. COVID-19 SECURITY ALERT - UK https://www.kierennicolas.com/blog/covid-19-security-alert-uk
 - 25 March 2020. Yoroi. New Cyber Attack Campaign Leverages the COVID-19 Infodemic. https://yoroi.company/research/new-cyber-attack-campaign-leverages-the-covid-19-infodemic/
 - 25 March 2020. Mimecast. WEBCAST RECAP: TUESDAY’S GLOBAL CYBER THREAT INTELLIGENCE WEEKLY BRIEFING https://www.mimecast.com/blog/2020/03/webcast-recap-global-cyber-threat-intelligence-weekly-briefing/
+- 24 March 2020. Hot for Security/Graham Cluley. Free Netflix pass because of Coronavirus? It’s a scam. https://hotforsecurity.bitdefender.com/blog/free-netflix-pass-because-of-coronavirus-its-a-scam-22691.html
 - 25 March 2020. MDR Cyber. Covid-19 Security Update. https://www.mishcon.com/news/covid-19-cyber-security-update-25-march
 - 24 March 2020. Manchester Council. Coronavirus related fraud https://secure.manchester.gov.uk/info/500361/coronavirus/7928/coronavirus/17
 - 24 March 2020. Lexology. COVID-19: Key EU And U.S. Cybersecurity Issues and Risk-Remediation Steps. COVID-19: Key EU And U.S. Cybersecurity Issues and Risk-Remediation Steps
@@ -140,6 +142,7 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 - 12 March 2020. RecordFuture. Capitalizing on Coronavirus Panic, Threat Actors Target Victims Worldwide https://www.recordedfuture.com/coronavirus-panic-exploit/
 - 12 March 2020. Tenable. COVID-19: Coronavirus Fears Seized by Cybercriminals. https://www.tenable.com/blog/covid-19-coronavirus-fears-seized-by-cybercriminals
 - 12 March 2020. Intsights. Cybercriminals Exploit Coronavirus Spread with Malware, Phishing Schemes https://intsights.com/blog/cybercriminals-exploit-coronavirus-spread-with-malware-phishing-schemes-1
+- 12 March 2020. Blueliv. Cybercriminals taking advantage of the Coronavirus. https://www.blueliv.com/cyber-security-and-cyber-threat-intelligence-blog-blueliv/industry/cybercriminals-taking-advantage-of-the-coronavirus/
 - 12 March 2020. Checkpoint. Vicious Panda: The COVID Campaign https://research.checkpoint.com/2020/vicious-panda-the-covid-campaign/
 - 11 March 2020. Avast. Iranian Coronavirus app collecting sensitive information  https://blog.avast.com/iranian-coronavirus-app-collecting-sensitive-information-avast
 - 9 March 2020. ElecticIQ. Investigating Phishing Attacks Exploiting Coronavirus Themes https://blog.eclecticiq.com/investigating-phishing-attacks-exploiting-coronavirus-covid-19-themes
