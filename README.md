@@ -12,7 +12,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 
 ## IOC Sources
 
-- Cyber Threat Coalition. https://blacklist.cyberthreatcoalition.org/ and join Slack at https://covid19cybert-qvl7792.slack.com/join/shared_invite/zt-cyt9l8z9-wojJ6lHvlLKbWU0GnoUfXQ, OTX grpup at https://otx.alienvault.com/group/840/pulses.
+- Cyber Threat Coalition. https://blacklist.cyberthreatcoalition.org/ and join Slack at https://covid19cybert-qvl7792.slack.com/join/shared_invite/zt-cyt9l8z9-wojJ6lHvlLKbWU0GnoUfXQ, OTX group at https://otx.alienvault.com/group/840/pulses.
 - Domaintools - Domains with high risk scores. https://www.domaintools.com/resources/blog/free-covid-19-threat-list-domain-risk-assessments-for-coronavirus-threats (NB: Behind registration form).  
 - List of domains with Covid-19 related keywords. https://www.malwarepatrol.net/coronavirus-covid-19-online-scams-data/
 - Covid-19 Host Reputation feed. https://cv-feed.pocnroll.com/
@@ -191,6 +191,7 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 ## Cybersecurity Reports
 
 - Information Security Forum (ISF). ISF resource and content suite for the Coronavirus outbreak. https://www.securityforum.org/covid-19/
+- 30 March 2020. Fireeye. With COVID-19 Themed Campaigns on the Rise, Here’s How to Manage Email Phishing Risks. https://www.fireeye.com/blog/executive-perspective/2020/03/managing-email-phishing-risks.html
 - 28 March 2020. AlixPartners. ESSENTIAL STRATEGIES FOR MANAGING CYBER RISK IN DISRUPTIVE TIMES https://www.alixpartners.com/media/14661/covid-19-response-business-disruption_cyber-risk.pdf
 - 28 March 2020. NHS. Reducing burden and releasing capacity at NHS providers and commissioners to
 manage the COVID-19 pandemic. (See Annex A).  https://www.england.nhs.uk/coronavirus/wp-content/uploads/sites/52/2020/03/C0113-28-march-2020-reducing-burden-releasing-capacity-nhs-providers-commissioners-manage-covid-19-pandemic.pdf
