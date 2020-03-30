@@ -61,6 +61,8 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - 27 March 2020. Europol. PANDEMIC PROFITEERING: HOW CRIMINALS EXPLOIT THE COVID-19 CRISIS. https://www.europol.europa.eu/publications-documents/pandemic-profiteering-how-criminals-exploit-covid-19-crisis
 - 27 March 2020. Trend Micro. Developing Story: COVID-19 Used in Malicious Campaigns 
 https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/coronavirus-used-in-spam-malware-file-names-and-malicious-domains
+- 26 March 2020. Cisco TALOS. Threat Update: COVID-19 https://blog.talosintelligence.com/2020/03/covid-19-pandemic-threats.html
+- 26 March 2020. Kaspersky. Coronavirus as a hook. https://www.kaspersky.com/blog/coronavirus-corporate-phishing/34445/
 - 26 March 2020. KnowBe4. [HEADS UP] Cybercriminals Attempt to Exploit Stimulus Package for COVID-19. https://blog.knowbe4.com/heads-up-cybercriminals-attempt-to-exploit-stimulus-packages-for-covid-19
 - 26 March 2020. Phishlabs. COVID-19 Phishing Update: Threat Actors Impersonating CDC, WHO https://info.phishlabs.com/blog/covid-19-phishing-update-threat-actors-target-cdc-who
 - 26 March 2020. Digital Shadows. COVID-19: Companies and Verticals At Risk For Cyber Attacks https://www.digitalshadows.com/blog-and-research/covid-19-companies-and-verticals-at-risk-for-cyber-attacks/
@@ -162,12 +164,14 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 
 ## Remote Working & Conferencing Software
 
+- 20 March 2020. GovTech/DAN LOHRMANN How Is Covid-19 Creating Data Breaches? https://www.govtech.com/blogs/lohrmann-on-cybersecurity/how-is-covid-19-creating-data-breaches.html
 - 27 March 2020. Doc Searls. Zoom needs to clean up its privacy act https://blogs.harvard.edu/doc/2020/03/27/zoom/
 - 27 March 2020. Sky News. UK Government Uses Zoom Despite MoD Security Concerns https://news.sky.com/story/coronairus-cabinet-talks-held-on-zoom-days-after-software-was-banned-by-ministry-of-defence-11963889
 - 27 March 2020. ACA Compliance Group. Keeping Children Safe Online During COVID-19 Social Distancing.  https://www.acacompliancegroup.com/blog/keeping-children-safe-online-during-covid-19-social-distancing
 - 26 March 2020. Lexology. COVID-19: Remote Working and Cybersecurity https://www.lexology.com/library/detail.aspx?g=4194be55-51e0-4227-ac98-dbbca209c2c1
 - 24 March 2020. ENISA. Tips for cybersecurity when working from home. https://www.enisa.europa.eu/tips-for-cybersecurity-when-working-from-home
 - 24 March 2020. H-ISAC Report: Hacking Healthcare - TLP White, March 24, 2020 (focus on Telework). https://www.aha.org/h-isac-reports/2020-03-25-h-isac-report-hacking-healthcare-tlp-white-march-24-2020
+- 21 March 2020. Kaspersky. Remote working safety and security https://www.kaspersky.co.uk/blog/remote-work-security/19472/
 - 20 March 2020. Security Boulevard. Using Zoom? Here are the privacy issues you need to be aware of https://securityboulevard.com/2020/03/using-zoom-here-are-the-privacy-issues-you-need-to-be-aware-of/
 - 20 March 2020. F-Secure. Protecting employees and systems in a time of pandemic https://blog.f-secure.com/protecting-employees-and-systems-in-a-time-of-pandemic/
 - 20 March 2020. CSO Online. Free security resources for work-from-home employees during the COVID-19 crisis. https://www.csoonline.com/article/3532797/free-security-resources-for-work-from-home-employees-during-the-covid-19-crisis.html
