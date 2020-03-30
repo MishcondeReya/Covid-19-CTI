@@ -28,6 +28,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Bloomver. Covid IOCs. https://github.com/Bloomvertech/covid-iocs
 - Thugcrowd. COVID-19 Real Time Scam Hunter https://thugcrowd.com/covid-19/
 - SANS. Covid Domain Classifier. https://isc.sans.edu/covidclassifier.html
+- Cyber Threat Colation feeds. https://blacklist.cyberthreatcoalition.org/ https://otx.alienvault.com/group/840/pulses (need to join group)
 
 ## Incidents
 - 24 March 2020. Computing. Spanish hospitals targeted with coronavirus-themed phishing lures in Netwalker ransomware attacks. https://www.computing.co.uk/news/4012969/hospitals-coronavirus-ransomware
