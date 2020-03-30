@@ -19,7 +19,6 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Joe Tidy - Phishing Scams Search. https://coronavirusphishing.com/
 - APKLab - App Malware samples and domain list (clean and malicious). https://www.apklab.io/covid19
 - Cofense - Coronavirus Phishing. https://cofense.com/solutions/topic/coronavirus-infocenter/
-- List of IOCs (Hashes, domains, IPs) used in COVID-19 attacks https://github.com/parthdmaniar/coronavirus-covid-19-SARS-CoV-2-IoCs/blob/master/All%20IOCs 
 - CyberReason - Various IOCs. https://www.cybereason.com/hubfs/Indicators%20of%20Compromise/Coronavirus-Themed%20Malware%20IOCs.pdf
 - Sophos - Various IOCs. https://github.com/sophoslabs/covid-iocs
 - MISP-Project - Covid-19 dedicated MISP. https://covid-19.iglocska.eu/. For access, send a DM to https://twitter.com/MISPProject
