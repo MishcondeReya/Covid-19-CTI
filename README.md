@@ -29,6 +29,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Bloomver. Covid IOCs. https://github.com/Bloomvertech/covid-iocs
 - Thugcrowd. COVID-19 Real Time Scam Hunter https://thugcrowd.com/covid-19/
 - SANS. Covid Domain Classifier. https://isc.sans.edu/covidclassifier.html
+- Managed Sentinel. COVID-19 Indicators of Compromise and Azure Sentinel Alerts https://www.managedsentinel.com/2020/03/27/azure-sentinel-covid-19-alerts-and-iocs/
 
 ## Incidents
 - 24 March 2020. Computing. Spanish hospitals targeted with coronavirus-themed phishing lures in Netwalker ransomware attacks. https://www.computing.co.uk/news/4012969/hospitals-coronavirus-ransomware
@@ -56,7 +57,8 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Silobreaker. Covid-19 Threat Daily Update.  https://www.silobreaker.com/tag/covid19-threat-digest/.
 - Fraud Watch International. Covid-19 Online Scams. https://fraudwatchinternational.com/covid19/
 - KPN Security Research Team https://github.com/KPN-SRT/covid19_cyber_threats
-- 20 March 2020. Flashpoint. COVID-19 Key Developments: March 21-27. https://www.flashpoint-intel.com/blog/covid-19-key-developments-march-21-27/
+- 30 March 2020. RecordedFuture. Chinese State Media Seeks to Influence International Perceptions of COVID-19 Pandemic https://www.recordedfuture.com/covid-19-chinese-media-influence/
+- 30 March 2020. Flashpoint. COVID-19 Key Developments: March 21-27. https://www.flashpoint-intel.com/blog/covid-19-key-developments-march-21-27/
 - 30 March 2020. Phishlabs. COVID-19 Phishing Update: Your Bank is Not Texting You About Coronavirus. https://info.phishlabs.com/blog/covid-19-phishing-update-your-bank-is-not-texting-you-about-coronavirus
 - 27 March 2020. KnowBe4. https://blog.knowbe4.com/bad-guys-push-new-covid-19-message-you-are-infected. Bad Guys Push New COVID-19 Message: You Are Infected. 
 - 27 March 2020. Fireeye. Social Engineering Based on Stimulus Bill and COVID-19 Financial Compensation Schemes Expected to Grow in Coming Weeks. https://www.fireeye.com/blog/threat-research/2020/03/stimulus-bill-social-engineering-covid-19-financial-compensation-schemes.html
