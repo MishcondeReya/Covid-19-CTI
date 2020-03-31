@@ -58,6 +58,8 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Fraud Watch International. Covid-19 Online Scams. https://fraudwatchinternational.com/covid19/
 - KPN Security Research Team https://github.com/KPN-SRT/covid19_cyber_threats
 - 31 March 2020. Cyjax. COVID-19 Cyber Situation Update – 31 March https://www.cyjax.com/2020/03/31/covid-19-cyber-situation-update-31-march/
+- 30 March 2020. Threatpost. Zeus Sphinx Banking Trojan Arises Amid COVID-19 https://threatpost.com/zeus-sphinx-banking-trojan-covid-19/154274/
+- 30 March 2020. ElecticIQ. EclecticIQ Pandemic Intelligence Update - Week 14. https://blog.eclecticiq.com/covid-19/eclecticiq-pandemic-intelligence-update-week-14
 - 30 March 2020. RecordedFuture. Chinese State Media Seeks to Influence International Perceptions of COVID-19 Pandemic https://www.recordedfuture.com/covid-19-chinese-media-influence/
 - 30 March 2020. Flashpoint. COVID-19 Key Developments: March 21-27. https://www.flashpoint-intel.com/blog/covid-19-key-developments-march-21-27/
 - 30 March 2020. Phishlabs. COVID-19 Phishing Update: Your Bank is Not Texting You About Coronavirus. https://info.phishlabs.com/blog/covid-19-phishing-update-your-bank-is-not-texting-you-about-coronavirus
