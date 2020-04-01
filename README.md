@@ -30,6 +30,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Thugcrowd. COVID-19 Real Time Scam Hunter https://thugcrowd.com/covid-19/
 - SANS. Covid Domain Classifier. https://isc.sans.edu/covidclassifier.html
 - Managed Sentinel. COVID-19 Indicators of Compromise and Azure Sentinel Alerts https://www.managedsentinel.com/2020/03/27/azure-sentinel-covid-19-alerts-and-iocs/
+- Proofpoint. Practitioners Update: Free COVID-19 Related IDS Rules https://www.proofpoint.com/us/threat-insight/post/practitioners-update-free-covid-19-related-ids-rules
 
 ## Incidents
 - 24 March 2020. Computing. Spanish hospitals targeted with coronavirus-themed phishing lures in Netwalker ransomware attacks. https://www.computing.co.uk/news/4012969/hospitals-coronavirus-ransomware
@@ -55,6 +56,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Silobreaker. Covid-19 Threat Daily Update.  https://www.silobreaker.com/tag/covid19-threat-digest/.
 - Fraud Watch International. Covid-19 Online Scams. https://fraudwatchinternational.com/covid19/
 - KPN Security Research Team https://github.com/KPN-SRT/covid19_cyber_threats
+- 31 March 2020. Trustwave. COVID-19 Malspam Activity Ramps Up. https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/covid-19-malspam-activity-ramps-up/
 - 31 March 2020. Sophos. Sexortion threatening infection with Coronavirus https://nakedsecurity.sophos.com/2020/03/19/dirty-little-secret-extortion-email-threatens-to-give-your-family-coronavirus/
 - 31 March 2020. Cyjax. COVID-19 Cyber Situation Update – 31 March https://www.cyjax.com/2020/03/31/covid-19-cyber-situation-update-31-march/
 - 30 March 2020. KnowB4. Email campaign claiming  "you are infected" with Coronavirus https://blog.knowbe4.com/cyberheistnews-vol-10-14-dont-hit-the-panic-button-you-are-infected-bad-guys-launch-an-evil-new-corona-virus-attack
@@ -78,6 +80,7 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 - 26 March 2020. Malysian National Cyber Security Agency (NACSA). Advisory on Cyber Threat Using COVID-19 Outbreak As Theme. https://www.nacsa.gov.my/advisory2.php
 - 26 March 2020. Chartered Trading Standards Institute. Scam Alert: New COVID-19 coronavirus text scam. https://www.tradingstandards.uk/news-policy/news-room/2020/scam-alert-new-covid-19-coronavirus-text-scam
 - 25 March 2020. World Economic Forum. How COVID-19 shows the urgent need to address the cyber poverty gap. https://www.weforum.org/agenda/2020/03/covid-19-pandemic-shows-the-urgency-for-addressing-the-cyber-poverty-gap/
+- 25 March 2020. Mimecast. Unsafe Clicks From COVID-19-Themed Email Phishing Attacks Nearly Double In Recent Weeks; Mimecast Blocks Up To 5,000 URLs Related To The Coronavirus A Day. https://www.mimecast.com/blog/2020/03/coronavirus-phishing-attacks-speed-up-globally/
 - 25 March 2020. CyberInt. COVID-19 Ongoing Cyber Updates https://blog.cyberint.com/covid-19-ongoing-cyber-updates
 - 25 March 2020. Looking Glass Cyber. THREAT ACTORS EXPLOIT COVID-19 IN CYBER CRIME CAMPAIGNS https://www.lookingglasscyber.com/blog/threat-actors-exploit-covid-19-in-cyber-crime-campaigns/
 - Silobreaker. Covid-19 Threat Daily Update. https://www.silobreaker.com/tag/covid19-threat-digest/. 
