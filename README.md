@@ -189,6 +189,7 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 - 26 March 2020. Lexology. COVID-19: Remote Working and Cybersecurity https://www.lexology.com/library/detail.aspx?g=4194be55-51e0-4227-ac98-dbbca209c2c1
 - 24 March 2020. ENISA. Tips for cybersecurity when working from home. https://www.enisa.europa.eu/tips-for-cybersecurity-when-working-from-home
 - 24 March 2020. H-ISAC Report: Hacking Healthcare - TLP White, March 24, 2020 (focus on Telework). https://www.aha.org/h-isac-reports/2020-03-25-h-isac-report-hacking-healthcare-tlp-white-march-24-2020
+- 23 March 2020. ESET. Home office is where the heart is… https://www.eset.com/blog/consumer/home-office-is-where-the-heart-is/
 - 21 March 2020. Kaspersky. Remote working safety and security https://www.kaspersky.co.uk/blog/remote-work-security/19472/
 - 20 March 2020. Security Boulevard. Using Zoom? Here are the privacy issues you need to be aware of https://securityboulevard.com/2020/03/using-zoom-here-are-the-privacy-issues-you-need-to-be-aware-of/
 - 20 March 2020. F-Secure. Protecting employees and systems in a time of pandemic https://blog.f-secure.com/protecting-employees-and-systems-in-a-time-of-pandemic/
