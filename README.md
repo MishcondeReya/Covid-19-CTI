@@ -61,7 +61,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - 31 March 2020. Trustwave. COVID-19 Malspam Activity Ramps Up. https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/covid-19-malspam-activity-ramps-up/
 - 31 March 2020. Sophos. Sexortion threatening infection with Coronavirus https://nakedsecurity.sophos.com/2020/03/19/dirty-little-secret-extortion-email-threatens-to-give-your-family-coronavirus/
 - 31 March 2020. Cyjax. COVID-19 Cyber Situation Update – 31 March https://www.cyjax.com/2020/03/31/covid-19-cyber-situation-update-31-march/
-- 30 March 2020. Checkpoint. COVID-19 Impact: Cyber Criminals Target Zoom Domains. 
+- 30 March 2020. Checkpoint. COVID-19 Impact: Cyber Criminals Target Zoom Domains. https://blog.checkpoint.com/2020/03/30/covid-19-impact-cyber-criminals-target-zoom-domains/
 - 30 March 2020. KnowB4. Email campaign claiming  "you are infected" with Coronavirus https://blog.knowbe4.com/cyberheistnews-vol-10-14-dont-hit-the-panic-button-you-are-infected-bad-guys-launch-an-evil-new-corona-virus-attack
 - 30 March 2020. Threatpost. Zeus Sphinx Banking Trojan Arises Amid COVID-19 https://threatpost.com/zeus-sphinx-banking-trojan-covid-19/154274/
 - 30 March 2020. ElecticIQ. EclecticIQ Pandemic Intelligence Update - Week 14. https://blog.eclecticiq.com/covid-19/eclecticiq-pandemic-intelligence-update-week-14
