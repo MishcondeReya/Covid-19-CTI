@@ -172,6 +172,7 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 
 ## Remote Working & Conferencing Software
 
+- 31 March 2920. Bleeping Computer/Matthew Hickey. Zoom Client Leaks Windows Login Credentials to Attackers https://www.bleepingcomputer.com/news/security/zoom-client-leaks-windows-login-credentials-to-attackers/ and https://twitter.com/hackerfantastic/status/1245133371262619654
 - 30 March 2020. Lexology. Ethical Issues with Remote Work During COVID-19 https://www.lexology.com/library/detail.aspx?g=320c6cfe-fceb-463f-b8ec-5f247de4c843
 - 20 March 2020. GovTech/DAN LOHRMANN How Is Covid-19 Creating Data Breaches? https://www.govtech.com/blogs/lohrmann-on-cybersecurity/how-is-covid-19-creating-data-breaches.html
 - 27 March 2020. Doc Searls. Zoom needs to clean up its privacy act https://blogs.harvard.edu/doc/2020/03/27/zoom/
