@@ -37,8 +37,6 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - 23 March 2020. Bleeping Computer. Hackers Hijack Routers’ DNS to Spread Malicious COVID-19 Apps. https://www.bleepingcomputer.com/news/security/hackers-hijack-routers-dns-to-spread-malicious-covid-19-apps/
 - 23 March 2020 HHS.gov Open Redirect Used by Coronavirus Phishing to Spread Malware https://www.bleepingcomputer.com/news/security/hhsgov-open-redirect-used-by-coronavirus-phishing-to-spread-malware/
 - 23 March 2020 Hackers Hijack Routers’ DNS to Spread Malicious COVID-19 Apps https://www.bleepingcomputer.com/news/security/hackers-hijack-routers-dns-to-spread-malicious-covid-19-apps/
-- 23 March 2020. HHS.gov Open Redirect Used by Coronavirus Phishing to Spread Malware https://www.bleepingcomputer.com/news/security/hhsgov-open-redirect-used-by-coronavirus-phishing-to-spread-malware/
-- 23 March 2020. Hackers Hijack Routers’ DNS to Spread Malicious COVID-19 Apps https://www.bleepingcomputer.com/news/security/hackers-hijack-routers-dns-to-spread-malicious-covid-19-apps/
 - 23 March 2020. Ransomware gang breaks promise not to target medical organizations during coronavirus outbreak. techspot.com/news/84501-ransomware-gang-breaks-promise-not-target-medical-organizations.html
 - 20 March 2020. UK Middlesbrough Local Council targeted with COV_19-themed emails https://www.bbc.co.uk/news/uk-england-tees-51980150
 - 18 March 2020. Zloader/SILENTNIGHT banking trojan distributed with COVID-19 compensation scheme lure https://www.fireeye.com/blog/threat-research/2020/03/stimulus-bill-social-engineering-covid-19-financial-compensation-schemes.html
@@ -59,6 +57,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - KPN Security Research Team https://github.com/KPN-SRT/covid19_cyber_threats
 - 31 March 2020. Sophos. Sexortion threatening infection with Coronavirus https://nakedsecurity.sophos.com/2020/03/19/dirty-little-secret-extortion-email-threatens-to-give-your-family-coronavirus/
 - 31 March 2020. Cyjax. COVID-19 Cyber Situation Update – 31 March https://www.cyjax.com/2020/03/31/covid-19-cyber-situation-update-31-march/
+- 30 March 2020. KnowB4. Email campaign claiming  "you are infected" with Coronavirus https://blog.knowbe4.com/cyberheistnews-vol-10-14-dont-hit-the-panic-button-you-are-infected-bad-guys-launch-an-evil-new-corona-virus-attack
 - 30 March 2020. Threatpost. Zeus Sphinx Banking Trojan Arises Amid COVID-19 https://threatpost.com/zeus-sphinx-banking-trojan-covid-19/154274/
 - 30 March 2020. ElecticIQ. EclecticIQ Pandemic Intelligence Update - Week 14. https://blog.eclecticiq.com/covid-19/eclecticiq-pandemic-intelligence-update-week-14
 - 30 March 2020. RecordedFuture. Chinese State Media Seeks to Influence International Perceptions of COVID-19 Pandemic https://www.recordedfuture.com/covid-19-chinese-media-influence/
