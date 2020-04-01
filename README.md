@@ -200,6 +200,7 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 - 11 March 2020. Crowdstrike. Cybersecurity in the Time of COVID-19: Keys to Embracing (and Securing) a Remote Workforce. https://www.crowdstrike.com/blog/securing-a-remote-workforce-in-the-time-of-covid-19/
 - Cyber Readiness Institute. Securing a Remote Workforce. https://cyberreadinessinstitute.org/images/CRI-Securing-a-Remote-Workforce.pdf
 
+Guides from vendors on the secure deployment of their remote working and conferencing tools, along with security advisory and subscription information are available in the [Remote Working PSIRT](https://github.com/cydea/remote-working-psirt) project.
 
 ## Cybersecurity Reports
 
