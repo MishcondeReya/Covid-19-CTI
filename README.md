@@ -33,6 +33,8 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Proofpoint. Practitioners Update: Free COVID-19 Related IDS Rules https://www.proofpoint.com/us/threat-insight/post/practitioners-update-free-covid-19-related-ids-rules
 
 ## Incidents
+
+- 26 March 2020. Telsy. CYBERCRIMINALS TROJANIZED ORGINAL SM COVID-19 AWARENESS ANDROID APP TO TARGET ITALY. https://blog.telsy.com/cybercriminals-trojanized-orginal-sm-covid-19-awareness-android-app-to-target-italy/
 - 24 March 2020. Computing. Spanish hospitals targeted with coronavirus-themed phishing lures in Netwalker ransomware attacks. https://www.computing.co.uk/news/4012969/hospitals-coronavirus-ransomware
 - 23 March 2020. Forbes/Davey Winder. COVID-19 Vaccine Test Center Hit By Cyber Attack, Stolen Data Posted Online. https://www.forbes.com/sites/daveywinder/2020/03/23/covid-19-vaccine-test-center-hit-by-cyber-attack-stolen-data-posted-online/#3b5f1f5918e5
 - 23 March 2020. Bleeping Computer. Hackers Hijack Routers’ DNS to Spread Malicious COVID-19 Apps. https://www.bleepingcomputer.com/news/security/hackers-hijack-routers-dns-to-spread-malicious-covid-19-apps/
@@ -59,6 +61,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - 31 March 2020. Trustwave. COVID-19 Malspam Activity Ramps Up. https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/covid-19-malspam-activity-ramps-up/
 - 31 March 2020. Sophos. Sexortion threatening infection with Coronavirus https://nakedsecurity.sophos.com/2020/03/19/dirty-little-secret-extortion-email-threatens-to-give-your-family-coronavirus/
 - 31 March 2020. Cyjax. COVID-19 Cyber Situation Update – 31 March https://www.cyjax.com/2020/03/31/covid-19-cyber-situation-update-31-march/
+- 30 March 2020. Checkpoint. COVID-19 Impact: Cyber Criminals Target Zoom Domains. 
 - 30 March 2020. KnowB4. Email campaign claiming  "you are infected" with Coronavirus https://blog.knowbe4.com/cyberheistnews-vol-10-14-dont-hit-the-panic-button-you-are-infected-bad-guys-launch-an-evil-new-corona-virus-attack
 - 30 March 2020. Threatpost. Zeus Sphinx Banking Trojan Arises Amid COVID-19 https://threatpost.com/zeus-sphinx-banking-trojan-covid-19/154274/
 - 30 March 2020. ElecticIQ. EclecticIQ Pandemic Intelligence Update - Week 14. https://blog.eclecticiq.com/covid-19/eclecticiq-pandemic-intelligence-update-week-14
@@ -79,6 +82,7 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 - 26 March 2020. CERT NZ. Attackers using COVID-19 themed scams - updated alert. https://www.cert.govt.nz/individuals/alerts/attackers-using-covid-19-themed-scams-updated-alert/
 - 26 March 2020. Malysian National Cyber Security Agency (NACSA). Advisory on Cyber Threat Using COVID-19 Outbreak As Theme. https://www.nacsa.gov.my/advisory2.php
 - 26 March 2020. Chartered Trading Standards Institute. Scam Alert: New COVID-19 coronavirus text scam. https://www.tradingstandards.uk/news-policy/news-room/2020/scam-alert-new-covid-19-coronavirus-text-scam
+- 26 March 2020. Cyberpeace Institute. How the COVID-19 Infodemic Accelerates Cyberattacks. https://cyberpeaceinstitute.org/blog/2020-03-26-the-covid-19-infodemic-and-malicious-cyber-activities
 - 25 March 2020. World Economic Forum. How COVID-19 shows the urgent need to address the cyber poverty gap. https://www.weforum.org/agenda/2020/03/covid-19-pandemic-shows-the-urgency-for-addressing-the-cyber-poverty-gap/
 - 25 March 2020. Mimecast. Unsafe Clicks From COVID-19-Themed Email Phishing Attacks Nearly Double In Recent Weeks; Mimecast Blocks Up To 5,000 URLs Related To The Coronavirus A Day. https://www.mimecast.com/blog/2020/03/coronavirus-phishing-attacks-speed-up-globally/
 - 25 March 2020. CyberInt. COVID-19 Ongoing Cyber Updates https://blog.cyberint.com/covid-19-ongoing-cyber-updates
