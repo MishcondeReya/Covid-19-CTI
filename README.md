@@ -58,6 +58,9 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Silobreaker. Covid-19 Threat Daily Update.  https://www.silobreaker.com/tag/covid19-threat-digest/.
 - Fraud Watch International. Covid-19 Online Scams. https://fraudwatchinternational.com/covid19/
 - KPN Security Research Team https://github.com/KPN-SRT/covid19_cyber_threats
+- 1 April 2020. Proofpoint. Coronavirus/COVID-19 Payment Lures on the Rise. https://www.proofpoint.com/us/threat-insight/post/coronaviruscovid-19-payment-lures-rise
+- 1 April 2020. DXC.Technology. Threat Intelligence Report
+ https://assets1.dxc.technology/security/downloads/DXC-Threat_Intelligence_Report_-_April_2020.pdf
 - 1 April 2020. Nokia. A growing cyber threat linked to COVID-19. https://onestore.nokia.com/asset/207324
 - 1 April 2020. Microsoft. Microsoft works with healthcare organizations to protect from popular ransomware during COVID-19 crisis: Here’s what to do https://www.microsoft.com/security/blog/2020/04/01/microsoft-works-with-healthcare-organizations-to-protect-from-popular-ransomware-during-covid-19-crisis-heres-what-to-do/
 - 31 March 2020. Trustwave. COVID-19 Malspam Activity Ramps Up. https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/covid-19-malspam-activity-ramps-up/
@@ -144,6 +147,7 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 - 19 March 2020. Cofense. Threat Actors Innovate to Exploit COVID-19, Delivering OpenOffice .OPD Attachments on a Shoestring Budget  https://cofense.com/threat-actors-innovate-exploit-covid-19-delivering-openoffice-opd-attachments-shoestring-budget/
 - 19 March 2020. Cofense. Threat Actors Innovate to Exploit COVID-19, Delivering OpenOffice .OPD Attachments on a Shoestring Budget. https://cofense.com/threat-actors-innovate-exploit-covid-19-delivering-openoffice-opd-attachments-shoestring-budget/
 - 19 March 2020. Herjavec Group. Threat Advisory: Additional Information Regarding COVID-19 Related Cyber Attacks. herjavecgroup.com/threat-advisory-additional-information-covid19-cyber-attacks/
+- 19 March 2020. Obrela. Attackers Taking Advantage of the Coronavirus/COVID-19 outbreak. https://www.obrela.com/attackers-taking-advantage-of-the-coronavirus-covid-19-outbreak/
 - 18 March 2020. Cybereason. UST BECAUSE YOU’RE HOME DOESN’T MEAN YOU’RE SAFE https://www.cybereason.com/blog/just-because-youre-home-doesnt-mean-youre-safe
 - 18 March 2020. Lookout. New Threat Discovery Shows Commercial Surveillanceware Operators Latest to Exploit COVID-19. https://blog.lookout.com/commercial-surveillanceware-operators-latest-to-take-advantage-of-covid-19
 - 18 March 2020. Authorities Eye Using Mobile Phone Tracking COVID-19’s Spread. https://threatpost.com/authorities-mobile-phone-tracking-covid-19-spread/153903/
@@ -151,11 +155,13 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 - 18 March 2020. Qualys. Cyber Criminals using Coronavirus Fears to Spread Information-Stealing Malware https://blog.qualys.com/indication-of-compromise/2020/03/18/cyber-criminals-using-coronavirus-fears-to-spread-information-stealing-malware
 - 18 March 2020. Proofpoint. Coronavirus Threat Landscape Update. https://www.proofpoint.com/us/threat-insight/post/coronavirus-threat-landscape-update
 - 17 March 2020.  IBM X-Force Threat Intelligence Cybersecurity Brief: Novel Coronavirus (COVID-19) https://securityintelligence.com/posts/ibm-x-force-threat-intelligence-cybersecurity-brief-novel-coronavirus-covid-19/
+- 16 March 2020. Infoblox. Series of New Agent Tesla Infostealer Campaigns Use Coronavirus Themes. https://www.infoblox.com/wp-content/uploads/threat-intelligence-report-agent-telsa-infostealer-use-coronavirus-themes-v2.pdf
 - 16 March 2020. Zscaler. CovidLock: Android Ransomware Walkthrough and Unlocking Routine  https://www.zscaler.com/blogs/research/covidlock-android-ransomware-walkthrough-and-unlocking-routine
 - 16 March 2020. Malware Bytes. APT36 jumps on the coronavirus bandwagon, delivers Crimson RAT. https://blog.malwarebytes.com/threat-analysis/2020/03/apt36-jumps-on-the-coronavirus-bandwagon-delivers-crimson-rat/
 - 16 March 2020. National Cyber Security Centre. Cyber experts step in as criminals seek to exploit Coronavirus fears. https://www.ncsc.gov.uk/news/cyber-experts-step-criminals-exploit-coronavirus
 - 16 March 2020. DomainTools. CovidLock Update: Deeper Analysis of Coronavirus Android Ransomware https://www.domaintools.com/resources/blog/covidlock-update-coronavirus-ransomware
 - 16 March 2020. AusCERT. COVID-19 Cyber Threats: Observations, OSINT and Safety Recommendations https://www.auscert.org.au/blog/2020-03-16-covid-19-observations-osint-and-safety-recommendations
+- 16 March 2020. Flashpoint. Covid-19 Key Developments. https://www.flashpoint-intel.com/blog/covid-19-key-developments/
 - 13 March 2020. State-sponsored attackers using COVID-19 Lures (Russia, China, North Korea) https://www.zdnet.com/article/state-sponsored-hackers-are-now-using-coronavirus-lures-to-infect-their-targets/
 - 13 March 2020. F-Secure. Coronavirus email attacks evolving as outbreak spreads. https://blog.f-secure.com/coronavirus-email-attacks-evolving-as-outbreak-spreads/
 - 13 March 2020 ZDNet. State-sponsored attackers using COVID-19 Lures (Russia, China, North Korea) https://www.zdnet.com/article/state-sponsored-hackers-are-now-using-coronavirus-lures-to-infect-their-targets/
@@ -214,6 +220,8 @@ Guides from vendors on the secure deployment of their remote working and confere
 ## Cybersecurity Reports
 
 - Information Security Forum (ISF). ISF resource and content suite for the Coronavirus outbreak. https://www.securityforum.org/covid-19/
+- April 1 2020. IANS Research. COVID-19 and InfoSec: What You Need to Know https://portal.iansresearch.com/content/4613/tpg/covid-19-and-infosec-what-you-need-to-know/
+- 1 April 2020. Sophos. Protecting your company during COVID-19: guidance for CIOs and CISOs https://news.sophos.com/en-us/2020/04/01/protecting-your-company-during-covid-19-guidance-for-cios-and-cisos/
 - 30 March 2020. Fireeye. With COVID-19 Themed Campaigns on the Rise, Here’s How to Manage Email Phishing Risks. https://www.fireeye.com/blog/executive-perspective/2020/03/managing-email-phishing-risks.html
 - 28 March 2020. AlixPartners. ESSENTIAL STRATEGIES FOR MANAGING CYBER RISK IN DISRUPTIVE TIMES https://www.alixpartners.com/media/14661/covid-19-response-business-disruption_cyber-risk.pdf
 - 28 March 2020. NHS. Reducing burden and releasing capacity at NHS providers and commissioners to
