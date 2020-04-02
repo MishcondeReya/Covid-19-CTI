@@ -58,6 +58,8 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Silobreaker. Covid-19 Threat Daily Update.  https://www.silobreaker.com/tag/covid19-threat-digest/.
 - Fraud Watch International. Covid-19 Online Scams. https://fraudwatchinternational.com/covid19/
 - KPN Security Research Team https://github.com/KPN-SRT/covid19_cyber_threats
+- 1 April 2020. Nokia. A growing cyber threat linked to COVID-19. https://onestore.nokia.com/asset/207324
+- 1 April 2020. Microsoft. Microsoft works with healthcare organizations to protect from popular ransomware during COVID-19 crisis: Here’s what to do https://www.microsoft.com/security/blog/2020/04/01/microsoft-works-with-healthcare-organizations-to-protect-from-popular-ransomware-during-covid-19-crisis-heres-what-to-do/
 - 31 March 2020. Trustwave. COVID-19 Malspam Activity Ramps Up. https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/covid-19-malspam-activity-ramps-up/
 - 31 March 2020. Sophos. Sexortion threatening infection with Coronavirus https://nakedsecurity.sophos.com/2020/03/19/dirty-little-secret-extortion-email-threatens-to-give-your-family-coronavirus/
 - 31 March 2020. Cyjax. COVID-19 Cyber Situation Update – 31 March https://www.cyjax.com/2020/03/31/covid-19-cyber-situation-update-31-march/
@@ -180,7 +182,8 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 
 ## Remote Working & Conferencing Software
 
-- 31 March 2920. Bleeping Computer/Matthew Hickey. Zoom Client Leaks Windows Login Credentials to Attackers https://www.bleepingcomputer.com/news/security/zoom-client-leaks-windows-login-credentials-to-attackers/ and https://twitter.com/hackerfantastic/status/1245133371262619654
+- 1 April 2020. Securonix Threat Research: Securing Your Remote Workforce – Detecting the Latest Cyberattacks in the Work-From-Home (WFH) World: Part 1 https://www.securonix.com/securonix-threat-research-securing-your-remote-workforce-detecting-the-latest-cyberattacks-in-the-work-from-home-wfh-world-part-1/
+- 31 March 2020. Bleeping Computer/Matthew Hickey. Zoom Client Leaks Windows Login Credentials to Attackers https://www.bleepingcomputer.com/news/security/zoom-client-leaks-windows-login-credentials-to-attackers/ and https://twitter.com/hackerfantastic/status/1245133371262619654
 - 30 March 2020. Lexology. Ethical Issues with Remote Work During COVID-19 https://www.lexology.com/library/detail.aspx?g=320c6cfe-fceb-463f-b8ec-5f247de4c843
 - 20 March 2020. GovTech/DAN LOHRMANN How Is Covid-19 Creating Data Breaches? https://www.govtech.com/blogs/lohrmann-on-cybersecurity/how-is-covid-19-creating-data-breaches.html
 - 27 March 2020. Doc Searls. Zoom needs to clean up its privacy act https://blogs.harvard.edu/doc/2020/03/27/zoom/
