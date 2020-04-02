@@ -5,7 +5,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - [IOC Sources](#IOC-Sources)
 - [Incidents](#Incidents)
 - [Intelligence Reports and Updates](#Intelligence-Reports-and-Updates)
-- [Remote Working](#remote-working--conferencing-software)
+- [RRemote Working & Conferencing Software](#remote-working--conferencing-software)
 - [Cybersecurity Reports](#Cybersecurity-Reports)
 
 *Please note, we have removed most media reporting unless it adds specific threat information or insight in addition to the resources above. Simarly we have ignored resources that do not add specific insight or original content. Where resources are behind a registration page this is indicated.*
@@ -188,6 +188,8 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 
 ## Remote Working & Conferencing Software
 
+- Zoom Security White Paper - https://zoom.us/docs/doc/Zoom-Security-White-Paper.pdf
+- 1 April 2020. The Register. Zoom's end-to-end encryption isn't actually end-to-end at all. https://www.theregister.co.uk/2020/04/01/zoom_spotlight/
 - 1 April 2020. Securonix Threat Research: Securing Your Remote Workforce – Detecting the Latest Cyberattacks in the Work-From-Home (WFH) World: Part 1 https://www.securonix.com/securonix-threat-research-securing-your-remote-workforce-detecting-the-latest-cyberattacks-in-the-work-from-home-wfh-world-part-1/
 - 31 March 2020. Bleeping Computer/Matthew Hickey. Zoom Client Leaks Windows Login Credentials to Attackers https://www.bleepingcomputer.com/news/security/zoom-client-leaks-windows-login-credentials-to-attackers/ and https://twitter.com/hackerfantastic/status/1245133371262619654
 - 30 March 2020. Lexology. Ethical Issues with Remote Work During COVID-19 https://www.lexology.com/library/detail.aspx?g=320c6cfe-fceb-463f-b8ec-5f247de4c843
