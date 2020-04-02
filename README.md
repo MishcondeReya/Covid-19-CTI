@@ -58,6 +58,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Silobreaker. Covid-19 Threat Daily Update.  https://www.silobreaker.com/tag/covid19-threat-digest/.
 - Fraud Watch International. Covid-19 Online Scams. https://fraudwatchinternational.com/covid19/
 - KPN Security Research Team https://github.com/KPN-SRT/covid19_cyber_threats
+- 02 April 2020. Wardialing Zoom tool automates finding open rooms https://krebsonsecurity.com/2020/04/war-dialing-tool-exposes-zooms-password-problems/
 - 1 April 2020. Proofpoint. Coronavirus/COVID-19 Payment Lures on the Rise. https://www.proofpoint.com/us/threat-insight/post/coronaviruscovid-19-payment-lures-rise
 - 1 April 2020. DXC.Technology. Threat Intelligence Report
  https://assets1.dxc.technology/security/downloads/DXC-Threat_Intelligence_Report_-_April_2020.pdf
