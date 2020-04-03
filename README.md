@@ -31,6 +31,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - SANS. Covid Domain Classifier. https://isc.sans.edu/covidclassifier.html
 - Managed Sentinel. COVID-19 Indicators of Compromise and Azure Sentinel Alerts https://www.managedsentinel.com/2020/03/27/azure-sentinel-covid-19-alerts-and-iocs/
 - Proofpoint. Practitioners Update: Free COVID-19 Related IDS Rules https://www.proofpoint.com/us/threat-insight/post/practitioners-update-free-covid-19-related-ids-rules
+- SOCPrime. SOC PRIME PROVIDES HEALTHCARE ORGANIZATIONS WITH FREE SIEM CONTENT FOR COVID19 PHISHING ATTACKS DETECTION https://socprime.com/blog/soc-prime-provides-healthcare-organizations-with-free-siem-content-for-covid19-phishing-attacks-detection/
 
 ## Incidents
 
@@ -58,6 +59,8 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Silobreaker. Covid-19 Threat Daily Update.  https://www.silobreaker.com/tag/covid19-threat-digest/.
 - Fraud Watch International. Covid-19 Online Scams. https://fraudwatchinternational.com/covid19/
 - KPN Security Research Team https://github.com/KPN-SRT/covid19_cyber_threats
+- 2 April 2020. Checkpoint. Coronavirus update: In the cyber world, the graph has yet to flatten. https://blog.checkpoint.com/2020/04/02/coronavirus-update-in-the-cyber-world-the-graph-has-yet-to-flatten/
+- 2 April 2020. IRS. IRS issues warning about Coronavirus-related scams; watch out for schemes tied to economic impact payments https://www.irs.gov/newsroom/irs-issues-warning-about-coronavirus-related-scams-watch-out-for-schemes-tied-to-economic-impact-payments
 - 2 April 2020. Phishlabs. COVID-19 Phishing Update: Infected Coworker Email Targets Enterprise O365 Credentials
 - 2 April 2020. Akamai. THREAT ACTORS RECYCLING PHISHING KITS IN NEW CORONAVIRUS (COVID-19) CAMPAIGNS. https://blogs.akamai.com/sitr/2020/04/threat-actors-recycling-phishing-kits-in-new-coronavirus-covid-19-campaigns.html
 - 2 April 2020. Wardialing Zoom tool automates finding open rooms https://krebsonsecurity.com/2020/04/war-dialing-tool-exposes-zooms-password-problems/
