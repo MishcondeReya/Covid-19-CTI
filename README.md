@@ -196,7 +196,9 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 
 ## Remote Working & Conferencing Software
 
+- 3 April 2020. Citizen Lab. Move Fast & Roll Your Own Crypto A Quick Look at the Confidentiality of Zoom Meetings https://citizenlab.ca/2020/04/move-fast-roll-your-own-crypto-a-quick-look-at-the-confidentiality-of-zoom-meetings/
 - Zoom Security White Paper - https://zoom.us/docs/doc/Zoom-Security-White-Paper.pdf
+- 2 April 2020. FBI. FBI Releases Guidance on Defending Against VTC Hijacking and Zoom-bombing https://www.us-cert.gov/ncas/current-activity/2020/04/02/fbi-releases-guidance-defending-against-vtc-hijacking-and-zoom
 - 1 April 2020. The Register. Zoom's end-to-end encryption isn't actually end-to-end at all. https://www.theregister.co.uk/2020/04/01/zoom_spotlight/
 - 1 April 2020. Securonix Threat Research: Securing Your Remote Workforce – Detecting the Latest Cyberattacks in the Work-From-Home (WFH) World: Part 1 https://www.securonix.com/securonix-threat-research-securing-your-remote-workforce-detecting-the-latest-cyberattacks-in-the-work-from-home-wfh-world-part-1/
 - 31 March 2020. Bleeping Computer/Matthew Hickey. Zoom Client Leaks Windows Login Credentials to Attackers https://www.bleepingcomputer.com/news/security/zoom-client-leaks-windows-login-credentials-to-attackers/ and https://twitter.com/hackerfantastic/status/1245133371262619654
