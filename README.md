@@ -59,6 +59,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Silobreaker. Covid-19 Threat Daily Update.  https://www.silobreaker.com/tag/covid19-threat-digest/.
 - Fraud Watch International. Covid-19 Online Scams. https://fraudwatchinternational.com/covid19/
 - KPN Security Research Team https://github.com/KPN-SRT/covid19_cyber_threats
+- 3 April 2020. Europol. CATCHING THE VIRUS CYBERCRIME, DISINFORMATION AND THE COVID-19 PANDEMIC. https://www.europol.europa.eu/publications-documents/catching-virus-cybercrime-disinformation-and-covid-19-pandemic
 - 2 April 2020. Checkpoint. Coronavirus update: In the cyber world, the graph has yet to flatten. https://blog.checkpoint.com/2020/04/02/coronavirus-update-in-the-cyber-world-the-graph-has-yet-to-flatten/
 - 2 April 2020. IRS. IRS issues warning about Coronavirus-related scams; watch out for schemes tied to economic impact payments https://www.irs.gov/newsroom/irs-issues-warning-about-coronavirus-related-scams-watch-out-for-schemes-tied-to-economic-impact-payments
 - 2 April 2020. Phishlabs. COVID-19 Phishing Update: Infected Coworker Email Targets Enterprise O365 Credentials
