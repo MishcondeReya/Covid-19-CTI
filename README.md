@@ -35,6 +35,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 
 ## Incidents
 
+- 02 April 2020. RedDrip Team HWP document containing COVID-19 contents possibly utilized by Lazarus Group to attack South Korea. A backdoor gets dropped out to perform remote control. https://twitter.com/reddrip7/status/1245557988401623040
 - 26 March 2020. Telsy. CYBERCRIMINALS TROJANIZED ORGINAL SM COVID-19 AWARENESS ANDROID APP TO TARGET ITALY. https://blog.telsy.com/cybercriminals-trojanized-orginal-sm-covid-19-awareness-android-app-to-target-italy/
 - 24 March 2020. Computing. Spanish hospitals targeted with coronavirus-themed phishing lures in Netwalker ransomware attacks. https://www.computing.co.uk/news/4012969/hospitals-coronavirus-ransomware
 - 23 March 2020. Forbes/Davey Winder. COVID-19 Vaccine Test Center Hit By Cyber Attack, Stolen Data Posted Online. https://www.forbes.com/sites/daveywinder/2020/03/23/covid-19-vaccine-test-center-hit-by-cyber-attack-stolen-data-posted-online/#3b5f1f5918e5
