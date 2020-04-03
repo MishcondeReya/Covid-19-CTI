@@ -65,7 +65,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - 2 April 2020. Phishlabs. COVID-19 Phishing Update: Infected Coworker Email Targets Enterprise O365 Credentials
 - 2 April 2020. Akamai. THREAT ACTORS RECYCLING PHISHING KITS IN NEW CORONAVIRUS (COVID-19) CAMPAIGNS. https://blogs.akamai.com/sitr/2020/04/threat-actors-recycling-phishing-kits-in-new-coronavirus-covid-19-campaigns.html
 - 2 April 2020. Wardialing Zoom tool automates finding open rooms https://krebsonsecurity.com/2020/04/war-dialing-tool-exposes-zooms-password-problems/
-- 2 April 2020. Zoom zero days https://www.oodaloop.com/briefs/2020/04/02/two-zoom-zero-day-flaws-uncovered/
+- 2 April 2020. OODALoop. Zoom zero days https://www.oodaloop.com/briefs/2020/04/02/two-zoom-zero-day-flaws-uncovered/
 - 1 April 2020. Proofpoint. Coronavirus/COVID-19 Payment Lures on the Rise. https://www.proofpoint.com/us/threat-insight/post/coronaviruscovid-19-payment-lures-rise
 - 1 April 2020. DXC.Technology. Threat Intelligence Report
  https://assets1.dxc.technology/security/downloads/DXC-Threat_Intelligence_Report_-_April_2020.pdf
