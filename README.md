@@ -32,9 +32,11 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Managed Sentinel. COVID-19 Indicators of Compromise and Azure Sentinel Alerts https://www.managedsentinel.com/2020/03/27/azure-sentinel-covid-19-alerts-and-iocs/
 - Proofpoint. Practitioners Update: Free COVID-19 Related IDS Rules https://www.proofpoint.com/us/threat-insight/post/practitioners-update-free-covid-19-related-ids-rules
 - SOCPrime. SOC PRIME PROVIDES HEALTHCARE ORGANIZATIONS WITH FREE SIEM CONTENT FOR COVID19 PHISHING ATTACKS DETECTION https://socprime.com/blog/soc-prime-provides-healthcare-organizations-with-free-siem-content-for-covid19-phishing-attacks-detection/
+- North Dakota Response. COVID-19 Cyber Threats https://ndresponse.gov/covid-19-resources/covid-19-cyber-threats
 
 ## Incidents
 
+- 02 April 2020. Forbes/Davey Winder. Cyber Attack Disrupts COVID-19 Payouts: Hackers Take Down Italian Social Security Site https://www.forbes.com/sites/daveywinder/2020/04/02/covid-19-payouts-disrupted-as-heartless-hackers-attack-italian-crisis-benefits-site/#300531c15f10
 - 02 April 2020. RedDrip Team HWP document containing COVID-19 contents possibly utilized by Lazarus Group to attack South Korea. A backdoor gets dropped out to perform remote control. https://twitter.com/reddrip7/status/1245557988401623040
 - 26 March 2020. Telsy. CYBERCRIMINALS TROJANIZED ORGINAL SM COVID-19 AWARENESS ANDROID APP TO TARGET ITALY. https://blog.telsy.com/cybercriminals-trojanized-orginal-sm-covid-19-awareness-android-app-to-target-italy/
 - 24 March 2020. Computing. Spanish hospitals targeted with coronavirus-themed phishing lures in Netwalker ransomware attacks. https://www.computing.co.uk/news/4012969/hospitals-coronavirus-ransomware
@@ -60,7 +62,12 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Silobreaker. Covid-19 Threat Daily Update.  https://www.silobreaker.com/tag/covid19-threat-digest/.
 - Fraud Watch International. Covid-19 Online Scams. https://fraudwatchinternational.com/covid19/
 - KPN Security Research Team https://github.com/KPN-SRT/covid19_cyber_threats
+- 5 April 2020. Webhose. How Dark Web Criminals are Taking Advantage of the COVID-19 Crisis https://webhose.io/blog/dark-web/dark-web-criminals-take-advantage-covid19-crisis/ 
+- 4 April 2020. Cybercriminals targeting critical healthcare institutions with ransomware https://www.interpol.int/en/News-and-Events/News/2020/Cybercriminals-targeting-critical-healthcare-institutions-with-ransomware
 - 3 April 2020. Europol. CATCHING THE VIRUS CYBERCRIME, DISINFORMATION AND THE COVID-19 PANDEMIC. https://www.europol.europa.eu/publications-documents/catching-virus-cybercrime-disinformation-and-covid-19-pandemic
+- 2 April 2020. Fortinet. Latest Global COVID-19/Coronavirus Spearphishing Campaign Drops Infostealer  https://www.fortinet.com/blog/threat-research/latest-global-covid-19-coronavirus-spearphishing-campaign-drops-infostealer.html
+- 2 April 2020. TrendMicro. Developing Story: COVID-19 Used in Malicious Campaigns https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/coronavirus-used-in-spam-malware-file-names-and-malicious-domains 
+- 2 April 2020. MDR Cyber. COVID-19: Cyber Security Update – 2 April https://www.mishcon.com/news/covid-19-cyber-security-update-2-april
 - 2 April 2020. Checkpoint. Coronavirus update: In the cyber world, the graph has yet to flatten. https://blog.checkpoint.com/2020/04/02/coronavirus-update-in-the-cyber-world-the-graph-has-yet-to-flatten/
 - 2 April 2020. IRS. IRS issues warning about Coronavirus-related scams; watch out for schemes tied to economic impact payments https://www.irs.gov/newsroom/irs-issues-warning-about-coronavirus-related-scams-watch-out-for-schemes-tied-to-economic-impact-payments
 - 2 April 2020. Phishlabs. COVID-19 Phishing Update: Infected Coworker Email Targets Enterprise O365 Credentials
