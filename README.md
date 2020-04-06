@@ -67,6 +67,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - 5 April 2020. Webhose. How Dark Web Criminals are Taking Advantage of the COVID-19 Crisis https://webhose.io/blog/dark-web/dark-web-criminals-take-advantage-covid19-crisis/ 
 - 4 April 2020. Cybercriminals targeting critical healthcare institutions with ransomware https://www.interpol.int/en/News-and-Events/News/2020/Cybercriminals-targeting-critical-healthcare-institutions-with-ransomware
 - 3 April 2020. Europol. CATCHING THE VIRUS CYBERCRIME, DISINFORMATION AND THE COVID-19 PANDEMIC. https://www.europol.europa.eu/publications-documents/catching-virus-cybercrime-disinformation-and-covid-19-pandemic
+- 2 April 2020. Chatham House. Supporting NHS Cybersecurity During COVID-19 is Vital. https://www.chathamhouse.org/expert/comment/supporting-nhs-cybersecurity-during-covid-19-vital
 - 2 April 2020. Fortinet. Latest Global COVID-19/Coronavirus Spearphishing Campaign Drops Infostealer  https://www.fortinet.com/blog/threat-research/latest-global-covid-19-coronavirus-spearphishing-campaign-drops-infostealer.html
 - 2 April 2020. TrendMicro. Developing Story: COVID-19 Used in Malicious Campaigns https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/coronavirus-used-in-spam-malware-file-names-and-malicious-domains 
 - 2 April 2020. MDR Cyber. COVID-19: Cyber Security Update – 2 April https://www.mishcon.com/news/covid-19-cyber-security-update-2-april
