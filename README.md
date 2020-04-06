@@ -48,6 +48,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - 20 March 2020. UK Middlesbrough Local Council targeted with COV_19-themed emails https://www.bbc.co.uk/news/uk-england-tees-51980150
 - 18 March 2020. Zloader/SILENTNIGHT banking trojan distributed with COVID-19 compensation scheme lure https://www.fireeye.com/blog/threat-research/2020/03/stimulus-bill-social-engineering-covid-19-financial-compensation-schemes.html
 - 18 March 2020. Health Services Journal (HSJ). Covid-19 response forces halt to NHS cyber security checks https://www.hsj.co.uk/technology-and-innovation/covid-19-response-forces-halt-to-nhs-cyber-security-checks/7027166.article
+- 14 March 2020. HMR London Medical Facility attacked with Maze Ransomeware, data leaked. https://www.forbes.com/sites/daveywinder/2020/03/23/covid-19-vaccine-test-center-hit-by-cyber-attack-stolen-data-posted-online/#5a2fca3c18e5
 - 14 March 2020 BlackWater Malware Abuses Cloudflare Workers for C2 Communication. https://www.bleepingcomputer.com/news/security/blackwater-malware-abuses-cloudflare-workers-for-c2-communication/
 - 13 March 2020 Czech Covid-19 testing hospital hit with Ransomware. https://brnodaily.com/2020/03/13/news/serious-cyber-attack-targets-brno-university-hospital/
 - 13 March 2020. Phishing campaign targeting World Health Organisation using typosquatted domain https://www.reuters.com/article/us-health-coronavirus-who-hack-exclusive-idUSKBN21A3BN
