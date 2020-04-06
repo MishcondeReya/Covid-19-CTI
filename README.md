@@ -206,6 +206,7 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 
 ## Remote Working & Conferencing Software
 
+- 4 April 2020. CapGemini. Boosting cybersecurity immunity: Confronting cybersecurity risks in today’s work-from home world https://www.capgemini.com/wp-content/uploads/2020/04/Cybersecurity_2020403_V05.pdf
 - 3 April 2020. Citizen Lab. Move Fast & Roll Your Own Crypto A Quick Look at the Confidentiality of Zoom Meetings https://citizenlab.ca/2020/04/move-fast-roll-your-own-crypto-a-quick-look-at-the-confidentiality-of-zoom-meetings/
 - Zoom Security White Paper - https://zoom.us/docs/doc/Zoom-Security-White-Paper.pdf
 - 2 April 2020. FBI. FBI Releases Guidance on Defending Against VTC Hijacking and Zoom-bombing https://www.us-cert.gov/ncas/current-activity/2020/04/02/fbi-releases-guidance-defending-against-vtc-hijacking-and-zoom
