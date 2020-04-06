@@ -14,7 +14,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 
 - **Cyber Threat Coalition. https://blacklist.cyberthreatcoalition.org/ and join Slack at https://covid19cybert-qvl7792.slack.com/join/shared_invite/zt-cyt9l8z9-wojJ6lHvlLKbWU0GnoUfXQ, OTX group at https://otx.alienvault.com/group/840/pulses.**
 - Domaintools - Domains with high risk scores. https://www.domaintools.com/resources/blog/free-covid-19-threat-list-domain-risk-assessments-for-coronavirus-threats (NB: Behind registration form).  
-- List of domains with Covid-19 related keywords. https://www.malwarepatrol.net/coronavirus-covid-19-online-scams-data/
+- Malware Patrol - List of newly registered domains with Covid-19 related keywords. https://www.malwarepatrol.net/coronavirus-covid-19-online-scams-data/
 - Covid-19 Host Reputation feed. https://cv-feed.pocnroll.com/
 - ThreatConnect Dashboards and Playbooks. https://threatconnect.com/blog/playbook-fridays-covid-19-dashboard-metrics-and-search/
 - Joe Tidy - Phishing Scams Search. https://coronavirusphishing.com/
