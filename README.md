@@ -64,6 +64,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Silobreaker. Covid-19 Threat Daily Update.  https://www.silobreaker.com/tag/covid19-threat-digest/.
 - Fraud Watch International. Covid-19 Online Scams. https://fraudwatchinternational.com/covid19/
 - KPN Security Research Team https://github.com/KPN-SRT/covid19_cyber_threats
+- 6 April 2020. FBI warn BEC frauds exploiting COVID-19 https://www.fbi.gov/news/pressrel/press-releases/fbi-anticipates-rise-in-business-email-compromise-schemes-related-to-the-covid-19-pandemic
 - 6 April 2020. FBI warn about money mule scams exploiting home-working https://www.fbi.gov/news/pressrel/press-releases/fbi-warns-of-money-mule-schemes-exploiting-the-covid-19-pandemic
 - 6 April 2020. BEC gift card scams going digital https://www.agari.com/email-security-blog/bec-gift-card-scams-covid-19/
 - 6 April 2020. NASA CIO. NASA CIO Agencywide Memo: Alert: Cyber Threats Significantly Increasing During Coronavirus Pandemic http://www.spaceref.com/news/viewsr.html?pid=53512
