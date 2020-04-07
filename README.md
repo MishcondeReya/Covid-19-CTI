@@ -64,6 +64,8 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Silobreaker. Covid-19 Threat Daily Update.  https://www.silobreaker.com/tag/covid19-threat-digest/.
 - Fraud Watch International. Covid-19 Online Scams. https://fraudwatchinternational.com/covid19/
 - KPN Security Research Team https://github.com/KPN-SRT/covid19_cyber_threats
+- 6 April 2020. NASA CIO. NASA CIO Agencywide Memo: Alert: Cyber Threats Significantly Increasing During Coronavirus Pandemic http://www.spaceref.com/news/viewsr.html?pid=53512
+- 6 April 2020. Danish Gov. Threat Assessment: The Cyber Threat Against Denmark During the COVID-19 Pandemic. https://fe-ddis.dk/cfcs/publikationer/Documents/The%20Cyber%20Threat%20Against%20Denmark%20During%20the%20COVID-19%20Pandemic.pdf 
 - 5 April 2020. Webhose. How Dark Web Criminals are Taking Advantage of the COVID-19 Crisis https://webhose.io/blog/dark-web/dark-web-criminals-take-advantage-covid19-crisis/ 
 - 4 April 2020. Cybercriminals targeting critical healthcare institutions with ransomware https://www.interpol.int/en/News-and-Events/News/2020/Cybercriminals-targeting-critical-healthcare-institutions-with-ransomware
 - 3 April 2020. Europol. CATCHING THE VIRUS CYBERCRIME, DISINFORMATION AND THE COVID-19 PANDEMIC. https://www.europol.europa.eu/publications-documents/catching-virus-cybercrime-disinformation-and-covid-19-pandemic
