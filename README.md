@@ -64,7 +64,10 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Silobreaker. Covid-19 Threat Daily Update.  https://www.silobreaker.com/tag/covid19-threat-digest/.
 - Fraud Watch International. Covid-19 Online Scams. https://fraudwatchinternational.com/covid19/
 - KPN Security Research Team https://github.com/KPN-SRT/covid19_cyber_threats
+- 8 April 2020. Microsoft. Microsoft shares new threat intelligence, security guidance during global crisis. https://www.microsoft.com/security/blog/2020/04/08/microsoft-shares-new-threat-intelligence-security-guidance-during-global-crisis/
+- 8 April 2020. Fireeye. Limited Shifts in the Cyber Threat Landscape Driven by COVID-19 https://www.fireeye.com/blog/threat-research/2020/04/limited-shifts-in-cyber-threat-landscape-driven-by-covid-19.html
 - 8 April 2020. CISA and NCSC. COVID-19 Exploited by Malicious Cyber Actors https://www.us-cert.gov/ncas/alerts/aa20-099a and https://www.ncsc.gov.uk/news/covid-19-exploited-by-cyber-actors-advisory
+- 6 April 2020. Redscan. REDSCAN REVEALS GOOGLE SECURITY SEARCH TRENDS DURING COVID-19 PANDEMIC https://www.redscan.com/news/covid-19-google-security-search-trends/
 - 6 April 2020. FBI warn BEC frauds exploiting COVID-19 https://www.fbi.gov/news/pressrel/press-releases/fbi-anticipates-rise-in-business-email-compromise-schemes-related-to-the-covid-19-pandemic
 - 6 April 2020. FBI warn about money mule scams exploiting home-working https://www.fbi.gov/news/pressrel/press-releases/fbi-warns-of-money-mule-schemes-exploiting-the-covid-19-pandemic
 - 6 April 2020. BEC gift card scams going digital https://www.agari.com/email-security-blog/bec-gift-card-scams-covid-19/
@@ -92,6 +95,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - 31 March 2020. Trustwave. COVID-19 Malspam Activity Ramps Up. https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/covid-19-malspam-activity-ramps-up/
 - 31 March 2020. Sophos. Sexortion threatening infection with Coronavirus https://nakedsecurity.sophos.com/2020/03/19/dirty-little-secret-extortion-email-threatens-to-give-your-family-coronavirus/
 - 31 March 2020. Cyjax. COVID-19 Cyber Situation Update – 31 March https://www.cyjax.com/2020/03/31/covid-19-cyber-situation-update-31-march/
+- 30 March 2020. F-Secure. Latest Covid-19-related cyber security news: Hospitals under attack https://blog.f-secure.com/covid-19-cyber-security/
 - 30 March 2020. ESET. COVID-19 scams and social engineering capitalize on rapid change. https://www.eset.com/blog/enterprise/covid-19-scams-and-social-engineering-capitalize-on-rapid-change/
 - 30 March 2020. Checkpoint. COVID-19 Impact: Cyber Criminals Target Zoom Domains. https://blog.checkpoint.com/2020/03/30/covid-19-impact-cyber-criminals-target-zoom-domains/
 - 30 March 2020. KnowB4. Email campaign claiming  "you are infected" with Coronavirus https://blog.knowbe4.com/cyberheistnews-vol-10-14-dont-hit-the-panic-button-you-are-infected-bad-guys-launch-an-evil-new-corona-virus-attack
@@ -252,8 +256,9 @@ Guides from vendors on the secure deployment of their remote working and confere
 ## Cybersecurity Reports
 
 - Information Security Forum (ISF). ISF resource and content suite for the Coronavirus outbreak. https://www.securityforum.org/covid-19/
+- 4 April 2020. Alston. Cyber Alert: Cybersecurity and COVID-19: Four Categories of Cyber Threats and Practical Tips in Response https://www.alston.com/en/insights/publications/2020/04/cybersecurity-and-covid19/ 
 - April 2020 - Austrialian Government. COVID-19: Protecting Your Small Business. https://www.cyber.gov.au/advice/covid-19-protecting-your-small-business 
-- April 1 2020. IANS Research. COVID-19 and InfoSec: What You Need to Know https://portal.iansresearch.com/content/4613/tpg/covid-19-and-infosec-what-you-need-to-know/
+- 1 April 2020. IANS Research. COVID-19 and InfoSec: What You Need to Know https://portal.iansresearch.com/content/4613/tpg/covid-19-and-infosec-what-you-need-to-know/ 
 - 1 April 2020. Sophos. Protecting your company during COVID-19: guidance for CIOs and CISOs https://news.sophos.com/en-us/2020/04/01/protecting-your-company-during-covid-19-guidance-for-cios-and-cisos/
 - 30 March 2020. Fireeye. With COVID-19 Themed Campaigns on the Rise, Here’s How to Manage Email Phishing Risks. https://www.fireeye.com/blog/executive-perspective/2020/03/managing-email-phishing-risks.html
 - 28 March 2020. AlixPartners. ESSENTIAL STRATEGIES FOR MANAGING CYBER RISK IN DISRUPTIVE TIMES https://www.alixpartners.com/media/14661/covid-19-response-business-disruption_cyber-risk.pdf
