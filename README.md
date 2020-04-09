@@ -64,6 +64,8 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Silobreaker. Covid-19 Threat Daily Update.  https://www.silobreaker.com/tag/covid19-threat-digest/.
 - Fraud Watch International. Covid-19 Online Scams. https://fraudwatchinternational.com/covid19/
 - KPN Security Research Team https://github.com/KPN-SRT/covid19_cyber_threats
+- 8 April 2020. Secureworks. How Cyber Adversaries are Adapting to Exploit the Global Pandemic https://www.secureworks.com/blog/how-cyber-adversaries-are-adapting-to-exploit-the-global-pandemic
+- 8 April 2020. Cofense. Coronavirus-Themed Phish Continue to Surge https://cofense.com/coronavirus-themed-phish-continue-surge/
 - 8 April 2020. Carbon Black. COVID-19: Cybersecurity Community Resources https://www.carbonblack.com/2020/04/08/covid-19-cybersecurity-community-resources/ 
 - 8 April 2020. Microsoft. Microsoft shares new threat intelligence, security guidance during global crisis. https://www.microsoft.com/security/blog/2020/04/08/microsoft-shares-new-threat-intelligence-security-guidance-during-global-crisis/
 - 8 April 2020. Fireeye. Limited Shifts in the Cyber Threat Landscape Driven by COVID-19 https://www.fireeye.com/blog/threat-research/2020/04/limited-shifts-in-cyber-threat-landscape-driven-by-covid-19.html
@@ -219,6 +221,9 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 
 ## Remote Working & Conferencing Software
 
+- 8 April 2020. ESET. Top tips for videoconferencing security https://www.welivesecurity.com/2020/04/08/top-tips-videoconferencing-security/
+- 8 April 2020. MDR Cyber. COVID-19: Securing the remote worker https://www.mishcon.com/news/covid-19-securing-the-remote-worker
+- 8 April 2020. K2 Intelligence. COVID-19: Managing the Security Risks of a Remote Workforce https://www.k2intelligence.com/en/insights/thought-leadership/2020/covid-19-managing-the-security-risks-of-a-remote-workforce
 - 4 April 2020. CapGemini. Boosting cybersecurity immunity: Confronting cybersecurity risks in today’s work-from home world https://www.capgemini.com/wp-content/uploads/2020/04/Cybersecurity_2020403_V05.pdf
 - 3 April 2020. Tidbits. Every Zoom Security and Privacy Flaw So Far, and What You Can Do to Protect Yourself. https://tidbits.com/2020/04/03/every-zoom-security-and-privacy-flaw-so-far-and-what-you-can-do-to-protect-yourself/ 
 - 3 April 2020. Citizen Lab. Move Fast & Roll Your Own Crypto A Quick Look at the Confidentiality of Zoom Meetings https://citizenlab.ca/2020/04/move-fast-roll-your-own-crypto-a-quick-look-at-the-confidentiality-of-zoom-meetings/
@@ -257,6 +262,7 @@ Guides from vendors on the secure deployment of their remote working and confere
 ## Cybersecurity Reports
 
 - Information Security Forum (ISF). ISF resource and content suite for the Coronavirus outbreak. https://www.securityforum.org/covid-19/
+- 8 April 2020. Jones Day. Managing Cybersecurity and Data Privacy Concerns During the COVID-19 Pandemic https://www.jonesday.com/en/insights/2020/04/covid19-cybersecurity-and-data-privacy-concerns
 - 4 April 2020. Alston. Cyber Alert: Cybersecurity and COVID-19: Four Categories of Cyber Threats and Practical Tips in Response https://www.alston.com/en/insights/publications/2020/04/cybersecurity-and-covid19/ 
 - April 2020 - Austrialian Government. COVID-19: Protecting Your Small Business. https://www.cyber.gov.au/advice/covid-19-protecting-your-small-business 
 - 1 April 2020. IANS Research. COVID-19 and InfoSec: What You Need to Know https://portal.iansresearch.com/content/4613/tpg/covid-19-and-infosec-what-you-need-to-know/ 
