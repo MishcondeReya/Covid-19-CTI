@@ -64,6 +64,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Silobreaker. Covid-19 Threat Daily Update.  https://www.silobreaker.com/tag/covid19-threat-digest/.
 - Fraud Watch International. Covid-19 Online Scams. https://fraudwatchinternational.com/covid19/
 - KPN Security Research Team https://github.com/KPN-SRT/covid19_cyber_threats
+- 8 April 2020. Carbon Black. COVID-19: Cybersecurity Community Resources https://www.carbonblack.com/2020/04/08/covid-19-cybersecurity-community-resources/ 
 - 8 April 2020. Microsoft. Microsoft shares new threat intelligence, security guidance during global crisis. https://www.microsoft.com/security/blog/2020/04/08/microsoft-shares-new-threat-intelligence-security-guidance-during-global-crisis/
 - 8 April 2020. Fireeye. Limited Shifts in the Cyber Threat Landscape Driven by COVID-19 https://www.fireeye.com/blog/threat-research/2020/04/limited-shifts-in-cyber-threat-landscape-driven-by-covid-19.html
 - 8 April 2020. CISA and NCSC. COVID-19 Exploited by Malicious Cyber Actors https://www.us-cert.gov/ncas/alerts/aa20-099a and https://www.ncsc.gov.uk/news/covid-19-exploited-by-cyber-actors-advisory
