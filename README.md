@@ -33,6 +33,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Proofpoint. Practitioners Update: Free COVID-19 Related IDS Rules https://www.proofpoint.com/us/threat-insight/post/practitioners-update-free-covid-19-related-ids-rules
 - SOCPrime. SOC PRIME PROVIDES HEALTHCARE ORGANIZATIONS WITH FREE SIEM CONTENT FOR COVID19 PHISHING ATTACKS DETECTION https://socprime.com/blog/soc-prime-provides-healthcare-organizations-with-free-siem-content-for-covid19-phishing-attacks-detection/
 - North Dakota Response. COVID-19 Cyber Threats https://ndresponse.gov/covid-19-resources/covid-19-cyber-threats
+- Phishlabs. COVID-19 Threat Intelligence. https://www.phishlabs.com/covid-19-threat-intelligence/ 
 
 ## Incidents
 
@@ -70,6 +71,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - 8 April 2020. Microsoft. Microsoft shares new threat intelligence, security guidance during global crisis. https://www.microsoft.com/security/blog/2020/04/08/microsoft-shares-new-threat-intelligence-security-guidance-during-global-crisis/
 - 8 April 2020. Fireeye. Limited Shifts in the Cyber Threat Landscape Driven by COVID-19 https://www.fireeye.com/blog/threat-research/2020/04/limited-shifts-in-cyber-threat-landscape-driven-by-covid-19.html
 - 8 April 2020. CISA and NCSC. COVID-19 Exploited by Malicious Cyber Actors https://www.us-cert.gov/ncas/alerts/aa20-099a and https://www.ncsc.gov.uk/news/covid-19-exploited-by-cyber-actors-advisory
+- 7 April 2020. SonicWall. The New Front in Hospitals’ Battle Against COVID-19: Ransomware https://blog.sonicwall.com/en-us/2020/04/the-new-front-in-hospitals-battle-against-covid-19-ransomware/
 - 6 April 2020. Redscan. REDSCAN REVEALS GOOGLE SECURITY SEARCH TRENDS DURING COVID-19 PANDEMIC https://www.redscan.com/news/covid-19-google-security-search-trends/
 - 6 April 2020. FBI warn BEC frauds exploiting COVID-19 https://www.fbi.gov/news/pressrel/press-releases/fbi-anticipates-rise-in-business-email-compromise-schemes-related-to-the-covid-19-pandemic
 - 6 April 2020. FBI warn about money mule scams exploiting home-working https://www.fbi.gov/news/pressrel/press-releases/fbi-warns-of-money-mule-schemes-exploiting-the-covid-19-pandemic
@@ -79,6 +81,8 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - 5 April 2020. Webhose. How Dark Web Criminals are Taking Advantage of the COVID-19 Crisis https://webhose.io/blog/dark-web/dark-web-criminals-take-advantage-covid19-crisis/ 
 - 4 April 2020. Interpol. https://www.interpol.int/News-and-Events/News/2020/Cybercriminals-targeting-critical-healthcare-institutions-with-ransomware 
 - 4 April 2020. Cybercriminals targeting critical healthcare institutions with ransomware https://www.interpol.int/en/News-and-Events/News/2020/Cybercriminals-targeting-critical-healthcare-institutions-with-ransomware
+- 3 April 2020. Symantec/Broadcom. COVID-19 Outbreak Prompts Opportunistic Wave of Malicious Email Campaigns https://symantec-blogs.broadcom.com/blogs/threat-intelligence/covid-19-outbreak-prompts-opportunistic-wave-malicious-email-campaigns
+- 3 April 2020. European Commission. COVID-19: Commission and national consumer authorities are on high alert and call on platforms to stop scams and unfair practices https://ec.europa.eu/info/live-work-travel-eu/consumers/enforcement-consumer-protection/scams-related-covid-19_en
 - 3 April 2020. Europol. CATCHING THE VIRUS CYBERCRIME, DISINFORMATION AND THE COVID-19 PANDEMIC. https://www.europol.europa.eu/publications-documents/catching-virus-cybercrime-disinformation-and-covid-19-pandemic
 - 2 April 2020. Chatham House. Supporting NHS Cybersecurity During COVID-19 is Vital. https://www.chathamhouse.org/expert/comment/supporting-nhs-cybersecurity-during-covid-19-vital
 - 2 April 2020. Fortinet. Latest Global COVID-19/Coronavirus Spearphishing Campaign Drops Infostealer  https://www.fortinet.com/blog/threat-research/latest-global-covid-19-coronavirus-spearphishing-campaign-drops-infostealer.html
@@ -221,6 +225,7 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 
 ## Remote Working & Conferencing Software
 
+- 12 April 2020. Forbes/Davey Winder. Zoom Isn’t Malware But Hackers Are Feeding That Narrative, And How: Zoom-Related Threats Up 2,000% https://www.forbes.com/sites/daveywinder/2020/04/12/zoom-isnt-malware-but-hackers-are-feeding-that-narrative-and-how-zoom-related-threats-up-2000/#342187691ae5
 - 8 April 2020. ESET. Top tips for videoconferencing security https://www.welivesecurity.com/2020/04/08/top-tips-videoconferencing-security/
 - 8 April 2020. MDR Cyber. COVID-19: Securing the remote worker https://www.mishcon.com/news/covid-19-securing-the-remote-worker
 - 8 April 2020. K2 Intelligence. COVID-19: Managing the Security Risks of a Remote Workforce https://www.k2intelligence.com/en/insights/thought-leadership/2020/covid-19-managing-the-security-risks-of-a-remote-workforce
@@ -262,6 +267,7 @@ Guides from vendors on the secure deployment of their remote working and confere
 ## Cybersecurity Reports
 
 - Information Security Forum (ISF). ISF resource and content suite for the Coronavirus outbreak. https://www.securityforum.org/covid-19/
+- 8 April 2020. BEREC Summary Report on the status of internet capacity in light of Covid-19 crisis. https://berec.europa.eu/eng/document_register/subject_matter/berec/reports/9250-berec-summary-report-on-the-status-of-internet-capacity-in-light-of-covid-19-crisis 
 - 8 April 2020. Jones Day. Managing Cybersecurity and Data Privacy Concerns During the COVID-19 Pandemic https://www.jonesday.com/en/insights/2020/04/covid19-cybersecurity-and-data-privacy-concerns
 - 4 April 2020. Alston. Cyber Alert: Cybersecurity and COVID-19: Four Categories of Cyber Threats and Practical Tips in Response https://www.alston.com/en/insights/publications/2020/04/cybersecurity-and-covid19/ 
 - April 2020 - Austrialian Government. COVID-19: Protecting Your Small Business. https://www.cyber.gov.au/advice/covid-19-protecting-your-small-business 
