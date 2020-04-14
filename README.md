@@ -227,16 +227,19 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 ## Remote Working & Conferencing Software
 
 - 14 April 2020. MossAdams. Cybersecurity Checklist for Remote Work. https://www.mossadams.com/articles/2020/04/cybersecurity-checklist-remote-work 
+- 13 April 2020. CNET/Rae Hodge. Zoom: Every security issue uncovered in the video chat app https://www.cnet.com/news/zoom-every-security-issue-uncovered-in-the-video-chat-app/
 - 13 April 2020. Rapid7. Remote Work Readiness: How to Keep a Security Mindset https://blog.rapid7.com/2020/04/13/remote-work-readiness-how-to-keep-a-security-mindset/
 - 12 April 2020. Forbes/Davey Winder. Zoom Isn’t Malware But Hackers Are Feeding That Narrative, And How: Zoom-Related Threats Up 2,000% https://www.forbes.com/sites/daveywinder/2020/04/12/zoom-isnt-malware-but-hackers-are-feeding-that-narrative-and-how-zoom-related-threats-up-2000/#342187691ae5
 - 9 April 2020. Fireeye. Discussing Security with Remote Workers. https://www.fireeye.com/blog/executive-perspective/2020/04/discussing-security-with-remote-workers.html 
 - 8 April 2020. ESET. Top tips for videoconferencing security https://www.welivesecurity.com/2020/04/08/top-tips-videoconferencing-security/
 - 8 April 2020. MDR Cyber. COVID-19: Securing the remote worker https://www.mishcon.com/news/covid-19-securing-the-remote-worker
 - 8 April 2020. K2 Intelligence. COVID-19: Managing the Security Risks of a Remote Workforce https://www.k2intelligence.com/en/insights/thought-leadership/2020/covid-19-managing-the-security-risks-of-a-remote-workforce
+- April 4 2020. Palo Alto. Best Practices for Video Conferencing Security https://blog.paloaltonetworks.com/2020/04/network-video-conferencing-security/
 - 4 April 2020. CapGemini. Boosting cybersecurity immunity: Confronting cybersecurity risks in today’s work-from home world https://www.capgemini.com/wp-content/uploads/2020/04/Cybersecurity_2020403_V05.pdf
 - 3 April 2020. Tidbits. Every Zoom Security and Privacy Flaw So Far, and What You Can Do to Protect Yourself. https://tidbits.com/2020/04/03/every-zoom-security-and-privacy-flaw-so-far-and-what-you-can-do-to-protect-yourself/ 
 - 3 April 2020. Citizen Lab. Move Fast & Roll Your Own Crypto A Quick Look at the Confidentiality of Zoom Meetings https://citizenlab.ca/2020/04/move-fast-roll-your-own-crypto-a-quick-look-at-the-confidentiality-of-zoom-meetings/
 - Zoom Security White Paper - https://zoom.us/docs/doc/Zoom-Security-White-Paper.pdf
+- 2 April 2020. Austrialian Cyber Security Centre. Web Conferencing Security https://www.cyber.gov.au/publications/web-conferencing-security
 - 2 April 2020. FBI. FBI Releases Guidance on Defending Against VTC Hijacking and Zoom-bombing https://www.us-cert.gov/ncas/current-activity/2020/04/02/fbi-releases-guidance-defending-against-vtc-hijacking-and-zoom
 - 1 April 2020. The Register. Zoom's end-to-end encryption isn't actually end-to-end at all. https://www.theregister.co.uk/2020/04/01/zoom_spotlight/
 - 1 April 2020. Securonix Threat Research: Securing Your Remote Workforce – Detecting the Latest Cyberattacks in the Work-From-Home (WFH) World: Part 1 https://www.securonix.com/securonix-threat-research-securing-your-remote-workforce-detecting-the-latest-cyberattacks-in-the-work-from-home-wfh-world-part-1/
