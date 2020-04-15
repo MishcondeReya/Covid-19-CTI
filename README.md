@@ -7,8 +7,9 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - [Intelligence Reports and Updates](#Intelligence-Reports-and-Updates)
 - [Remote Working & Conferencing Software](#remote-working--conferencing-software)
 - [Cybersecurity Reports](#Cybersecurity-Reports)
+- [Tools](#Tools)
 
-*Please note, we have removed most media reporting unless it adds specific threat information or insight in addition to the resources above. Simarly we have ignored resources that do not add specific insight or original content. Where resources are behind a registration page this is indicated.*
+*Please note, we have removed most media reporting unless it adds specific threat information or insight in addition to the resources above. Simarly we have ignored resources that do not add specific insight or original content. Where resources are behind a registration page this is indicated. We have not tested any of of the tools or code listed and you use them at your own risk.*
 
 ## IOC Sources
 
@@ -34,6 +35,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - SOCPrime. SOC PRIME PROVIDES HEALTHCARE ORGANIZATIONS WITH FREE SIEM CONTENT FOR COVID19 PHISHING ATTACKS DETECTION https://socprime.com/blog/soc-prime-provides-healthcare-organizations-with-free-siem-content-for-covid19-phishing-attacks-detection/
 - North Dakota Response. COVID-19 Cyber Threats https://ndresponse.gov/covid-19-resources/covid-19-cyber-threats
 - Phishlabs. COVID-19 Threat Intelligence. https://www.phishlabs.com/covid-19-threat-intelligence/ 
+- robindimyan. Turkish Covid Response. https://github.com/robindimyan/covid-cyber-response
 
 ## Incidents
 
@@ -300,4 +302,7 @@ manage the COVID-19 pandemic. (See Annex A).  https://www.england.nhs.uk/coronav
 - 6 March 2020. Cybersecurity and Infrastructure Security Agency (CISA).  https://www.cisa.gov/sites/default/files/publications/20_0306_cisa_insights_risk_management_for_novel_coronavirus.pdf
 - Deloitte. COVID-19: Cyber Preparedness & Response https://www2.deloitte.com/content/dam/Deloitte/ie/Documents/covid19/deloitte-ie-covid-19-cyber-infographic.pdf
 
-*Please note, we have removed most media reporting unless it adds specific threat information or insight in addition to the resources above. Simarly we have ignored resources that do not add specific insight or original content. Where resources are behind a registration page this is indicated. Please send resources to Cyber.IntelligenceTeam@Mishcon.com or submit a pull request.*
+## Tools
+- L1NNA. Content-based URL monitoring and analysis for scam hunting. https://github.com/L1NNA/Covid19-CyberHunter
+
+*Please note, we have removed most media reporting unless it adds specific threat information or insight in addition to the resources above. Simarly we have ignored resources that do not add specific insight or original content. Where resources are behind a registration page this is indicated. We have not tested any of of the tools or code listed and you use them at your own risk. Please send resources to Cyber.IntelligenceTeam@Mishcon.com or submit a pull request.*
