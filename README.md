@@ -65,6 +65,9 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Silobreaker. Covid-19 Threat Daily Update.  https://www.silobreaker.com/tag/covid19-threat-digest/.
 - Fraud Watch International. Covid-19 Online Scams. https://fraudwatchinternational.com/covid19/
 - KPN Security Research Team https://github.com/KPN-SRT/covid19_cyber_threats
+- 15 April 2020. Deloitte. Global Cyber Executive Briefing. https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Risk/gx-cyber-covid-exec-briefing-14-April-20202.pdf
+- 14 April 2020. Cyber Threat Coalition. 2020-04-14 Weekly Threat Advisory https://www.cyberthreatcoalition.org/covid-19-cyber-threat-updates-blog/2020-04-14-weekly-threat-advisory
+- 14 April 2020. Sophos. Facing down the myriad threats tied to COVID-19. https://news.sophos.com/en-us/2020/04/14/covidmalware/
 - 14 April 2020. Palo Alto Unit42. Malicious Attackers Target Government and Medical Organizations With COVID-19 Themed Phishing Campaigns https://unit42.paloaltonetworks.com/covid-19-themed-cyber-attacks-target-government-and-medical-organizations/
 - 8 April 2020. Secureworks. How Cyber Adversaries are Adapting to Exploit the Global Pandemic https://www.secureworks.com/blog/how-cyber-adversaries-are-adapting-to-exploit-the-global-pandemic
 - 8 April 2020. Cofense. Coronavirus-Themed Phish Continue to Surge https://cofense.com/coronavirus-themed-phish-continue-surge/
@@ -226,6 +229,7 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 
 ## Remote Working & Conferencing Software
 
+- 14 April 2020. Australian Cyber Security Centre. COVID-19: Cyber Security Tips When Working From Home. https://www.cyber.gov.au/advice/covid-19-cyber-security-tips-when-working-home 
 - 14 April 2020. MossAdams. Cybersecurity Checklist for Remote Work. https://www.mossadams.com/articles/2020/04/cybersecurity-checklist-remote-work 
 - 13 April 2020. CNET/Rae Hodge. Zoom: Every security issue uncovered in the video chat app https://www.cnet.com/news/zoom-every-security-issue-uncovered-in-the-video-chat-app/
 - 13 April 2020. Rapid7. Remote Work Readiness: How to Keep a Security Mindset https://blog.rapid7.com/2020/04/13/remote-work-readiness-how-to-keep-a-security-mindset/
