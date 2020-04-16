@@ -36,6 +36,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - North Dakota Response. COVID-19 Cyber Threats https://ndresponse.gov/covid-19-resources/covid-19-cyber-threats
 - Phishlabs. COVID-19 Threat Intelligence. https://www.phishlabs.com/covid-19-threat-intelligence/ 
 - robindimyan. Turkish Covid Response. https://github.com/robindimyan/covid-cyber-response
+- MalwareBazaar COVID-19 Database - https://bazaar.abuse.ch/browse/tag/COVID-19/
 
 ## Incidents
 
