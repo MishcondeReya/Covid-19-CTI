@@ -74,6 +74,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - 14 April 2020. Cyber Threat Coalition. 2020-04-14 Weekly Threat Advisory https://www.cyberthreatcoalition.org/covid-19-cyber-threat-updates-blog/2020-04-14-weekly-threat-advisory
 - 14 April 2020. Sophos. Facing down the myriad threats tied to COVID-19. https://news.sophos.com/en-us/2020/04/14/covidmalware/
 - 14 April 2020. Palo Alto Unit42. Malicious Attackers Target Government and Medical Organizations With COVID-19 Themed Phishing Campaigns https://unit42.paloaltonetworks.com/covid-19-themed-cyber-attacks-target-government-and-medical-organizations/
+- 9 April 2020. Microsoft: #COVID19 Threats Less Than 2% of Total Daily Volume https://www.infosecurity-magazine.com/news/covid19-threats-less-than-2-daily/
 - 8 April 2020. Secureworks. How Cyber Adversaries are Adapting to Exploit the Global Pandemic https://www.secureworks.com/blog/how-cyber-adversaries-are-adapting-to-exploit-the-global-pandemic
 - 8 April 2020. Cofense. Coronavirus-Themed Phish Continue to Surge https://cofense.com/coronavirus-themed-phish-continue-surge/
 - 8 April 2020. Carbon Black. COVID-19: Cybersecurity Community Resources https://www.carbonblack.com/2020/04/08/covid-19-cybersecurity-community-resources/ 
