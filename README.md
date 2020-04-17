@@ -68,6 +68,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Silobreaker. Covid-19 Threat Daily Update.  https://www.silobreaker.com/tag/covid19-threat-digest/.
 - Fraud Watch International. Covid-19 Online Scams. https://fraudwatchinternational.com/covid19/
 - KPN Security Research Team https://github.com/KPN-SRT/covid19_cyber_threats
+- 16 April 2020. MDR Cyber. Forecasting cyber threats after the COVID-19 pandemic https://www.mishcon.com/news/forecasting-cyber-threats-after-the-covid-19-pandemic
 - 15 April 2020/. The Economist. The inroads of organised crime in the era of covid-19 https://eiuperspectives.economist.com/healthcare/inroads-organised-crime-era-covid-19 
 - 15 April 2020. Deloitte. Global Cyber Executive Briefing. https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Risk/gx-cyber-covid-exec-briefing-14-April-20202.pdf
 - 14 April 2020. Cyber Threat Coalition. 2020-04-14 Weekly Threat Advisory https://www.cyberthreatcoalition.org/covid-19-cyber-threat-updates-blog/2020-04-14-weekly-threat-advisory
