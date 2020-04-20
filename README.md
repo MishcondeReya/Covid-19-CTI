@@ -40,6 +40,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 
 ## Incidents
 
+- 16 April 2020. Stolen ActiveDircetory credentials used in Hospital ransomware https://www.bleepingcomputer.com/news/security/us-govt-hacker-used-stolen-ad-credentials-to-ransom-hospitals/
 - 02 April 2020. Forbes/Davey Winder. Cyber Attack Disrupts COVID-19 Payouts: Hackers Take Down Italian Social Security Site https://www.forbes.com/sites/daveywinder/2020/04/02/covid-19-payouts-disrupted-as-heartless-hackers-attack-italian-crisis-benefits-site/#300531c15f10
 - 02 April 2020. RedDrip Team HWP document containing COVID-19 contents possibly utilized by Lazarus Group to attack South Korea. A backdoor gets dropped out to perform remote control. https://twitter.com/reddrip7/status/1245557988401623040
 - 26 March 2020. Telsy. CYBERCRIMINALS TROJANIZED ORGINAL SM COVID-19 AWARENESS ANDROID APP TO TARGET ITALY. https://blog.telsy.com/cybercriminals-trojanized-orginal-sm-covid-19-awareness-android-app-to-target-italy/
@@ -68,12 +69,8 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Silobreaker. Covid-19 Threat Daily Update.  https://www.silobreaker.com/tag/covid19-threat-digest/.
 - Fraud Watch International. Covid-19 Online Scams. https://fraudwatchinternational.com/covid19/
 - KPN Security Research Team https://github.com/KPN-SRT/covid19_cyber_threats
-- 20 April 2020. 360 Total Security. Gorgon uses COVID-19 outbreak to launch cyber attacks on Canada and other regions https://blog.360totalsecurity.com/en/gorgon-uses-covid-19-outbreak-to-launch-cyber-attacks-on-canada-and-other-regions/
-- 20 April 2020. Austrialian Cybersecurity Centre.. Threat update: COVID-19 malicious cyber activity. https://www.cyber.gov.au/threats/threat-update-covid-19-malicious-cyber-activity-20-apr-2020
 - 16 April 2020. MDR Cyber. Forecasting cyber threats after the COVID-19 pandemic https://www.mishcon.com/news/forecasting-cyber-threats-after-the-covid-19-pandemic
-- 16 April 2020. The Hill. FBI sees spike in cyber crime reports during coronavirus pandemic. https://thehill.com/policy/cybersecurity/493198-fbi-sees-spike-in-cyber-crime-reports-during-coronavirus-pandemic
-- 15 April 2020. Carbon Black. Amid COVID-19, Global Orgs See a 148% Spike in Ransomware Attacks; Finance Industry Heavily Targeted https://www.carbonblack.com/2020/04/15/amid-covid-19-global-orgs-see-a-148-spike-in-ransomware-attacks-finance-industry-heavily-targeted/ 
-- 15 April 2020. The Economist. The inroads of organised crime in the era of covid-19 https://eiuperspectives.economist.com/healthcare/inroads-organised-crime-era-covid-19 
+- 15 April 2020/. The Economist. The inroads of organised crime in the era of covid-19 https://eiuperspectives.economist.com/healthcare/inroads-organised-crime-era-covid-19 
 - 15 April 2020. Deloitte. Global Cyber Executive Briefing. https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Risk/gx-cyber-covid-exec-briefing-14-April-20202.pdf
 - 14 April 2020. Cyber Threat Coalition. 2020-04-14 Weekly Threat Advisory https://www.cyberthreatcoalition.org/covid-19-cyber-threat-updates-blog/2020-04-14-weekly-threat-advisory
 - 14 April 2020. Sophos. Facing down the myriad threats tied to COVID-19. https://news.sophos.com/en-us/2020/04/14/covidmalware/
@@ -288,8 +285,6 @@ Guides from vendors on the secure deployment of their remote working and confere
 ## Cybersecurity Reports
 
 - Information Security Forum (ISF). ISF resource and content suite for the Coronavirus outbreak. https://www.securityforum.org/covid-19/
-- 20 April 2020. The Register. Ministry of Defence lowers supplier infosec standards thanks to COVID-19 outbreak.  https://www.theregister.co.uk/2020/04/20/mod_relaxes_cyber_essentials_plus_suppliers/
-- 20 April 2020. Lexology.  COVID-19 Cyber: How to address the privacy and cyber risk facing your organisation (Part 2 of 2) https://www.lexology.com/library/detail.aspx?g=1caa3900-55ef-4a75-a4f2-50670ec666ae
 - 8 April 2020. BEREC Summary Report on the status of internet capacity in light of Covid-19 crisis. https://berec.europa.eu/eng/document_register/subject_matter/berec/reports/9250-berec-summary-report-on-the-status-of-internet-capacity-in-light-of-covid-19-crisis 
 - 8 April 2020. Jones Day. Managing Cybersecurity and Data Privacy Concerns During the COVID-19 Pandemic https://www.jonesday.com/en/insights/2020/04/covid19-cybersecurity-and-data-privacy-concerns
 - 4 April 2020. Alston. Cyber Alert: Cybersecurity and COVID-19: Four Categories of Cyber Threats and Practical Tips in Response https://www.alston.com/en/insights/publications/2020/04/cybersecurity-and-covid19/ 
