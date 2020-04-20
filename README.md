@@ -40,6 +40,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 
 ## Incidents
 
+- 17 April 2020. Coronavirus: Czech Republic reports attempted cyber attack on healthcare systems https://globalnews.ca/news/6836374/czech-republic-cyber-attacks-healthcare/
 - 16 April 2020. Stolen ActiveDircetory credentials used in Hospital ransomware https://www.bleepingcomputer.com/news/security/us-govt-hacker-used-stolen-ad-credentials-to-ransom-hospitals/
 - 02 April 2020. Forbes/Davey Winder. Cyber Attack Disrupts COVID-19 Payouts: Hackers Take Down Italian Social Security Site https://www.forbes.com/sites/daveywinder/2020/04/02/covid-19-payouts-disrupted-as-heartless-hackers-attack-italian-crisis-benefits-site/#300531c15f10
 - 02 April 2020. RedDrip Team HWP document containing COVID-19 contents possibly utilized by Lazarus Group to attack South Korea. A backdoor gets dropped out to perform remote control. https://twitter.com/reddrip7/status/1245557988401623040
@@ -69,6 +70,10 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Silobreaker. Covid-19 Threat Daily Update.  https://www.silobreaker.com/tag/covid19-threat-digest/.
 - Fraud Watch International. Covid-19 Online Scams. https://fraudwatchinternational.com/covid19/
 - KPN Security Research Team https://github.com/KPN-SRT/covid19_cyber_threats
+- 20 April 2020. Checkpoint. Coronavirus update: as economic stimulus payments start to flow, cyber-attackers want to get their share too https://blog.checkpoint.com/2020/04/20/coronavirus-update-as-economic-stimulus-payments-start-to-flow-cyber-attackers-want-to-get-their-share-too/
+- 20 April 2020. DOD. Cyber Criminals Don’t Brake for Pandemics. https://www.defense.gov/Explore/Inside-DOD/Blog/Article/2156128/cyber-criminals-dont-brake-for-pandemics/
+- 17 April 2020. Microsoft. TrickBot Covid Lures. https://twitter.com/MsftSecIntel/status/1251181180281450498
+- 17 April 2020. Reuters/Joseph Menn. Hacking against corporations surges as workers take computers home. https://www.reuters.com/article/us-health-coronavirus-cyber-corporations/hacking-against-corporations-surges-as-workers-take-computers-home-idUSKBN21Z0Y6
 - 16 April 2020. MDR Cyber. Forecasting cyber threats after the COVID-19 pandemic https://www.mishcon.com/news/forecasting-cyber-threats-after-the-covid-19-pandemic
 - 15 April 2020/. The Economist. The inroads of organised crime in the era of covid-19 https://eiuperspectives.economist.com/healthcare/inroads-organised-crime-era-covid-19 
 - 15 April 2020. Deloitte. Global Cyber Executive Briefing. https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Risk/gx-cyber-covid-exec-briefing-14-April-20202.pdf
@@ -285,6 +290,7 @@ Guides from vendors on the secure deployment of their remote working and confere
 ## Cybersecurity Reports
 
 - Information Security Forum (ISF). ISF resource and content suite for the Coronavirus outbreak. https://www.securityforum.org/covid-19/
+- 20 April 2020. Bank of Italy/Banca D'Italia. Cybersecurity at the time of COVID-19 https://www.bancaditalia.it/media/notizie/2020/GCSC_cyber_17042020.pdf?language_id=1 (in Italian). 
 - 8 April 2020. BEREC Summary Report on the status of internet capacity in light of Covid-19 crisis. https://berec.europa.eu/eng/document_register/subject_matter/berec/reports/9250-berec-summary-report-on-the-status-of-internet-capacity-in-light-of-covid-19-crisis 
 - 8 April 2020. Jones Day. Managing Cybersecurity and Data Privacy Concerns During the COVID-19 Pandemic https://www.jonesday.com/en/insights/2020/04/covid19-cybersecurity-and-data-privacy-concerns
 - 4 April 2020. Alston. Cyber Alert: Cybersecurity and COVID-19: Four Categories of Cyber Threats and Practical Tips in Response https://www.alston.com/en/insights/publications/2020/04/cybersecurity-and-covid19/ 
