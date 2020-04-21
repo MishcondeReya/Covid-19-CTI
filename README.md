@@ -70,6 +70,12 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Silobreaker. Covid-19 Threat Daily Update.  https://www.silobreaker.com/tag/covid19-threat-digest/.
 - Fraud Watch International. Covid-19 Online Scams. https://fraudwatchinternational.com/covid19/
 - KPN Security Research Team https://github.com/KPN-SRT/covid19_cyber_threats
+- 21 April 2020. SC Magazine. Nation-state hackers reportedly hunting for COVID-19 research. https://www.scmagazineuk.com/nation-state-hackers-reportedly-hunting-covid-19-research/article/1680822 (requires registration). 
+- 21 April 2020. BBC/Joe Tidy. Coronavirus: UK forces hundreds of scam Covid-19 shops offline. https://www.bbc.co.uk/news/technology-52361618
+- 20 April 2020. Phishlabs. COVID-19 Phishing Update: Bad Actors Use Stimulus Payment Delays to Capture Banking Credentials. https://info.phishlabs.com/blog/covid-19-phishing-update-bad-actors-use-stimulus-payment-delays-to-capture-banking-credentials
+- 20 April 2020. Crowdstrike. Malspam in the Time of COVID-19. https://www.crowdstrike.com/blog/covid19-and-malspam/
+- 20 April 2020. Nozomi Networks. COVID-19 Chinoxy Backdoor: A Network Perspective. https://www.nozominetworks.com/blog/covid-19-chinoxy-backdoor-a-network-perspective/
+- 20 April 2020. Healix. Exploitation of COVID-19 by criminal and far-right extremist groups. https://healix.com/sharing-knowledge-and-news/exploitation-covid-19/
 - 20 April 2020. Checkpoint. Coronavirus update: as economic stimulus payments start to flow, cyber-attackers want to get their share too https://blog.checkpoint.com/2020/04/20/coronavirus-update-as-economic-stimulus-payments-start-to-flow-cyber-attackers-want-to-get-their-share-too/
 - 20 April 2020. DOD. Cyber Criminals Don’t Brake for Pandemics. https://www.defense.gov/Explore/Inside-DOD/Blog/Article/2156128/cyber-criminals-dont-brake-for-pandemics/
 - 17 April 2020. Microsoft. TrickBot Covid Lures. https://twitter.com/MsftSecIntel/status/1251181180281450498
@@ -241,6 +247,7 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 
 ## Remote Working & Conferencing Software
 
+- 20 April 2020. Marsh. COVID-19: Cybersecurity Checklist for Remote Working. https://www.marsh.com/bh/en/insights/risk-in-context/covid-19-cybersecurity-checklist-remote-working.html
 - 14 April 2020. Australian Cyber Security Centre. COVID-19: Cyber Security Tips When Working From Home. https://www.cyber.gov.au/advice/covid-19-cyber-security-tips-when-working-home 
 - 14 April 2020. MossAdams. Cybersecurity Checklist for Remote Work. https://www.mossadams.com/articles/2020/04/cybersecurity-checklist-remote-work 
 - 13 April 2020. CNET/Rae Hodge. Zoom: Every security issue uncovered in the video chat app https://www.cnet.com/news/zoom-every-security-issue-uncovered-in-the-video-chat-app/
