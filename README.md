@@ -70,6 +70,8 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Silobreaker. Covid-19 Threat Daily Update.  https://www.silobreaker.com/tag/covid19-threat-digest/.
 - Fraud Watch International. Covid-19 Online Scams. https://fraudwatchinternational.com/covid19/
 - KPN Security Research Team https://github.com/KPN-SRT/covid19_cyber_threats
+- 22 April 2020. US Dept. of Justice. Department of Justice Announces Disruption of Hundreds of Online COVID-19 Related Scams. https://www.justice.gov/opa/pr/department-justice-announces-disruption-hundreds-online-covid-19-related-scams
+- 22 April 2020. The Register. Yes, there's lots of COVID-19-themed scuminess around – but otherwise the level of cybercrime is the same https://www.theregister.co.uk/2020/04/22/secureworks_phishing_coronavirus_flat/
 - 21 April 2020. SC Magazine. Nation-state hackers reportedly hunting for COVID-19 research. https://www.scmagazineuk.com/nation-state-hackers-reportedly-hunting-covid-19-research/article/1680822 (requires registration). 
 - 21 April 2020. BBC/Joe Tidy. Coronavirus: UK forces hundreds of scam Covid-19 shops offline. https://www.bbc.co.uk/news/technology-52361618
 - 20 April 2020. Phishlabs. COVID-19 Phishing Update: Bad Actors Use Stimulus Payment Delays to Capture Banking Credentials. https://info.phishlabs.com/blog/covid-19-phishing-update-bad-actors-use-stimulus-payment-delays-to-capture-banking-credentials
@@ -297,6 +299,10 @@ Guides from vendors on the secure deployment of their remote working and confere
 ## Cybersecurity Reports
 
 - Information Security Forum (ISF). ISF resource and content suite for the Coronavirus outbreak. https://www.securityforum.org/covid-19/
+- 22 April 2020. Palo Alto Unit 42. Studying How Cybercriminals Prey on the COVID-19 Pandemic https://unit42.paloaltonetworks.com/how-cybercriminals-prey-on-the-covid-19-pandemic/
+- 22 April 2020. Fireeye. Vietnamese Threat Actors APT32 Targeting Wuhan Government and Chinese Ministry of Emergency Management in Latest Example of COVID-19 Related Espionage. https://www.fireeye.com/blog/threat-research/2020/04/apt32-targeting-chinese-government-in-covid-19-related-espionage.html
+- 22 April 2020. EY. Seven ways to keep ahead of cyber attackers during COVID-19 https://www.ey.com/en_gl/advisory/seven-ways-to-keep-ahead-of-covid-19-cyber-attackers
+- 22 April 2020. Marsh. COVID-19: Next Steps for Your Cyber Insurance. https://www.marsh.com/qa/en/insights/research-briefings/covid-19-next-steps-for-cyber-insurance.html
 - 20 April 2020. Bank of Italy/Banca D'Italia. Cybersecurity at the time of COVID-19 https://www.bancaditalia.it/media/notizie/2020/GCSC_cyber_17042020.pdf?language_id=1 (in Italian). 
 - 8 April 2020. BEREC Summary Report on the status of internet capacity in light of Covid-19 crisis. https://berec.europa.eu/eng/document_register/subject_matter/berec/reports/9250-berec-summary-report-on-the-status-of-internet-capacity-in-light-of-covid-19-crisis 
 - 8 April 2020. Jones Day. Managing Cybersecurity and Data Privacy Concerns During the COVID-19 Pandemic https://www.jonesday.com/en/insights/2020/04/covid19-cybersecurity-and-data-privacy-concerns
