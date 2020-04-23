@@ -299,6 +299,7 @@ Guides from vendors on the secure deployment of their remote working and confere
 ## Cybersecurity Reports
 
 - Information Security Forum (ISF). ISF resource and content suite for the Coronavirus outbreak. https://www.securityforum.org/covid-19/
+- 23 April 2020. UK Gov. Guidance Coronavirus (COVID-19): fraud and cyber crime https://www.gov.uk/government/publications/coronavirus-covid-19-fraud-and-cyber-crime
 - 22 April 2020. Palo Alto Unit 42. Studying How Cybercriminals Prey on the COVID-19 Pandemic https://unit42.paloaltonetworks.com/how-cybercriminals-prey-on-the-covid-19-pandemic/
 - 22 April 2020. Fireeye. Vietnamese Threat Actors APT32 Targeting Wuhan Government and Chinese Ministry of Emergency Management in Latest Example of COVID-19 Related Espionage. https://www.fireeye.com/blog/threat-research/2020/04/apt32-targeting-chinese-government-in-covid-19-related-espionage.html
 - 22 April 2020. EY. Seven ways to keep ahead of cyber attackers during COVID-19 https://www.ey.com/en_gl/advisory/seven-ways-to-keep-ahead-of-covid-19-cyber-attackers
