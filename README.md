@@ -36,7 +36,8 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - North Dakota Response. COVID-19 Cyber Threats https://ndresponse.gov/covid-19-resources/covid-19-cyber-threats
 - Phishlabs. COVID-19 Threat Intelligence. https://www.phishlabs.com/covid-19-threat-intelligence/ 
 - robindimyan. Turkish Covid Response. https://github.com/robindimyan/covid-cyber-response
-- MalwareBazaar COVID-19 Database - https://bazaar.abuse.ch/browse/tag/COVID-19/
+- MalwareBazaar COVID-19 Database - https://bazaar.abuse.ch/browse/tag/COVID-19/- 
+- RicheyMay. Updated Live: COVID-19 Indicator of Compromise Tracker https://www.richeymaytech.com/updated-live-covid-19-indicator-of-compromise-tracker/
 
 ## Incidents
 
@@ -70,6 +71,9 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Silobreaker. Covid-19 Threat Daily Update.  https://www.silobreaker.com/tag/covid19-threat-digest/.
 - Fraud Watch International. Covid-19 Online Scams. https://fraudwatchinternational.com/covid19/
 - KPN Security Research Team https://github.com/KPN-SRT/covid19_cyber_threats
+- 27 April 2020. Security Intelligence. SBA Spoofed in COVID-19 Spam to Deliver Remcos RAT https://securityintelligence.com/posts/sba-spoofed-in-covid-19-spam-to-deliver-remcos-rat/
+- 27 April 2020. ZDNet. Australia and US call out cyber attacks on hospitals during COVID-19 pandemic https://www.zdnet.com/article/australia-and-us-call-out-cyber-attacks-on-hospitals-during-covid-19-pandemic/
+- 24 April 2020. F5. Mirai “COVID” Variant Disregards Stay-at-Home Orders. https://www.f5.com/labs/articles/threat-intelligence/mirai-covid-variant-disregards-stay-at-home-orders
 - 22 April 2020. US Dept. of Justice. Department of Justice Announces Disruption of Hundreds of Online COVID-19 Related Scams. https://www.justice.gov/opa/pr/department-justice-announces-disruption-hundreds-online-covid-19-related-scams
 - 22 April 2020. The Register. Yes, there's lots of COVID-19-themed scuminess around – but otherwise the level of cybercrime is the same https://www.theregister.co.uk/2020/04/22/secureworks_phishing_coronavirus_flat/
 - 21 April 2020. SC Magazine. Nation-state hackers reportedly hunting for COVID-19 research. https://www.scmagazineuk.com/nation-state-hackers-reportedly-hunting-covid-19-research/article/1680822 (requires registration). 
@@ -299,6 +303,8 @@ Guides from vendors on the secure deployment of their remote working and confere
 ## Cybersecurity Reports
 
 - Information Security Forum (ISF). ISF resource and content suite for the Coronavirus outbreak. https://www.securityforum.org/covid-19/
+- 27 April 2020. UK CPNI. Staying secure during COVID-19 https://www.cpni.gov.uk/staying-secure-during-covid-19-0
+- 23 April 2020. Fireeye. PICC Your Battles: Securing Emergency Field Hospitals and Temporary Medical Spaces. https://www.fireeye.com/blog/executive-perspective/2020/04/securing-emergency-field-hospitals-and-temporary-medical-spaces.html
 - 23 April 2020. UK Gov. Guidance Coronavirus (COVID-19): fraud and cyber crime https://www.gov.uk/government/publications/coronavirus-covid-19-fraud-and-cyber-crime
 - 22 April 2020. Palo Alto Unit 42. Studying How Cybercriminals Prey on the COVID-19 Pandemic https://unit42.paloaltonetworks.com/how-cybercriminals-prey-on-the-covid-19-pandemic/
 - 22 April 2020. Fireeye. Vietnamese Threat Actors APT32 Targeting Wuhan Government and Chinese Ministry of Emergency Management in Latest Example of COVID-19 Related Espionage. https://www.fireeye.com/blog/threat-research/2020/04/apt32-targeting-chinese-government-in-covid-19-related-espionage.html
