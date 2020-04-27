@@ -73,6 +73,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - KPN Security Research Team https://github.com/KPN-SRT/covid19_cyber_threats
 - 27 April 2020. Security Intelligence. SBA Spoofed in COVID-19 Spam to Deliver Remcos RAT https://securityintelligence.com/posts/sba-spoofed-in-covid-19-spam-to-deliver-remcos-rat/
 - 27 April 2020. ZDNet. Australia and US call out cyber attacks on hospitals during COVID-19 pandemic https://www.zdnet.com/article/australia-and-us-call-out-cyber-attacks-on-hospitals-during-covid-19-pandemic/
+- 25 April 2020. WHO reports fivefold increase in cyber attacks, urges vigilance https://www.who.int/news-room/detail/23-04-2020-who-reports-fivefold-increase-in-cyber-attacks-urges-vigilance
 - 24 April 2020. F5. Mirai “COVID” Variant Disregards Stay-at-Home Orders. https://www.f5.com/labs/articles/threat-intelligence/mirai-covid-variant-disregards-stay-at-home-orders
 - 22 April 2020. US Dept. of Justice. Department of Justice Announces Disruption of Hundreds of Online COVID-19 Related Scams. https://www.justice.gov/opa/pr/department-justice-announces-disruption-hundreds-online-covid-19-related-scams
 - 22 April 2020. The Register. Yes, there's lots of COVID-19-themed scuminess around – but otherwise the level of cybercrime is the same https://www.theregister.co.uk/2020/04/22/secureworks_phishing_coronavirus_flat/
