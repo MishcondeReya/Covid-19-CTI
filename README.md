@@ -72,6 +72,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Silobreaker. Covid-19 Threat Daily Update.  https://www.silobreaker.com/tag/covid19-threat-digest/.
 - Fraud Watch International. Covid-19 Online Scams. https://fraudwatchinternational.com/covid19/
 - KPN Security Research Team https://github.com/KPN-SRT/covid19_cyber_threats
+- 28 April 2020. Sophos Labs. Warning! Fake Zoom “HR meeting” emails phish for your password https://nakedsecurity.sophos.com/2020/04/28/warning-fake-zoom-hr-meeting-emails-phish-for-your-password/
 - 27 April 2020. Orange Cyber Defence. COVID-19: A biological hazard goes digital https://orangecyberdefense.com/uk/whitepapers/covid-19-a-biological-hazard-goes-digital/
 - 27 April 2020. Security Intelligence. SBA Spoofed in COVID-19 Spam to Deliver Remcos RAT https://securityintelligence.com/posts/sba-spoofed-in-covid-19-spam-to-deliver-remcos-rat/
 - 27 April 2020. ZDNet. Australia and US call out cyber attacks on hospitals during COVID-19 pandemic https://www.zdnet.com/article/australia-and-us-call-out-cyber-attacks-on-hospitals-during-covid-19-pandemic/
