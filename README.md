@@ -257,6 +257,7 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 
 ## Remote Working & Conferencing Software
 
+- 28 April 2020. Intsights. Recycling Credentials in Four Easy Steps https://intsights.com/blog/recycling-credentials-in-four-easy-steps
 - 20 April 2020. Marsh. COVID-19: Cybersecurity Checklist for Remote Working. https://www.marsh.com/bh/en/insights/risk-in-context/covid-19-cybersecurity-checklist-remote-working.html
 - 14 April 2020. Australian Cyber Security Centre. COVID-19: Cyber Security Tips When Working From Home. https://www.cyber.gov.au/advice/covid-19-cyber-security-tips-when-working-home 
 - 14 April 2020. MossAdams. Cybersecurity Checklist for Remote Work. https://www.mossadams.com/articles/2020/04/cybersecurity-checklist-remote-work 
