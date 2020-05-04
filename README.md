@@ -75,6 +75,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - 3 May 2020. Guardian. Hostile states trying to steal coronavirus research, says UK agency. https://www.theguardian.com/world/2020/may/03/hostile-states-trying-to-steal-coronavirus-research-says-uk-agency
 - 30 April 2020. Intel471. COVID-19 pandemic: Through the cybercriminal’s eyes. https://blog.intel471.com/2020/04/30/covid-19-pandemic-through-the-cybercriminals-eyes/
 - 30 April 2020. European Council. Declaration by the High Representative Josep Borrell, on behalf of the European Union, on malicious cyber activities exploiting the coronavirus pandemic https://www.consilium.europa.eu/en/press/press-releases/2020/04/30/declaration-by-the-high-representative-josep-borrell-on-behalf-of-the-european-union-on-malicious-cyber-activities-exploiting-the-coronavirus-pandemic/
+- 29 April 2020. Kaspersky. Remote spring: the rise of RDP bruteforce attacks. https://securelist.com/remote-spring-the-rise-of-rdp-bruteforce-attacks/96820/
 - 28 April 2020. ElecticIQ. EclecticIQ Pandemic Intelligence Update - Week 18. https://blog.eclecticiq.com/covid-19/eclecticiq-pandemic-intelligence-update-week-18
 - 28 April 2020. Sophos Labs. Warning! Fake Zoom “HR meeting” emails phish for your password https://nakedsecurity.sophos.com/2020/04/28/warning-fake-zoom-hr-meeting-emails-phish-for-your-password/
 - 27 April 2020. Orange Cyber Defence. COVID-19: A biological hazard goes digital https://orangecyberdefense.com/uk/whitepapers/covid-19-a-biological-hazard-goes-digital/
