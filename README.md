@@ -80,6 +80,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - 28 April 2020. ElecticIQ. EclecticIQ Pandemic Intelligence Update - Week 18. https://blog.eclecticiq.com/covid-19/eclecticiq-pandemic-intelligence-update-week-18
 - 28 April 2020. Sophos Labs. Warning! Fake Zoom “HR meeting” emails phish for your password https://nakedsecurity.sophos.com/2020/04/28/warning-fake-zoom-hr-meeting-emails-phish-for-your-password/
 - 27 April 2020. Orange Cyber Defence. COVID-19: A biological hazard goes digital https://orangecyberdefense.com/uk/whitepapers/covid-19-a-biological-hazard-goes-digital/
+- 27 April 2020. kapersky. Fake deliveries in an age of lockdown. https://www.kaspersky.com/blog/covid-fake-delivery-service-spam-phishing/35125/
 - 27 April 2020. Security Intelligence. SBA Spoofed in COVID-19 Spam to Deliver Remcos RAT https://securityintelligence.com/posts/sba-spoofed-in-covid-19-spam-to-deliver-remcos-rat/
 - 27 April 2020. ZDNet. Australia and US call out cyber attacks on hospitals during COVID-19 pandemic https://www.zdnet.com/article/australia-and-us-call-out-cyber-attacks-on-hospitals-during-covid-19-pandemic/
 - 25 April 2020. WHO reports fivefold increase in cyber attacks, urges vigilance https://www.who.int/news-room/detail/23-04-2020-who-reports-fivefold-increase-in-cyber-attacks-urges-vigilance
