@@ -263,6 +263,7 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 
 ## Remote Working & Conferencing Software
 
+- 29 April 2020. Forcpoint. Ensuring Remote Employees Can Access Classified Networks Securely. https://www.forcepoint.com/blog/insights/remote-work-access-classified-networks
 - 28 April 2020. Intsights. Recycling Credentials in Four Easy Steps https://intsights.com/blog/recycling-credentials-in-four-easy-steps
 - 20 April 2020. Marsh. COVID-19: Cybersecurity Checklist for Remote Working. https://www.marsh.com/bh/en/insights/risk-in-context/covid-19-cybersecurity-checklist-remote-working.html
 - 14 April 2020. Australian Cyber Security Centre. COVID-19: Cyber Security Tips When Working From Home. https://www.cyber.gov.au/advice/covid-19-cyber-security-tips-when-working-home 
