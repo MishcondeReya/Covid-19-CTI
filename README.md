@@ -42,6 +42,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 ## Incidents
 
 - 4 May 2020. InfoSecurity Group. 'Vaccines' Containing Blood of Recovered #COVID19 Patients for Sale on Dark Web. https://www.infosecurity-magazine.com/news/dark-web-fake-vaccines-blood/
+- 1 May 2020. Abnormal Security. Abnormal Attack Stories: Microsoft Teams Impersonation. https://abnormalsecurity.com/blog/abnormal-attack-stories-microsoft-teams-impersonation/
 - 25 April 2020. Hackers claim to have breached Chinese Medical Provider https://medium.com/@cyble/huiying-medical-breached-source-code-for-ai-assisted-covid-19-detection-and-experimental-data-of-1f5c6426121c
 - 17 April 2020. Coronavirus: Czech Republic reports attempted cyber attack on healthcare systems https://globalnews.ca/news/6836374/czech-republic-cyber-attacks-healthcare/
 - 16 April 2020. Stolen ActiveDircetory credentials used in Hospital ransomware https://www.bleepingcomputer.com/news/security/us-govt-hacker-used-stolen-ad-credentials-to-ransom-hospitals/
@@ -73,6 +74,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Silobreaker. Covid-19 Threat Daily Update.  https://www.silobreaker.com/tag/covid19-threat-digest/.
 - Fraud Watch International. Covid-19 Online Scams. https://fraudwatchinternational.com/covid19/
 - KPN Security Research Team https://github.com/KPN-SRT/covid19_cyber_threats
+- 4 May 2020. ThreatStop. ThreatStop Launches COVID-19 Malicious Domains Target. https://blog.threatstop.com/covid-19-malicious-domains-target
 - 4 May 2020. Security Affairs. Nation-state actors are targeting UK universities to steal info on COVID-19 research. https://securityaffairs.co/wordpress/102731/cyber-warfare-2/hackers-covid-19-research.html
 - 3 May 2020. Guardian. Hostile states trying to steal coronavirus research, says UK agency. https://www.theguardian.com/world/2020/may/03/hostile-states-trying-to-steal-coronavirus-research-says-uk-agency
 - 30 April 2020. Intel471. COVID-19 pandemic: Through the cybercriminal’s eyes. https://blog.intel471.com/2020/04/30/covid-19-pandemic-through-the-cybercriminals-eyes/
