@@ -74,6 +74,9 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 - Silobreaker. Covid-19 Threat Daily Update.  https://www.silobreaker.com/tag/covid19-threat-digest/.
 - Fraud Watch International. Covid-19 Online Scams. https://fraudwatchinternational.com/covid19/
 - KPN Security Research Team https://github.com/KPN-SRT/covid19_cyber_threats
+- 7 May 2020. Palo Alto Unit 42. SilverTerrier: New COVID-19 Themed Business Email Compromise Schemes.  https://unit42.paloaltonetworks.com/silverterrier-covid-19-themed-business-email-compromise/
+- 6 May 2020. Interpol. INTERPOL launches awareness campaign on COVID-19 cyberthreats. https://www.interpol.int/en/News-and-Events/News/2020/INTERPOL-launches-awareness-campaign-on-COVID-19-cyberthreats
+- 5 May 2020. SentinelOne. Threat Intel | Cyber Attacks Leveraging the COVID-19/CoronaVirus Pandemic https://labs.sentinelone.com/threat-intel-update-cyber-attacks-leveraging-the-covid-19-coronavirus-pandemic/
 - 4 May 2020. ThreatStop. ThreatStop Launches COVID-19 Malicious Domains Target. https://blog.threatstop.com/covid-19-malicious-domains-target
 - 4 May 2020. Security Affairs. Nation-state actors are targeting UK universities to steal info on COVID-19 research. https://securityaffairs.co/wordpress/102731/cyber-warfare-2/hackers-covid-19-research.html
 - 3 May 2020. Guardian. Hostile states trying to steal coronavirus research, says UK agency. https://www.theguardian.com/world/2020/may/03/hostile-states-trying-to-steal-coronavirus-research-says-uk-agency
@@ -268,7 +271,8 @@ https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats
 
 ## Remote Working & Conferencing Software
 
-- 29 April 2020. Forcpoint. Ensuring Remote Employees Can Access Classified Networks Securely. https://www.forcepoint.com/blog/insights/remote-work-access-classified-networks
+- 7 May 2020. NHS Digital. Guidance on keeping safe and secure whilst working from home. https://digital.nhs.uk/cyber-and-data-security/guidance-and-assurance/guidance-on-keeping-safe-and-secure-whilst-working-from-home
+- 29 April 2020. Forcepoint. Ensuring Remote Employees Can Access Classified Networks Securely. https://www.forcepoint.com/blog/insights/remote-work-access-classified-networks
 - 28 April 2020. Intsights. Recycling Credentials in Four Easy Steps https://intsights.com/blog/recycling-credentials-in-four-easy-steps
 - 20 April 2020. Marsh. COVID-19: Cybersecurity Checklist for Remote Working. https://www.marsh.com/bh/en/insights/risk-in-context/covid-19-cybersecurity-checklist-remote-working.html
 - 14 April 2020. Australian Cyber Security Centre. COVID-19: Cyber Security Tips When Working From Home. https://www.cyber.gov.au/advice/covid-19-cyber-security-tips-when-working-home 
