@@ -41,6 +41,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 
 ## Incidents
 
+- 13 May 2020. BBC News. Coronavirus: Cyber-attacks hit hospital construction companies. https://www.bbc.co.uk/news/technology-52646808
 - 6 May 2020. KrebsOnSecurity. Europe’s Largest Private Hospital Operator Fresenius Hit by Ransomware. https://krebsonsecurity.com/2020/05/europes-largest-private-hospital-operator-fresenius-hit-by-ransomware/
 - 4 May 2020. InfoSecurity Group. 'Vaccines' Containing Blood of Recovered #COVID19 Patients for Sale on Dark Web. https://www.infosecurity-magazine.com/news/dark-web-fake-vaccines-blood/
 - 1 May 2020. Abnormal Security. Abnormal Attack Stories: Microsoft Teams Impersonation. https://abnormalsecurity.com/blog/abnormal-attack-stories-microsoft-teams-impersonation/
