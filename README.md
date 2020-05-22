@@ -72,6 +72,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 
 ## Intelligence Reports and Updates
 
+- World Economic Forum. COVID-19 Risks Outlook: A Preliminary Mapping and Its Implications. http://www3.weforum.org/docs/WEF_COVID_19_Risks_Outlook_Special_Edition_Pages.pdf
 - RiskIQ Covid-19 daily update. https://www.riskiq.com/blog/analyst/covid19-daily-update/
 - Silobreaker. Covid-19 Threat Daily Update.  https://www.silobreaker.com/tag/covid19-threat-digest/.
 - Fraud Watch International. Covid-19 Online Scams. https://fraudwatchinternational.com/covid19/
