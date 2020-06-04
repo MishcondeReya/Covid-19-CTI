@@ -73,7 +73,8 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 
 ## Intelligence Reports and Updates
 
-- The Guardian. Huge rise in hacking attacks on home workers during lockdown. https://www.theguardian.com/technology/2020/may/24/hacking-attacks-on-home-workers-see-huge-rise-during-lockdown
+- Financial Times. Sharp spike in HMRC coronavirus scams.  
+- The Guardian. Huge rise in hacking attacks on home workers during lockdown. https://www.ft.com/content/c0918719-cfcb-4b6b-afa7-a1a6baecaf0b https://www.theguardian.com/technology/2020/may/24/hacking-attacks-on-home-workers-see-huge-rise-during-lockdown
 - World Economic Forum. COVID-19 Risks Outlook: A Preliminary Mapping and Its Implications. http://www3.weforum.org/docs/WEF_COVID_19_Risks_Outlook_Special_Edition_Pages.pdf
 - RiskIQ Covid-19 daily update. https://www.riskiq.com/blog/analyst/covid19-daily-update/
 - Silobreaker. Covid-19 Threat Daily Update.  https://www.silobreaker.com/tag/covid19-threat-digest/.
