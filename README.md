@@ -41,6 +41,7 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 
 ## Incidents
 
+- 09 June 2020. Reuters. South Africa's Life Healthcare hit by cyber attack. https://uk.reuters.com/article/us-life-healthcare-cyber/south-africas-life-healthcare-hit-by-cyber-attack-idUKKBN23G0MY
 - 01 June 2020. BBC News. Hackers in £800K Bitcoin ransom note to Kent PPE firm. https://www.bbc.co.uk/news/uk-england-kent-52880218#:~:text=A%20gang%20demanded%20an%20%C2%A3,data%20on%20the%20dark%20web
 - 13 May 2020. BBC News. Coronavirus: Cyber-attacks hit hospital construction companies. https://www.bbc.co.uk/news/technology-52646808
 - 6 May 2020. KrebsOnSecurity. Europe’s Largest Private Hospital Operator Fresenius Hit by Ransomware. https://krebsonsecurity.com/2020/05/europes-largest-private-hospital-operator-fresenius-hit-by-ransomware/
