@@ -74,14 +74,14 @@ A collection of Covid-19 related threat intelligence and related resources. Plea
 
 ## Intelligence Reports and Updates
 
-- BBC News. The 'new normal' as cyber-spies navigate pandemic. https://www.bbc.co.uk/news/technology-52992677
-- Financial Times. Sharp spike in HMRC coronavirus scams.  
-- The Guardian. Huge rise in hacking attacks on home workers during lockdown. https://www.ft.com/content/c0918719-cfcb-4b6b-afa7-a1a6baecaf0b https://www.theguardian.com/technology/2020/may/24/hacking-attacks-on-home-workers-see-huge-rise-during-lockdown
 - World Economic Forum. COVID-19 Risks Outlook: A Preliminary Mapping and Its Implications. http://www3.weforum.org/docs/WEF_COVID_19_Risks_Outlook_Special_Edition_Pages.pdf
 - RiskIQ Covid-19 daily update. https://www.riskiq.com/blog/analyst/covid19-daily-update/
 - Silobreaker. Covid-19 Threat Daily Update.  https://www.silobreaker.com/tag/covid19-threat-digest/.
 - Fraud Watch International. Covid-19 Online Scams. https://fraudwatchinternational.com/covid19/
 - KPN Security Research Team https://github.com/KPN-SRT/covid19_cyber_threats
+- 11 June 2020. BBC News. The 'new normal' as cyber-spies navigate pandemic. https://www.bbc.co.uk/news/technology-52992677
+- 4 June 2020. Financial Times. Sharp spike in HMRC coronavirus scams. https://www.ft.com/content/c0918719-cfcb-4b6b-afa7-a1a6baecaf0b 
+- 24 May 2020. The Guardian. Huge rise in hacking attacks on home workers during lockdown. https://www.theguardian.com/technology/2020/may/24/hacking-attacks-on-home-workers-see-huge-rise-during-lockdown
 - 7 May 2020. Palo Alto Unit 42. SilverTerrier: New COVID-19 Themed Business Email Compromise Schemes.  https://unit42.paloaltonetworks.com/silverterrier-covid-19-themed-business-email-compromise/
 - 6 May 2020. Interpol. INTERPOL launches awareness campaign on COVID-19 cyberthreats. https://www.interpol.int/en/News-and-Events/News/2020/INTERPOL-launches-awareness-campaign-on-COVID-19-cyberthreats
 - 5 May 2020. SentinelOne. Threat Intel | Cyber Attacks Leveraging the COVID-19/CoronaVirus Pandemic https://labs.sentinelone.com/threat-intel-update-cyber-attacks-leveraging-the-covid-19-coronavirus-pandemic/
